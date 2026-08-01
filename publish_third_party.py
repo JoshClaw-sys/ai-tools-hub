@@ -16,6 +16,7 @@ Usage:
 Each platform respects canonical URLs (the original article URL is preserved).
 """
 import json
+from datetime import datetime, timezone
 import os
 import sys
 import time
@@ -236,8 +237,8 @@ def publish_devto(article):
                 for t in meta.get("keywords", [])[:4]
             ] or ["buyingguide"],
             # Add UTM param so Dev.to doesn't see this as a duplicate of an
-            # earlier cross-post to the same canonical URL
-            "canonical_url": article["canonical_url"] + "?utm_source=devto",
+            # earlier cross-post to the same canonical URL.
+            "canonical_url": article["canonical_url"] + "?utm_source=devto&v=" + datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S"),
             "series": None,
             "main_image": None,
         }
