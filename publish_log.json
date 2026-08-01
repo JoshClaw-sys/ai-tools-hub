@@ -1,0 +1,94 @@
+{
+  "best-free-ai-tools-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-01T09:29:57.614183+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-01T09:30:32.614516+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-01T09:30:32.614587+00:00"
+    },
+    "Dev.to": {
+      "status": "error",
+      "code": 422,
+      "msg": "{\"error\":\"Canonical url has already been taken. Email support@dev.to for further details. and Title has already been used in the last five minutes\",\"status\":422}",
+      "timestamp": "2026-08-01T09:30:33.603026+00:00"
+    }
+  },
+  "best-llm-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-01T09:31:43.611146+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-01T09:32:18.611507+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-01T09:32:18.611630+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-large-language-models-in-2026-gpt-5-vs-claude-vs-gemini-vs-llama-44h1",
+      "id": 4286447,
+      "timestamp": "2026-08-01T09:32:19.796105+00:00"
+    }
+  },
+  "best-ai-code-assistant-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-01T09:33:29.803429+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-01T09:34:04.803863+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-01T09:34:04.803982+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-code-assistants-in-2026-copilot-vs-cursor-vs-cody-vs-codeium-2g18",
+      "id": 4286454,
+      "timestamp": "2026-08-01T09:34:05.581401+00:00"
+    }
+  },
+  "best-ai-image-generator-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-01T09:35:15.588654+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-01T09:35:50.589025+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-01T09:35:50.589143+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-image-generators-in-2026-midjourney-v7-vs-dall-e-4-vs-stable-diffusion-vs-ideogram-1894",
+      "id": 4286461,
+      "timestamp": "2026-08-01T09:35:51.660668+00:00"
+    }
+  }
+}
