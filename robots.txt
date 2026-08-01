@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joshclaw-sys.github.io/indian-deals/sitemap.xml

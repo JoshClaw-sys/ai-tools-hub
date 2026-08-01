@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Honest, in-depth guides for the best AI tools in 2026 — pricing, features, real testing. Updated weekly.">
+<meta name="keywords" content="best AI tools 2026, AI tools comparison, ChatGPT alternatives, AI image generators, AI code assistants, free AI tools">
+<meta name="author" content="AI Tools Hub Editorial">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="AI Tools Hub — Best AI Tools Ranked (2026)">
+<meta property="og:description" content="Honest, no-fluff reviews of the best AI tools available in 2026. Pricing, features, real testing.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://joshclaw-sys.github.io/ai-tools-hub/">
+<meta name="twitter:card" content="summary_large_image">
+<title>AI Tools Hub — Best AI Tools Ranked (2026)</title>
+<link rel="canonical" href="https://joshclaw-sys.github.io/ai-tools-hub/">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "AI Tools Hub",
+  "url": "https://joshclaw-sys.github.io/ai-tools-hub/",
+  "description": "Honest reviews of the best AI tools in 2026. Pricing, features, real testing.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://joshclaw-sys.github.io/ai-tools-hub/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<style>
+  :root {
+    --bg: #0a0a14;
+    --surface: #11111d;
+    --surface-2: #181826;
+    --ink: #f1f1f5;
+    --ink-2: #a1a1aa;
+    --ink-3: #52525b;
+    --accent: #6366f1;
+    --accent-2: #8b5cf6;
+    --accent-hover: #4f46e5;
+    --border: #1f1f30;
+    --tag-bg: #1a1a2e;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3);
+    --gradient: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #ec4899 100%);
+    --gradient-soft: linear-gradient(135deg, rgba(99,102,241,0.15) 0%, rgba(139,92,246,0.15) 100%);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, sans-serif;
+    background: var(--bg); color: var(--ink); line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+  header.site {
+    background: rgba(17, 17, 29, 0.85);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 0; position: sticky; top: 0; z-index: 100;
+  }
+  .site-head {
+    display: flex; align-items: center; justify-content: space-between; gap: 24px;
+  }
+  .logo {
+    font-size: 22px; font-weight: 800; letter-spacing: -0.02em;
+    color: var(--ink); text-decoration: none;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .logo-mark {
+    width: 28px; height: 28px; border-radius: 7px;
+    background: var(--gradient);
+    display: inline-flex; align-items: center; justify-content: center;
+    font-size: 16px; font-weight: 800; color: white;
+  }
+  .logo span {
+    background: var(--gradient);
+    -webkit-background-clip: text; background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  nav.top { display: flex; gap: 24px; align-items: center; flex-wrap: wrap; }
+  nav.top a {
+    color: var(--ink-2); text-decoration: none; font-size: 14px; font-weight: 500;
+    transition: color 0.2s;
+  }
+  nav.top a:hover { color: var(--accent); }
+
+  .hero {
+    position: relative;
+    background: var(--gradient-soft);
+    padding: 80px 0 64px; overflow: hidden;
+    border-bottom: 1px solid var(--border);
+  }
+  .hero::before {
+    content: ''; position: absolute; inset: 0;
+    background: radial-gradient(ellipse at top, rgba(99,102,241,0.2) 0%, transparent 60%);
+    pointer-events: none;
+  }
+  .hero .container { position: relative; }
+  .hero .pill {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: rgba(99,102,241,0.15); border: 1px solid rgba(99,102,241,0.3);
+    color: var(--accent); padding: 6px 14px; border-radius: 999px;
+    font-size: 12px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.05em; margin-bottom: 20px;
+  }
+  .hero .pill .dot {
+    width: 6px; height: 6px; border-radius: 50%; background: var(--accent);
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+  .hero h1 {
+    font-size: clamp(36px, 5vw, 56px); font-weight: 800;
+    letter-spacing: -0.03em; line-height: 1.05; margin-bottom: 20px;
+  }
+  .hero h1 .gradient {
+    background: var(--gradient);
+    -webkit-background-clip: text; background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .hero p {
+    font-size: 19px; color: var(--ink-2); max-width: 680px;
+    margin-bottom: 28px;
+  }
+  .search-box {
+    display: flex; gap: 8px; max-width: 520px; margin: 8px 0 32px;
+  }
+  .search-box input {
+    flex: 1; padding: 14px 18px; border: 1px solid var(--border);
+    border-radius: 10px; font-size: 15px; background: var(--surface); color: var(--ink);
+  }
+  .search-box input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .search-box button {
+    padding: 14px 24px; background: var(--gradient); color: white;
+    border: none; border-radius: 10px; font-size: 15px; font-weight: 700;
+    cursor: pointer; transition: opacity 0.2s;
+  }
+  .search-box button:hover { opacity: 0.9; }
+  .hero-stats {
+    display: flex; gap: 36px; flex-wrap: wrap; margin-top: 8px;
+  }
+  .hero-stat .num {
+    font-size: 28px; font-weight: 800;
+    background: var(--gradient);
+    -webkit-background-clip: text; background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .hero-stat .lbl {
+    font-size: 13px; color: var(--ink-2);
+    text-transform: uppercase; letter-spacing: 0.05em;
+  }
+
+  section { padding: 64px 0; }
+  .section-head {
+    display: flex; align-items: baseline; justify-content: space-between;
+    margin-bottom: 32px; flex-wrap: wrap; gap: 12px;
+  }
+  .section-head h2 {
+    font-size: 28px; font-weight: 800; letter-spacing: -0.02em;
+  }
+  .section-head a {
+    color: var(--accent); text-decoration: none; font-weight: 500; font-size: 14px;
+  }
+  .section-head a:hover { text-decoration: underline; }
+
+  .grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 14px; padding: 24px;
+    transition: all 0.2s; text-decoration: none; color: inherit;
+    display: flex; flex-direction: column; position: relative; overflow: hidden;
+  }
+  .card:hover {
+    transform: translateY(-3px);
+    border-color: var(--accent);
+    box-shadow: 0 12px 28px rgba(99,102,241,0.2);
+  }
+  .card .tag {
+    display: inline-block; font-size: 11px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    background: var(--tag-bg); color: var(--ink-2);
+    padding: 4px 10px; border-radius: 999px;
+    align-self: flex-start; margin-bottom: 12px;
+  }
+  .card h3 {
+    font-size: 18px; font-weight: 700; line-height: 1.3; margin-bottom: 8px;
+  }
+  .card p { font-size: 14px; color: var(--ink-2); margin-bottom: 16px; flex: 1; }
+  .card .meta {
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 13px; color: var(--ink-3);
+    border-top: 1px solid var(--border); padding-top: 12px;
+  }
+  .card .meta strong { color: var(--ink); }
+  .card .price-free { color: #22c55e !important; font-weight: 700 !important; }
+
+  .budgets { background: var(--surface); }
+  .budget-pills {
+    display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px;
+  }
+  .budget-pills a {
+    padding: 10px 18px; border: 1px solid var(--border);
+    border-radius: 999px; color: var(--ink-2); text-decoration: none;
+    font-size: 14px; font-weight: 500; transition: all 0.2s; background: var(--bg);
+  }
+  .budget-pills a:hover {
+    background: var(--accent); color: white; border-color: var(--accent);
+  }
+
+  .cat-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 12px;
+  }
+  .cat-grid a {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 12px; padding: 22px 16px;
+    text-align: center; text-decoration: none; color: var(--ink);
+    font-weight: 600; font-size: 14px; transition: all 0.2s;
+  }
+  .cat-grid a:hover {
+    border-color: var(--accent); color: var(--accent);
+    transform: translateY(-1px);
+  }
+  .cat-grid .icon { font-size: 28px; display: block; margin-bottom: 6px; }
+
+  .why-different {
+    background: var(--gradient-soft);
+    border-radius: 20px; padding: 48px;
+    margin: 32px 0; border: 1px solid rgba(99,102,241,0.2);
+  }
+  .why-different h2 { font-size: 28px; font-weight: 800; margin-bottom: 24px; }
+  .why-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 24px;
+  }
+  .why-item h3 {
+    font-size: 16px; font-weight: 700; margin-bottom: 8px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .why-item p { font-size: 14px; color: var(--ink-2); }
+
+  footer.site {
+    background: var(--surface); border-top: 1px solid var(--border);
+    padding: 40px 0 24px; margin-top: 60px;
+  }
+  .foot {
+    display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 32px;
+    margin-bottom: 24px;
+  }
+  .foot h4 {
+    color: var(--ink); font-size: 14px; margin-bottom: 12px;
+    text-transform: uppercase; letter-spacing: 0.05em;
+  }
+  .foot a { color: var(--ink-2); text-decoration: none; font-size: 14px; display: block; padding: 4px 0; }
+  .foot a:hover { color: var(--accent); }
+  .foot-about p { font-size: 14px; line-height: 1.6; color: var(--ink-2); }
+  .copyright {
+    border-top: 1px solid var(--border); padding-top: 16px;
+    font-size: 13px; text-align: center; color: var(--ink-3);
+  }
+
+  @media (max-width: 720px) {
+    .foot { grid-template-columns: 1fr 1fr; }
+    nav.top { display: none; }
+    .hero { padding: 48px 0 40px; }
+    .why-different { padding: 28px; }
+  }
+</style>
+</head>
+<body>
+<header class="site">
+  <div class="container site-head">
+    <a href="/" class="logo">
+      <span class="logo-mark">AI</span>
+      <span>AI</span>ToolsHub
+    </a>
+    <nav class="top">
+      <a href="#categories">Categories</a>
+      <a href="#use-cases">By Use Case</a>
+      <a href="#budgets">By Budget</a>
+      <a href="#latest">Latest</a>
+      <a href="#about">About</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <div class="pill"><span class="dot"></span> Updated for August 2026</div>
+    <h1>The best <span class="gradient">AI tools</span><br>in 2026, ranked.</h1>
+    <p>Honest reviews of every AI tool that matters — pricing, features, real testing. No sponsored fluff, no vendor hype.</p>
+    <div class="search-box">
+      <input type="search" id="search" placeholder="What do you need AI to do? e.g. write essays, generate code" aria-label="Search AI guides">
+      <button type="button" onclick="searchSite()">Search</button>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="num">20+</div>
+        <div class="lbl">Guides</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num">18</div>
+        <div class="lbl">Categories</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num">2026</div>
+        <div class="lbl">Updated</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="categories">
+  <div class="container">
+    <div class="section-head">
+      <h2>Browse by category</h2>
+      <a href="#all">View all →</a>
+    </div>
+    <div class="cat-grid">
+      <a href="category/llms.html"><span class="icon">🧠</span>LLMs & Chatbots</a>
+      <a href="category/image-generators.html"><span class="icon">🎨</span>Image Generation</a>
+      <a href="category/video-generators.html"><span class="icon">🎬</span>Video AI</a>
+      <a href="category/code-assistants.html"><span class="icon">💻</span>Code Assistants</a>
+      <a href="category/writing-tools.html"><span class="icon">✍️</span>Writing Tools</a>
+      <a href="category/voice-audio.html"><span class="icon">🎙️</span>Voice & Audio</a>
+      <a href="category/productivity.html"><span class="icon">⚡</span>Productivity</a>
+      <a href="category/research.html"><span class="icon">📚</span>Research</a>
+      <a href="category/translation.html"><span class="icon">🌐</span>Translation</a>
+      <a href="category/image-editing.html"><span class="icon">🖼️</span>Image Editing</a>
+      <a href="category/video-editing.html"><span class="icon">🎞</span>Video Editing</a>
+      <a href="category/music-ai.html"><span class="icon">🎵</span>Music AI</a>
+      <a href="category/design-tools.html"><span class="icon">✨</span>Design Tools</a>
+      <a href="category/data-analysis.html"><span class="icon">📊</span>Data Analysis</a>
+      <a href="category/automation.html"><span class="icon">🤖</span>Automation</a>
+      <a href="category/ai-agents.html"><span class="icon">🕴️</span>AI Agents</a>
+      <a href="category/education.html"><span class="icon">🎓</span>AI for Education</a>
+      <a href="category/business.html"><span class="icon">💼</span>AI for Business</a>
+    </div>
+  </div>
+</section>
+
+<section id="use-cases" class="budgets">
+  <div class="container">
+    <div class="section-head">
+      <h2>Browse by use case</h2>
+      <a href="#all">View all →</a>
+    </div>
+    <div class="budget-pills">
+      <a href="use-case/students.html">For Students</a>
+      <a href="use-case/developers.html">For Developers</a>
+      <a href="use-case/writers.html">For Writers</a>
+      <a href="use-case/marketers.html">For Marketers</a>
+      <a href="use-case/designers.html">For Designers</a>
+      <a href="use-case/video-editors.html">For Video Editors</a>
+      <a href="use-case/researchers.html">For Researchers</a>
+      <a href="use-case/entrepreneurs.html">For Entrepreneurs</a>
+      <a href="use-case/teachers.html">For Teachers</a>
+    </div>
+  </div>
+</section>
+
+<section id="budgets">
+  <div class="container">
+    <div class="section-head">
+      <h2>Browse by budget</h2>
+      <a href="#all">View all →</a>
+    </div>
+    <div class="budget-pills">
+      <a href="budget/under-free.html">Free</a>
+      <a href="budget/under-20.html">Under $20/mo</a>
+      <a href="budget/under-50.html">Under $50/mo</a>
+      <a href="budget/under-100.html">Under $100/mo</a>
+      <a href="budget/under-500.html">Under $500/mo</a>
+      <a href="budget/under-enterprise.html">Enterprise</a>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <div class="why-different">
+    <h2>Why this site is different</h2>
+    <div class="why-grid">
+      <div class="why-item">
+        <h3>🚫 No sponsored fluff</h3>
+        <p>We don't accept payment for placement. If a tool is overhyped, we say so — even if it's a market darling.</p>
+      </div>
+      <div class="why-item">
+        <h3>⚡ Real testing</h3>
+        <p>We actually use every tool we review. Pricing, output quality, edge cases — we test what the marketing pages skip.</p>
+      </div>
+      <div class="why-item">
+        <h3>📅 Updated monthly</h3>
+        <p>AI moves fast. Every guide is reviewed every 60-90 days for accuracy, pricing changes, and new alternatives.</p>
+      </div>
+      <div class="why-item">
+        <h3>🎯 Pick the right tool</h3>
+        <p>Every guide tells you the ONE pick for most people, plus alternatives for specific needs. No "it depends" non-answers.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section id="latest">
+  <div class="container">
+    <div class="section-head">
+      <h2>Latest AI tool guides</h2>
+      <a href="#all">View all →</a>
+    </div>
+    <div class="grid" id="latest-grid"></div>
+  </div>
+</section>
+
+<section id="about">
+  <div class="container" style="max-width: 760px;">
+    <h2 style="font-size: 28px; font-weight: 800; margin-bottom: 16px;">About AI Tools Hub</h2>
+    <p style="font-size: 16px; color: var(--ink-2); margin-bottom: 16px;">
+      AI Tools Hub is the no-nonsense guide to the AI tools that actually matter in 2026. We cut through vendor marketing and Reddit hype to recommend the right tool for each job — based on real testing, not affiliate payouts.
+    </p>
+    <p style="font-size: 16px; color: var(--ink-2); margin-bottom: 16px;">
+      When you sign up for a tool through our links, we may earn a small commission at no extra cost to you. That keeps the site running. <a href="disclosure.html" style="color: var(--accent);">Read our full disclosure policy</a>.
+    </p>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="container">
+    <div class="foot">
+      <div class="foot-about">
+        <h4>AI Tools Hub</h4>
+        <p>Honest AI tool reviews. Updated 2026.</p>
+      </div>
+      <div>
+        <h4>Categories</h4>
+        <a href="category/llms.html">LLMs & Chatbots</a>
+        <a href="category/image-generators.html">Image Generation</a>
+        <a href="category/code-assistants.html">Code Assistants</a>
+        <a href="category/writing-tools.html">Writing Tools</a>
+      </div>
+      <div>
+        <h4>Use Cases</h4>
+        <a href="use-case/students.html">Students</a>
+        <a href="use-case/developers.html">Developers</a>
+        <a href="use-case/writers.html">Writers</a>
+        <a href="use-case/marketers.html">Marketers</a>
+      </div>
+      <div>
+        <h4>Site</h4>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="disclosure.html">Disclosure</a>
+        <a href="privacy.html">Privacy</a>
+      </div>
+    </div>
+    <div class="copyright">© 2026 AI Tools Hub. All rights reserved.</div>
+  </div>
+</footer>
+
+<script>
+  const articles = [
+    { slug: 'best-free-ai-tools-2026', title: 'Best Free AI Tools in 2026', desc: '20+ free AI tools you can use today — no credit card, no trial period, fully featured.', tag: 'Free', price: 'Free', time: '12 min', category: 'llms' },
+    { slug: 'best-llm-2026', title: 'Best Large Language Models in 2026', desc: 'GPT-5 vs Claude 4 vs Gemini 2 vs Llama 4 — benchmarks and real-world testing.', tag: 'LLMs', price: 'Free–$20', time: '15 min', category: 'llms' },
+    { slug: 'best-ai-image-generator-2026', title: 'Best AI Image Generators in 2026', desc: 'Midjourney v7 vs DALL-E 4 vs Stable Diffusion 4 vs Ideogram — tested.', tag: 'Images', price: 'Free–$30', time: '11 min', category: 'image-generators' },
+    { slug: 'best-ai-code-assistant-2026', title: 'Best AI Code Assistants in 2026', desc: 'GitHub Copilot vs Cursor vs Cody vs Codeium — real coding benchmarks.', tag: 'Coding', price: 'Free–$20', time: '13 min', category: 'code-assistants' },
+    { slug: 'best-ai-writing-tool-2026', title: 'Best AI Writing Tools in 2026', desc: 'Jasper vs Copy.ai vs Writesonic vs ChatGPT — which is actually worth paying for.', tag: 'Writing', price: 'Free–$50', time: '10 min', category: 'writing-tools' },
+    { slug: 'best-ai-video-generator-2026', title: 'Best AI Video Generators in 2026', desc: 'Runway Gen-4 vs Pika vs Sora vs Kling — feature and quality comparison.', tag: 'Video', price: 'Free–$30', time: '12 min', category: 'video-generators' },
+    { slug: 'best-ai-voice-generator-2026', title: 'Best AI Voice Generators in 2026', desc: 'ElevenLabs, Murf, PlayHT, Suno — quality, languages, and pricing tested.', tag: 'Voice', price: 'Free–$30', time: '9 min', category: 'voice-audio' },
+    { slug: 'best-ai-for-students-2026', title: 'Best AI Tools for Students in 2026', desc: 'Free and cheap AI tools that actually help with study, assignments, and research.', tag: 'Students', price: 'Free–$10', time: '10 min', category: 'education' },
+  ];
+  function renderCards(target, slice) {
+    const el = document.getElementById(target);
+    if (!el) return;
+    el.innerHTML = slice.map(a => `
+      <a href="articles/${a.slug}.html" class="card">
+        <span class="tag">${a.tag}</span>
+        <h3>${a.title}</h3>
+        <p>${a.desc}</p>
+        <div class="meta"><span class="${a.price === 'Free' ? 'price-free' : ''}"><strong>${a.price}</strong></span><span>${a.time} read</span></div>
+      </a>
+    `).join('');
+  }
+  renderCards('latest-grid', articles);
+  function searchSite() {
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    if (!q) return;
+    const match = articles.find(a =>
+      a.title.toLowerCase().includes(q) || a.desc.toLowerCase().includes(q) || a.category.includes(q)
+    );
+    if (match) window.location.href = `articles/${match.slug}.html`;
+    else alert('No guide yet for that search. Try "ChatGPT", "image generator", "student", or check back soon.');
+  }
+  document.getElementById('search').addEventListener('keypress', e => { if (e.key === 'Enter') searchSite(); });
+</script>
+</body>
+</html>

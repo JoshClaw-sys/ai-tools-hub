@@ -1,0 +1,53 @@
+{
+  "slug": "best-llm-2026",
+  "title": "Best Large Language Models in 2026: GPT-5 vs Claude vs Gemini vs Llama",
+  "short_title": "Best LLMs",
+  "description": "The flagship LLMs of 2026 ranked — benchmarks, real-world testing, pricing, and which to use for what.",
+  "short_desc": "GPT-5 vs Claude 4.5 vs Gemini 2 Pro vs Llama 4 — tested.",
+  "keywords": [
+    "best LLM 2026",
+    "GPT-5",
+    "Claude 4.5",
+    "Gemini 2",
+    "Llama 4"
+  ],
+  "category": "llms",
+  "tag": "LLMs",
+  "price": "Free–$200",
+  "read_time": "18 min",
+  "date": "2026-08-01",
+  "modified": "2026-08-01",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "landscape",
+      "text": "The 2026 LLM landscape"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top picks for 2026"
+    },
+    {
+      "id": "benchmarks",
+      "text": "How we tested"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which LLM is best overall?",
+      "a": "For most tasks in 2026, GPT-5 and Claude 4.5 Sonnet are tied at the top — choose based on your workflow. GPT-5 is better for code + agentic tasks; Claude 4.5 is better for writing, analysis, and long-context work."
+    },
+    {
+      "q": "Is the free tier enough?",
+      "a": "For casual use, yes. The free tiers of ChatGPT, Claude.ai, and Gemini give you access to slightly older but still excellent models. For production work or daily coding, paid tiers ($20/mo) are worth it."
+    },
+    {
+      "q": "What about open-source LLMs?",
+      "a": "Llama 4 70B and Mistral Large 2 are the best open-source options as of 2026. They require GPU hosting (~$50-200/mo on cloud providers) or local hardware, but give you full control and no API rate limits."
+    }
+  ]
+}

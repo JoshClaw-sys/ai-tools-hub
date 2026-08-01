@@ -1,0 +1,51 @@
+{
+  "slug": "best-ai-code-assistant-2026",
+  "title": "Best AI Code Assistants in 2026: Copilot vs Cursor vs Cody vs Codeium",
+  "short_title": "Best AI Code Assistants",
+  "description": "Real coding benchmarks — GitHub Copilot, Cursor, Cody, Codeium, Windsurf, Tabnine compared on Python, TypeScript, Rust.",
+  "short_desc": "Copilot vs Cursor vs Cody vs Codeium — coding benchmarks.",
+  "keywords": [
+    "AI code assistant",
+    "GitHub Copilot",
+    "Cursor",
+    "Cody",
+    "Codeium",
+    "Windsurf",
+    "Tabnine"
+  ],
+  "category": "code-assistants",
+  "tag": "Coding",
+  "price": "Free–$20",
+  "read_time": "13 min",
+  "date": "2026-08-01",
+  "modified": "2026-08-01",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "criteria",
+      "text": "What makes a great AI code assistant"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top picks"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Will AI code assistants replace programmers?",
+      "a": "No — they make good programmers 30-50% more productive. They can't yet design systems, make architectural decisions, or debug novel issues without guidance."
+    },
+    {
+      "q": "Which is best for a team?",
+      "a": "GitHub Copilot for established teams (deep GitHub integration). Cursor for solo developers or startups who want a complete IDE experience."
+    },
+    {
+      "q": "Are my code and prompts used for training?",
+      "a": "On free tiers: usually yes. On paid business tiers: typically no (opt-out is standard). Always check each tool's data policy before using proprietary code."
+    }
+  ]
+}
