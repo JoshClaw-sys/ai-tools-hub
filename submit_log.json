@@ -90,6 +90,12 @@
       "url": "https://aidirs.best/submit",
       "reason": "no_form_detected",
       "da": 25
+    },
+    {
+      "name": "AI Parabellum",
+      "url": "https://aiparabellum.com/submit",
+      "reason": "no_form_detected",
+      "da": 25
     }
   ],
   "rejected": [
