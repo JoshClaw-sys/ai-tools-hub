@@ -94,47 +94,104 @@ async def submit_one(browser, directory):
         await page.goto(url, wait_until="domcontentloaded", timeout=30000)
         await page.wait_for_timeout(3000)  # Let JS render
 
-        # Take a screenshot for debugging
-        screenshot_path = SCREENSHOTS_DIR / f"{name.replace(' ', '_').lower()}.png"
+        # Take initial screenshot
+        screenshot_path = SCREENSHOTS_DIR / f"{name.replace(' ', '_').lower()}_initial.png"
         try:
             await page.screenshot(path=str(screenshot_path), full_page=False)
+        except Exception:
+            pass
+
+        # Look for a "Get Free Listing" / "Add" / "Submit a Tool" button that reveals the form
+        reveal_buttons = ["Get Free Listing", "Add Your Tool", "Submit a Tool", "Suggest", "Get Started"]
+        for btn_text in reveal_buttons:
+            try:
+                btn = page.get_by_role("button", name=btn_text, exact=False).first
+                if await btn.count() > 0:
+                    await btn.click()
+                    await page.wait_for_timeout(2000)
+                    print(f"  → Clicked '{btn_text}' to reveal form")
+                    break
+            except Exception:
+                pass
+
+        # Scroll to bottom to ensure lazy-loaded forms are rendered
+        try:
+            await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            await page.wait_for_timeout(1500)
         except Exception:
             pass
 
         # Find and fill the form
         filled = 0
 
-        url_field = find_field_by_label(page, FIELD_PATTERNS["url"])
-        if url_field:
-            await url_field.fill(SITE_INFO["url"])
-            filled += 1
+        # Try to find ALL input/textarea fields (broader approach)
+        all_inputs = await page.locator('input[type="text"], input[type="email"], input[type="url"], textarea').all()
+        print(f"  Found {len(all_inputs)} input fields on page")
 
-        name_field = find_field_by_label(page, FIELD_PATTERNS["name"])
-        if name_field:
-            await name_field.fill(SITE_INFO["name"])
-            filled += 1
-
-        desc_field = find_field_by_label(page, FIELD_PATTERNS["description"])
-        if desc_field:
-            await desc_field.fill(SITE_INFO["description"][:500])  # Most have char limits
-            filled += 1
-
-        email_field = find_field_by_label(page, FIELD_PATTERNS["email"])
-        if email_field:
-            await email_field.fill(SITE_INFO["email"])
-            filled += 1
-
-        cat_field = find_field_by_label(page, FIELD_PATTERNS["category"])
-        if cat_field:
+        # Map inputs to values based on label association
+        for inp in all_inputs:
             try:
-                await cat_field.select_option(label=SITE_INFO["category"])
-            except Exception:
+                inp_type = await inp.get_attribute("type") or "text"
+                inp_name = await inp.get_attribute("name") or ""
+                inp_placeholder = await inp.get_attribute("placeholder") or ""
+
+                # Try to find associated label
+                inp_id = await inp.get_attribute("id")
+                label_text = ""
+                if inp_id:
+                    try:
+                        label = page.locator(f'label[for="{inp_id}"]')
+                        if await label.count() > 0:
+                            label_text = await label.first.inner_text()
+                    except Exception:
+                        pass
+
+                combined = f"{inp_name} {inp_placeholder} {label_text}".lower()
+
+                # URL field
+                if (inp_type == "url" or
+                    "url" in combined or "website" in combined or "link" in combined or
+                    "site" in combined):
+                    await inp.fill(SITE_INFO["url"])
+                    filled += 1
+                    print(f"    ✓ URL → {SITE_INFO['url'][:40]}")
+                # Name field
+                elif "name" in combined and "tool" not in combined.replace("tool_name", ""):
+                    if "tool" in combined or inp_name:
+                        await inp.fill(SITE_INFO["name"])
+                        filled += 1
+                        print(f"    ✓ Name → {SITE_INFO['name']}")
+                # Description field
+                elif "desc" in combined or "summary" in combined or "about" in combined:
+                    await inp.fill(SITE_INFO["description"][:500])
+                    filled += 1
+                    print(f"    ✓ Description (truncated)")
+                # Email field
+                elif inp_type == "email" or "email" in combined or "contact" in combined:
+                    await inp.fill(SITE_INFO["email"])
+                    filled += 1
+                    print(f"    ✓ Email")
+            except Exception as e:
+                pass
+
+        # Also try the original label-based approach (more reliable)
+        if filled < 3:
+            for kw, value in [
+                ("url", SITE_INFO["url"]),
+                ("name", SITE_INFO["name"]),
+                ("title", SITE_INFO["name"]),
+                ("description", SITE_INFO["description"][:500]),
+                ("email", SITE_INFO["email"]),
+            ]:
                 try:
-                    await cat_field.fill(SITE_INFO["category"])
+                    field = page.get_by_label(kw, exact=False).first
+                    if await field.count() > 0:
+                        await field.fill(value)
+                        filled += 1
                 except Exception:
                     pass
 
-        print(f"  Fields filled: {filled}/5")
+        print(f"  Fields filled: {filled}")
         print(f"  Screenshot: {screenshot_path.name}")
 
         if filled == 0:
@@ -143,7 +200,7 @@ async def submit_one(browser, directory):
 
         # Find and click submit button
         submit_button = None
-        for button_text in ["submit", "add", "suggest", "send", "save", "continue"]:
+        for button_text in ["submit", "add", "send", "save", "🚀"]:
             try:
                 btn = page.get_by_role("button", name=button_text, exact=False)
                 if await btn.count() > 0:
@@ -151,43 +208,37 @@ async def submit_one(browser, directory):
                     break
             except Exception:
                 pass
-            try:
-                btn = page.locator(f'input[type="submit"][value*="{button_text}" i], button[type="submit"]').first
-                if await btn.count() > 0:
-                    submit_button = btn
-                    break
-            except Exception:
-                pass
 
         if not submit_button:
-            # Try any button with type=submit
             submit_button = page.locator('button[type="submit"], input[type="submit"]').first
 
         if submit_button:
-            await submit_button.click()
-            await page.wait_for_timeout(5000)  # Wait for form submission
-
-            # Take after-submit screenshot
-            after_path = SCREENSHOTS_DIR / f"{name.replace(' ', '_').lower()}_after.png"
             try:
-                await page.screenshot(path=str(after_path), full_page=False)
-            except Exception:
-                pass
+                await submit_button.click()
+                await page.wait_for_timeout(8000)  # Wait for form submission
 
-            # Check for success indicators
-            content = await page.content()
-            success_indicators = ["thank you", "success", "submitted", "received", "we'll review"]
-            if any(ind in content.lower() for ind in success_indicators):
-                print(f"  ✓ Submission appears successful!")
-                return True, "submitted"
-            else:
-                # Check current URL — many sites redirect to a thank-you page
-                current_url = page.url
-                if any(ind in current_url.lower() for ind in ["thank", "success", "submitted"]):
-                    print(f"  ✓ Redirected to success page!")
+                # Take after-submit screenshot
+                after_path = SCREENSHOTS_DIR / f"{name.replace(' ', '_').lower()}_after.png"
+                try:
+                    await page.screenshot(path=str(after_path), full_page=False)
+                except Exception:
+                    pass
+
+                content = await page.content()
+                success_indicators = ["thank you", "success", "submitted", "received", "we'll review", "we will review"]
+                if any(ind in content.lower() for ind in success_indicators):
+                    print(f"  ✓ Submission appears successful!")
                     return True, "submitted"
-                print(f"  ? Submission attempted, result unclear. Check screenshots.")
-                return "uncertain", "ambiguous_response"
+                else:
+                    current_url = page.url
+                    if any(ind in current_url.lower() for ind in ["thank", "success", "submitted"]):
+                        print(f"  ✓ Redirected to success page!")
+                        return True, "submitted"
+                    print(f"  ? Submission attempted, result unclear. Check screenshots.")
+                    return "uncertain", "ambiguous_response"
+            except Exception as e:
+                print(f"  ✗ Submit click failed: {e}")
+                return False, str(e)[:100]
         else:
             print(f"  ⚠ No submit button found — needs manual submission")
             return "manual", "no_submit_button"
@@ -217,7 +268,23 @@ async def main():
             log["manual_needed"] = log.pop("pending", [])
 
     # Directory list — same as before, but now using real browser
+    # Smaller directories without bot protection (verified 2026-08-02)
     DIRECTORIES = [
+        {"name": "TheNextAI", "url": "https://www.thenextai.com/submit-ai-tool/", "da": 35,
+         "fields": ["Tool Name", "Website URL", "Category", "Pricing Model", "Short Description", "Full Description", "Logo URL", "Your Email", "Tags"]},
+        {"name": "ToolsLand", "url": "https://www.toolsland.ai/submit-ai-tool-free", "da": 25,
+         "fields": ["name", "url", "description", "email", "category"]},
+        {"name": "Stork", "url": "https://www.stork.ai/submit-ai-tool-free", "da": 25,
+         "fields": ["name", "url", "description", "email"]},
+        {"name": "AIToolsSync", "url": "https://aitoolsync.com/submit-a-tool", "da": 25,
+         "fields": ["name", "url", "description", "email", "category"]},
+        {"name": "AIToolsDirectory", "url": "https://www.aitools-directory.com/submit-your-ai-tool-get-listed-on-ai-tools-directory/", "da": 25,
+         "fields": ["name", "url", "description", "email"]},
+        {"name": "PromptFrenzy", "url": "https://www.promptfrenzy.com/directory/submit", "da": 20,
+         "fields": ["name", "url", "description", "email"]},
+        {"name": "AIBazaar", "url": "https://ai-bazaar-eight.vercel.app/submit", "da": 20,
+         "fields": ["name", "url", "description", "email"]},
+        # Larger directories (likely bot-protected, but worth trying)
         {"name": "Futurepedia", "url": "https://www.futurepedia.io/submit-tool", "da": 55},
         {"name": "AI Top Tools", "url": "https://www.aitoptools.com/submit", "da": 40},
         {"name": "AllAboutAI", "url": "https://www.allaboutai.com/submit-tool/", "da": 70},

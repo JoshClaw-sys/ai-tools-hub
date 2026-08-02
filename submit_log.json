@@ -1,5 +1,26 @@
 {
-  "submitted": {},
+  "submitted": {
+    "TheNextAI": {
+      "url": "https://www.thenextai.com/submit-ai-tool/",
+      "da": 35,
+      "submitted_at": "2026-08-02T15:02:55.882056Z",
+      "status": "ok",
+      "method": "playwright_browser"
+    },
+    "ToolsLand": {
+      "url": "https://www.toolsland.ai/submit-ai-tool-free",
+      "da": 25,
+      "submitted_at": "2026-08-02T15:03:16.585729Z",
+      "status": "uncertain"
+    },
+    "Stork": {
+      "url": "https://www.stork.ai/submit-ai-tool-free",
+      "da": 25,
+      "submitted_at": "2026-08-02T15:03:35.618933Z",
+      "status": "ok",
+      "method": "playwright_browser"
+    }
+  },
   "rejected": [
     {
       "name": "Futurepedia",
@@ -105,6 +126,11 @@
       "name": "GPTForge",
       "url": "https://gptforge.ai/submit",
       "reason": "unreachable: None"
+    },
+    {
+      "name": "AIToolsSync",
+      "url": "https://aitoolsync.com/submit-a-tool",
+      "reason": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[type=\\\"submit\\\"],"
     }
   ],
   "manual_needed": [
@@ -221,6 +247,31 @@
       "url": "https://www.allaboutai.com/submit-tool/",
       "reason": "no_fields_found",
       "da": 70
+    },
+    {
+      "name": "AIToolsSync",
+      "url": "https://aitoolsync.com/submit-a-tool",
+      "reason": "no_fields_found",
+      "da": 25
+    },
+    {
+      "name": "AIToolsDirectory",
+      "url": "https://www.aitools-directory.com/submit-your-ai-tool-get-listed-on-ai-tools-directory/",
+      "reason": "no_fields_found",
+      "da": 25
+    },
+    {
+      "name": "PromptFrenzy",
+      "url": "https://www.promptfrenzy.com/directory/submit",
+      "reason": "no_fields_found",
+      "da": 20
+    },
+    {
+      "name": "AIBazaar",
+      "url": "https://ai-bazaar-eight.vercel.app/submit",
+      "reason": "no_fields_found",
+      "da": 20
     }
-  ]
+  ],
+  "pending": []
 }
