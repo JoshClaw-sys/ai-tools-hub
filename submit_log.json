@@ -10,7 +10,7 @@
     "ToolsLand": {
       "url": "https://www.toolsland.ai/submit-ai-tool-free",
       "da": 25,
-      "submitted_at": "2026-08-02T15:03:16.585729Z",
+      "submitted_at": "2026-08-02T15:05:17.084171Z",
       "status": "uncertain"
     },
     "Stork": {
@@ -19,6 +19,68 @@
       "submitted_at": "2026-08-02T15:03:35.618933Z",
       "status": "ok",
       "method": "playwright_browser"
+    },
+    "AIToolsDirectory": {
+      "url": "https://www.aitools-directory.com/submit-your-ai-tool-get-listed-on-ai-tools-directory/",
+      "da": 25,
+      "submitted_at": "2026-08-02T15:06:27.885346Z",
+      "status": "ok",
+      "method": "playwright_browser"
+    },
+    "PromptFrenzy": {
+      "url": "https://www.promptfrenzy.com/directory/submit",
+      "da": 20,
+      "submitted_at": "2026-08-02T15:06:46.956085Z",
+      "status": "ok",
+      "method": "playwright_browser"
+    },
+    "AIBazaar": {
+      "url": "https://ai-bazaar-eight.vercel.app/submit",
+      "da": 20,
+      "submitted_at": "2026-08-02T15:07:05.743086Z",
+      "status": "ok",
+      "method": "playwright_browser"
+    },
+    "Appscribed": {
+      "url": "https://appscribed.com/submit-tool/",
+      "da": 60,
+      "submitted_at": "2026-08-02T15:10:48.001233Z",
+      "status": "ok",
+      "method": "playwright_browser"
+    },
+    "AI Nav": {
+      "url": "https://ai-nav.net/submit",
+      "da": 25,
+      "submitted_at": "2026-08-02T15:13:52.219960Z",
+      "status": "ok",
+      "method": "playwright_browser"
+    },
+    "AI Sites": {
+      "url": "https://ai-sites.net/submit",
+      "da": 25,
+      "submitted_at": "2026-08-02T15:15:17.857583Z",
+      "status": "ok",
+      "method": "playwright_browser"
+    },
+    "AI Hub": {
+      "url": "https://aihubs.ai/submit",
+      "da": 30,
+      "submitted_at": "2026-08-02T15:15:40.995057Z",
+      "status": "ok",
+      "method": "playwright_browser"
+    },
+    "AI Dir": {
+      "url": "https://aidir.wiki/submit",
+      "da": 25,
+      "submitted_at": "2026-08-02T15:20:18.299648Z",
+      "status": "ok",
+      "method": "playwright_browser"
+    },
+    "AI Kaptan": {
+      "url": "https://aikaptan.com/submit",
+      "da": 30,
+      "submitted_at": "2026-08-02T15:20:38.959094Z",
+      "status": "uncertain"
     }
   },
   "rejected": [
@@ -131,6 +193,36 @@
       "name": "AIToolsSync",
       "url": "https://aitoolsync.com/submit-a-tool",
       "reason": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[type=\\\"submit\\\"],"
+    },
+    {
+      "name": "AIToolsSync",
+      "url": "https://aitoolsync.com/submit-a-tool",
+      "reason": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[type=\\\"submit\\\"],"
+    },
+    {
+      "name": "Best AI Tools",
+      "url": "https://bestai.tools/submit",
+      "reason": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://bestai.tools/submit\", wait"
+    },
+    {
+      "name": "Toolify",
+      "url": "https://www.toolify.ai/submit",
+      "reason": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[type=\\\"submit\\\"],"
+    },
+    {
+      "name": "Insidr AI",
+      "url": "https://www.insidr.ai/submit",
+      "reason": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"send\""
+    },
+    {
+      "name": "AI Hunt List",
+      "url": "https://aihuntlist.com/submit",
+      "reason": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[type=\\\"submit\\\"],"
+    },
+    {
+      "name": "AI Tool List",
+      "url": "https://ai-tool-list.com/submit",
+      "reason": "Page.goto: net::ERR_CONNECTION_CLOSED at https://ai-tool-list.com/submit\nCall log:\n  - navigating to"
     }
   ],
   "manual_needed": [
@@ -271,6 +363,66 @@
       "url": "https://ai-bazaar-eight.vercel.app/submit",
       "reason": "no_fields_found",
       "da": 20
+    },
+    {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/submit-tool",
+      "reason": "no_fields_found",
+      "da": 55
+    },
+    {
+      "name": "AI Top Tools",
+      "url": "https://www.aitoptools.com/submit",
+      "reason": "no_fields_found",
+      "da": 40
+    },
+    {
+      "name": "AllAboutAI",
+      "url": "https://www.allaboutai.com/submit-tool/",
+      "reason": "no_fields_found",
+      "da": 70
+    },
+    {
+      "name": "TopAI.tools",
+      "url": "https://topai.tools/submit",
+      "reason": "no_fields_found",
+      "da": 35
+    },
+    {
+      "name": "AIChief",
+      "url": "https://aichief.com/submit",
+      "reason": "no_fields_found",
+      "da": 35
+    },
+    {
+      "name": "AI Tool Flow",
+      "url": "https://ai-toolflow.com/submit",
+      "reason": "no_fields_found",
+      "da": 35
+    },
+    {
+      "name": "AI Tool Hunt",
+      "url": "https://aitoolhunt.com/submit",
+      "reason": "no_fields_found",
+      "da": 35
+    },
+    {
+      "name": "FutureTools",
+      "url": "https://futuretools.io/submit",
+      "reason": "no_fields_found",
+      "da": 35
+    },
+    {
+      "name": "AI Tools Directory",
+      "url": "https://aitoolsdirectory.com/submit",
+      "reason": "no_fields_found",
+      "da": 30
+    },
+    {
+      "name": "AI Directory Wiki",
+      "url": "https://aidirectory.wiki/submit",
+      "reason": "no_fields_found",
+      "da": 30
     }
   ],
   "pending": []
