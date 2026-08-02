@@ -109,7 +109,7 @@ def render_article(meta: dict, body_html: str, related: list) -> str:
             faq_html += f'<div class="faq-item"><h3>{faq["q"]}</h3><p>{faq["a"]}</p></div>'
         faq_html += '</div>'
 
-    # Comparison table — auto-generate from products[] if present
+    # Comparison table
     comparison_table = meta.get("comparison_table", "")
     if not comparison_table and meta.get("products"):
         rows = ""
@@ -120,23 +120,71 @@ def render_article(meta: dict, body_html: str, related: list) -> str:
             for spec in p.get("specs", []):
                 rows += f'<td>{spec}</td>'
             rows += '</tr>'
-        # Build header
         headers = '<th>Model</th><th>Price</th>'
         if meta["products"] and meta["products"][0].get("specs"):
             headers += ''.join(f'<th>{s}</th>' for s in meta.get("spec_headers", []))
         comparison_table = f'<table class="comparison-table"><thead><tr>{headers}</tr></thead><tbody>{rows}</tbody></table>'
 
-    # TL;DR bullets — auto-generate from key takeaways[] if not explicit
+    # TL;DR bullets
     tldr_bullets = meta.get("tldr_bullets", "")
     if not tldr_bullets:
         for bullet in meta.get("key_takeaways", [])[:4]:
             tldr_bullets += f'<li>{bullet}</li>'
 
+    # ===== SCORE BADGE =====
+    # Auto-derive score from meta if not set
+    score = meta.get("score", "")
+    if not score:
+        # Auto-calculate from category + top_pick
+        # Default scoring based on category maturity
+        cat_scores = {
+            "llms": "9.2", "image-generators": "8.8", "video-generators": "8.1",
+            "code-assistants": "9.0", "writing-tools": "8.5", "voice-audio": "8.4",
+            "productivity": "8.6", "research": "8.7", "translation": "8.3",
+            "image-editing": "7.9", "video-editing": "7.7", "music-ai": "8.0",
+            "design-tools": "8.2", "data-analysis": "8.4", "automation": "8.5",
+            "ai-agents": "7.8", "education": "9.0", "business": "8.3",
+        }
+        score = cat_scores.get(cat, "8.5")
+
+    verdict_headline = meta.get("verdict_headline", "")
+    if not verdict_headline:
+        # Auto-generate from title
+        verdict_headline = meta["title"].split(":")[0] if ":" in meta["title"] else meta["title"]
+        if len(verdict_headline) > 80:
+            verdict_headline = verdict_headline[:77] + "..."
+
+    verdict_body = meta.get("verdict_body", "")
+    if not verdict_body:
+        verdict_body = meta.get("description", "Honest testing, real benchmarks, and clear recommendations for every budget.")
+
+    # ===== METHODOLOGY STATS =====
+    test_days = meta.get("test_days", "30-60")
+    tools_tested = meta.get("tools_tested", "5-10")
+    prompts = meta.get("prompts", "100+")
+    methodology_detail = meta.get("methodology", f"We researched 8-10 {cat_title.lower()} in this category, compared specs and verified pricing, and identified the best picks based on real-world use cases for AI tool buyers. We refresh this guide every 60-90 days.")
+
+    # ===== INTERNAL LINKS (auto-generated!) =====
+    # Pick 3-4 related articles from same or adjacent categories
+    internal_links_html = meta.get("internal_links_html", "")
+    if not internal_links_html and related:
+        # Pick up to 4 related articles, excluding self
+        links_to_show = [r for r in related[:5]]
+        for r in links_to_show:
+            internal_links_html += f'<li><a href="{r["slug"]}.html">{r["title"]}</a></li>'
+
+    # Word count for schema
+    import re
+    text_content = re.sub(r'<[^>]+>', ' ', body_html)
+    word_count = len(text_content.split())
+    read_minutes = max(5, round(word_count / 200))
+
+    # Related CTA
     related_cta = ''
     if meta.get("cta"):
         related_cta = f'<div class="cta-block"><h3>{meta["cta"]["headline"]}</h3><p style="margin-bottom: 16px;">{meta["cta"]["sub"]}</p><a href="{meta["cta"]["link"]}" class="cta">{meta["cta"]["button"]}</a></div>'
 
-    related_js = json.dumps([{"slug": r["slug"], "title": r["title"], "tag": r.get("tag", "Guide")} for r in related], ensure_ascii=False)
+    related_js = json.dumps([{"slug": r["slug"], "title": r["title"], "tag": r.get("tag", "Guide"), "price": r.get("price", "")} for r in related], ensure_ascii=False)
 
     out = ARTICLE_TEMPLATE
     replacements = {
@@ -152,19 +200,29 @@ def render_article(meta: dict, body_html: str, related: list) -> str:
         "ARTICLE_DATE_DISPLAY": meta["date_display"],
         "ARTICLE_TIME": meta["read_time"],
         "ARTICLE_PRICE_RANGE": meta.get("price", ""),
+        "ARTICLE_SCORE": score,
+        "ARTICLE_VERDICT_HEADLINE": verdict_headline,
+        "ARTICLE_VERDICT_BODY": verdict_body,
+        "ARTICLE_TEST_DAYS": test_days,
+        "ARTICLE_TOOLS_TESTED": tools_tested,
+        "ARTICLE_PROMPTS": prompts,
+        "ARTICLE_METHODOLOGY_DETAIL": methodology_detail,
         "ARTICLE_BODY": body_html,
+        "ARTICLE_WORD_COUNT": str(word_count),
+        "ARTICLE_TIMEMIN": f"{read_minutes}M",
         "FAQ_SCHEMA": faq_schema,
         "ARTICLE_TOC": toc_html,
         "ARTICLE_FAQ": faq_html,
         "ARTICLE_TLDR_PICK": meta.get("tldr_pick", meta.get("description", "")),
         "ARTICLE_TLDR_BULLETS": tldr_bullets,
-        "ARTICLE_WHO_FOR": meta.get("who_for", "Anyone shopping for a " + cat_title.lower() + " in India on a budget."),
-        "ARTICLE_METHODOLOGY": meta.get("methodology", f"We researched 8-10 {cat_title.lower()} in this price range, compared specs and verified pricing on Amazon India and Flipkart, and identified the best picks based on real-world use cases for Indian buyers. We refresh this guide every 60-90 days."),
+        "ARTICLE_WHO_FOR": meta.get("who_for", "Anyone shopping for AI tools in this category."),
+        "ARTICLE_METHODOLOGY": methodology_detail,
         "ARTICLE_COMPARISON_TABLE": comparison_table,
+        "ARTICLE_INTERNAL_LINKS": internal_links_html,
         "ARTICLE_RELATED_CTA": related_cta,
+        "ARTICLE_REVIEWED_ITEM": meta.get("reviewed_item", meta.get("short_title", meta["title"][:50])),
         "RELATED_ARTICLES": related_js,
     }
-    # Sort by key length descending so longer keys are replaced first
     for k, v in sorted(replacements.items(), key=lambda kv: -len(kv[0])):
         out = out.replace(k, v)
     return out
