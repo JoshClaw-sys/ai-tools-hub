@@ -72,17 +72,17 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-01T10:02:03.230986+00:00"
+      "timestamp": "2026-08-02T13:56:41.994160+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-01T10:02:38.231256+00:00"
+      "timestamp": "2026-08-02T13:57:16.994471+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-01T10:02:38.231373+00:00"
+      "timestamp": "2026-08-02T13:57:16.994561+00:00"
     },
     "Dev.to": {
       "status": "ok",
