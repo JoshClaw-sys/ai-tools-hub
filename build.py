@@ -307,6 +307,41 @@ def build():
         out_path.write_text(html)
         print(f"  ✓ articles/{art['slug']}.html")
 
+    # ---- Render long-tail pages ----
+    (OUT / "long-tail").mkdir(exist_ok=True)
+    for lt_dir in (ROOT / "long-tail").iterdir():
+        if not lt_dir.is_dir():
+            continue
+        meta_file = lt_dir / "meta.json"
+        body_file = lt_dir / "body.html"
+        if not meta_file.exists() or not body_file.exists():
+            continue
+        meta = json.loads(meta_file.read_text())
+        body_html = body_file.read_text()
+        related = render_related(meta, articles)
+        html = render_article(meta, body_html, related)
+        out_path = OUT / "long-tail" / f"{lt_dir.name}.html"
+        out_path.write_text(html)
+        print(f"  ✓ long-tail/{lt_dir.name}.html")
+
+    # ---- Render comparison pages ----
+    (OUT / "comparisons").mkdir(exist_ok=True)
+    for comp_dir in (ROOT / "comparisons").iterdir():
+        if not comp_dir.is_dir():
+            continue
+        meta_file = comp_dir / "meta.json"
+        body_file = comp_dir / "body.html"
+        if not meta_file.exists() or not body_file.exists():
+            continue
+        meta = json.loads(meta_file.read_text())
+        body_html = body_file.read_text()
+        # Find related articles for internal linking
+        related = render_related(meta, articles)
+        html = render_article(meta, body_html, related)
+        out_path = OUT / "comparisons" / f"{comp_dir.name}.html"
+        out_path.write_text(html)
+        print(f"  ✓ comparisons/{comp_dir.name}.html")
+
     # ---- Render category pages ----
     (OUT / "category").mkdir(exist_ok=True)
     for cat_key in CATEGORIES:
