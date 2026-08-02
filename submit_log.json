@@ -1,0 +1,202 @@
+{
+  "submitted": {},
+  "pending": [
+    {
+      "name": "Product Hunt",
+      "url": "https://www.producthunt.com/posts/new",
+      "reason": "no_form_detected",
+      "da": 90
+    },
+    {
+      "name": "TopAI.tools",
+      "url": "https://topai.tools/submit",
+      "reason": "no_form_detected",
+      "da": 35
+    },
+    {
+      "name": "AI Tools fyi",
+      "url": "https://aitools.fyi/submit",
+      "reason": "no_form_detected",
+      "da": 30
+    },
+    {
+      "name": "Insidr AI",
+      "url": "https://www.insidr.ai/submit",
+      "reason": "no_form_detected",
+      "da": 25
+    },
+    {
+      "name": "AI Nav",
+      "url": "https://ai-nav.net/submit",
+      "reason": "no_form_detected",
+      "da": 25
+    },
+    {
+      "name": "AI Hunt List",
+      "url": "https://aihuntlist.com/submit",
+      "reason": "no_form_detected",
+      "da": 30
+    },
+    {
+      "name": "AI Tools Directory",
+      "url": "https://aitoolsdirectory.com/submit",
+      "reason": "no_form_detected",
+      "da": 30
+    },
+    {
+      "name": "AI Sites",
+      "url": "https://ai-sites.net/submit",
+      "reason": "no_form_detected",
+      "da": 25
+    },
+    {
+      "name": "AI Hub",
+      "url": "https://aihubs.ai/submit",
+      "reason": "no_form_detected",
+      "da": 30
+    },
+    {
+      "name": "Top Tools AI",
+      "url": "https://toptools.ai/submit",
+      "reason": "no_form_detected",
+      "da": 28
+    },
+    {
+      "name": "AI Directory Wiki",
+      "url": "https://aidirectory.wiki/submit",
+      "reason": "no_form_detected",
+      "da": 30
+    },
+    {
+      "name": "AI Dir",
+      "url": "https://aidir.wiki/submit",
+      "reason": "no_form_detected",
+      "da": 25
+    },
+    {
+      "name": "AI Kaptan",
+      "url": "https://aikaptan.com/submit",
+      "reason": "no_form_detected",
+      "da": 30
+    },
+    {
+      "name": "AI Dream Hub",
+      "url": "https://aidreamhub.com/submit",
+      "reason": "no_form_detected",
+      "da": 25
+    },
+    {
+      "name": "AIDir",
+      "url": "https://aidirs.best/submit",
+      "reason": "no_form_detected",
+      "da": 25
+    }
+  ],
+  "rejected": [
+    {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AI Top Tools",
+      "url": "https://www.aitoptools.com/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AllAboutAI",
+      "url": "https://www.allaboutai.com/submit-tool/",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AIChief",
+      "url": "https://aichief.com/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AI Tool Flow",
+      "url": "https://ai-toolflow.com/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "Appscribed",
+      "url": "https://appscribed.com/submit-tool/",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AI Tool Hunt",
+      "url": "https://aitoolhunt.com/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "FutureTools",
+      "url": "https://futuretools.io/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "Best AI Tools",
+      "url": "https://bestai.tools/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "Toolify",
+      "url": "https://www.toolify.ai/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AI Tool List",
+      "url": "https://ai-tool-list.com/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "Cool AI Tools",
+      "url": "https://cool-ai-tools.com/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AI Hunt",
+      "url": "https://aihunt.io/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AI Ex",
+      "url": "https://aiex.me/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AI Agents Directory",
+      "url": "https://aiagentsdirectory.com/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AI Match Pro",
+      "url": "https://aimatch.pro/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AIToolsDirectory.io",
+      "url": "https://aitoolsdirectory.io/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "ThereIsAnAIForThat",
+      "url": "https://theresanaiforthat.com/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "OpenTools",
+      "url": "https://opentools.ai/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "AI Center",
+      "url": "https://aicenter.ai/submit",
+      "reason": "unreachable: None"
+    },
+    {
+      "name": "GPTForge",
+      "url": "https://gptforge.ai/submit",
+      "reason": "unreachable: None"
+    }
+  ]
+}

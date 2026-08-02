@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>AI Tools Hub Weekly Digest</title>
+<link>https://joshclaw-sys.github.io/ai-tools-hub/</link>
+<description>Honest, no-fluff AI tool reviews for 2026. New guides every week.</description>
+<language>en-us</language>
+<atom:link href="https://joshclaw-sys.github.io/ai-tools-hub/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Best AI Code Assistants in 2026: Copilot vs Cursor vs Cody vs Codeium</title>
+<link>https://joshclaw-sys.github.io/ai-tools-hub/articles/best-ai-code-assistant-2026.html</link>
+<description>Real coding benchmarks — GitHub Copilot, Cursor, Cody, Codeium, Windsurf, Tabnine compared on Python, TypeScript, Rust.</description>
+<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://joshclaw-sys.github.io/ai-tools-hub/articles/best-ai-code-assistant-2026.html</guid>
+<category>code-assistants</category>
+</item>
+
+<item>
+<title>Best AI Image Generators in 2026: Midjourney, Firefly and More</title>
+<link>https://joshclaw-sys.github.io/ai-tools-hub/articles/best-ai-image-generator-2026.html</link>
+<description>Compare the best AI image generators in 2026 for art, marketing, product concepts, text rendering, pricing, editing, and commercial use.</description>
+<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://joshclaw-sys.github.io/ai-tools-hub/articles/best-ai-image-generator-2026.html</guid>
+<category>image-generators</category>
+</item>
+
+<item>
+<title>Best Free AI Tools in 2026 (No Credit Card, No Trial)</title>
+<link>https://joshclaw-sys.github.io/ai-tools-hub/articles/best-free-ai-tools-2026.html</link>
+<description>20+ free AI tools you can use today — no credit card, no trial period, fully featured. Updated for 2026.</description>
+<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://joshclaw-sys.github.io/ai-tools-hub/articles/best-free-ai-tools-2026.html</guid>
+<category>llms</category>
+</item>
+
+<item>
+<title>Best Large Language Models in 2026: GPT-5 vs Claude vs Gemini vs Llama</title>
+<link>https://joshclaw-sys.github.io/ai-tools-hub/articles/best-llm-2026.html</link>
+<description>The flagship LLMs of 2026 ranked — benchmarks, real-world testing, pricing, and which to use for what.</description>
+<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://joshclaw-sys.github.io/ai-tools-hub/articles/best-llm-2026.html</guid>
+<category>llms</category>
+</item>
+</channel>
+</rss>
