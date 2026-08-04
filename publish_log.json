@@ -3,17 +3,17 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-02T14:00:04.646404+00:00"
+      "timestamp": "2026-08-04T04:44:39.441458+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-02T14:00:39.646699+00:00"
+      "timestamp": "2026-08-04T04:45:14.441779+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-02T14:00:39.646816+00:00"
+      "timestamp": "2026-08-04T04:45:14.441862+00:00"
     },
     "Dev.to": {
       "status": "ok",
@@ -26,17 +26,17 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-02T14:01:14.652892+00:00"
+      "timestamp": "2026-08-04T04:45:49.447471+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-02T14:01:49.653191+00:00"
+      "timestamp": "2026-08-04T04:46:24.447826+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-02T14:01:49.653273+00:00"
+      "timestamp": "2026-08-04T04:46:24.447928+00:00"
     },
     "Dev.to": {
       "status": "ok",
@@ -49,17 +49,17 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-02T14:02:24.658719+00:00"
+      "timestamp": "2026-08-04T04:46:59.453874+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-02T14:02:59.659028+00:00"
+      "timestamp": "2026-08-04T04:47:34.454219+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-02T14:02:59.659112+00:00"
+      "timestamp": "2026-08-04T04:47:34.454312+00:00"
     },
     "Dev.to": {
       "status": "ok",
@@ -72,17 +72,17 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-02T13:56:41.994160+00:00"
+      "timestamp": "2026-08-04T04:48:09.464080+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-02T13:57:16.994471+00:00"
+      "timestamp": "2026-08-04T04:48:44.464421+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-02T13:57:16.994561+00:00"
+      "timestamp": "2026-08-04T04:48:44.464511+00:00"
     },
     "Dev.to": {
       "status": "ok",
@@ -95,23 +95,69 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-02T13:58:18.245863+00:00"
+      "timestamp": "2026-08-04T04:43:29.437272+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-02T13:58:53.246166+00:00"
+      "timestamp": "2026-08-04T04:44:04.437606+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-02T13:58:53.246225+00:00"
+      "timestamp": "2026-08-04T04:44:04.437665+00:00"
     },
     "Dev.to": {
       "status": "ok",
       "url": "https://dev.to/jivinsardine/best-best-ai-note-taking-apps-in-2026-tested-and-ranked-honest-review-6a8",
       "id": 4293306,
       "timestamp": "2026-08-02T13:58:54.640384+00:00"
+    }
+  },
+  "best-ai-writing-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-04T04:49:19.475474+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-04T04:49:54.475839+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-04T04:49:54.475934+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/7-best-ai-writing-tools-in-2026-claude-chatgpt-grammarly-and-more-4pcm",
+      "id": 4308671,
+      "timestamp": "2026-08-04T04:49:56.354280+00:00"
+    }
+  },
+  "best-ai-video-generator-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-04T04:51:06.365622+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-04T04:51:41.365928+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-04T04:51:41.366020+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/7-best-ai-video-generators-in-2026-veo-runway-kling-sora-and-more-ibn",
+      "id": 4308686,
+      "timestamp": "2026-08-04T04:51:42.749977+00:00"
     }
   }
 }
