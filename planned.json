@@ -26,23 +26,27 @@
   {
     "slug": "best-ai-code-assistant-2026",
     "category": "code-assistants",
-    "status": "todo",
+    "status": "done",
     "topic": "best ai code assistant 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-04T00:00:00+00:00",
+    "skip_reason": "already-published"
   },
   {
     "slug": "best-ai-writing-tool-2026",
     "category": "writing-tools",
-    "status": "todo",
+    "status": "done",
     "topic": "best ai writing tool 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-04T04:31:58.647946+00:00"
   },
   {
     "slug": "best-ai-video-generator-2026",
     "category": "video-generators",
-    "status": "todo",
+    "status": "done",
     "topic": "best ai video generator 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-04T04:31:58.648485+00:00"
   },
   {
     "slug": "best-ai-voice-generator-2026",
