@@ -53,14 +53,16 @@
     "category": "voice-audio",
     "status": "todo",
     "topic": "best ai voice generator 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-05T04:31:41.319474+00:00"
   },
   {
     "slug": "best-ai-for-students-2026",
     "category": "education",
     "status": "todo",
     "topic": "best ai for students 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-05T04:31:41.320079+00:00"
   },
   {
     "slug": "best-ai-research-tool-2026",
