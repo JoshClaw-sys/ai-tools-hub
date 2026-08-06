@@ -69,14 +69,16 @@
     "category": "research",
     "status": "todo",
     "topic": "best ai research tool 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-06T04:31:50.488974+00:00"
   },
   {
     "slug": "best-ai-translation-tool-2026",
     "category": "translation",
     "status": "todo",
     "topic": "best ai translation tool 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-06T04:31:50.489491+00:00"
   },
   {
     "slug": "best-ai-music-generator-2026",

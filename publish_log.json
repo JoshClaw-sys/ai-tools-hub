@@ -95,17 +95,17 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-04T04:43:29.437272+00:00"
+      "timestamp": "2026-08-05T04:36:48.087706+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-04T04:44:04.437606+00:00"
+      "timestamp": "2026-08-05T04:37:23.088001+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-04T04:44:04.437665+00:00"
+      "timestamp": "2026-08-05T04:37:23.088087+00:00"
     },
     "Dev.to": {
       "status": "ok",
@@ -158,6 +158,52 @@
       "url": "https://dev.to/jivinsardine/7-best-ai-video-generators-in-2026-veo-runway-kling-sora-and-more-ibn",
       "id": 4308686,
       "timestamp": "2026-08-04T04:51:42.749977+00:00"
+    }
+  },
+  "best-ai-for-students-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-05T04:44:07.962998+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-05T04:44:42.963364+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-05T04:44:42.963453+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-for-students-2026-in-2026-tested-picks-real-world-reviews-5hac",
+      "id": 4318077,
+      "timestamp": "2026-08-05T04:44:44.208907+00:00"
+    }
+  },
+  "best-ai-voice-generator-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-05T04:42:21.720878+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-05T04:42:56.721212+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-05T04:42:56.721269+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-voice-generator-2026-in-2026-tested-picks-real-world-reviews-41gg",
+      "id": 4318070,
+      "timestamp": "2026-08-05T04:42:57.956131+00:00"
     }
   }
 }
