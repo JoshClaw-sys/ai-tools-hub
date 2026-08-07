@@ -5,3 +5,4 @@ __pycache__/
 .vscode/
 .idea/
 enrich_articles.py
+enrich_new_articles.py

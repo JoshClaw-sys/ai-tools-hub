@@ -85,14 +85,16 @@
     "category": "music-ai",
     "status": "todo",
     "topic": "best ai music generator 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-07T04:31:48.535672+00:00"
   },
   {
     "slug": "best-ai-design-tool-2026",
     "category": "design-tools",
     "status": "todo",
     "topic": "best ai design tool 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-07T04:31:48.536255+00:00"
   },
   {
     "slug": "best-ai-agent-2026",
