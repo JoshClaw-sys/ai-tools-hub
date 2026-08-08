@@ -297,5 +297,51 @@
       "id": 4336843,
       "timestamp": "2026-08-07T04:44:34.735994+00:00"
     }
+  },
+  "best-ai-agent-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-08T04:36:21.538102+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-08T04:36:56.538411+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-08T04:36:56.538508+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-agent-platforms-2026-tested-picks-real-world-reviews-k1h",
+      "id": 4345866,
+      "timestamp": "2026-08-08T04:36:58.156277+00:00"
+    }
+  },
+  "best-ai-automation-platform-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-08T04:38:50.390412+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-08T04:39:25.390733+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-08T04:39:25.390789+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-automation-platforms-2026-tested-picks-real-world-reviews-18n4",
+      "id": 4345881,
+      "timestamp": "2026-08-08T04:39:26.220960+00:00"
+    }
   }
 }
