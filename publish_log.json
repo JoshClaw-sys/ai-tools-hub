@@ -343,5 +343,51 @@
       "id": 4345881,
       "timestamp": "2026-08-08T04:39:26.220960+00:00"
     }
+  },
+  "best-ai-data-analysis-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-09T04:44:36.306658+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-09T04:45:11.307001+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-09T04:45:11.307082+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-data-analysis-tools-2026-tested-picks-real-world-reviews-2bg3",
+      "id": 4351751,
+      "timestamp": "2026-08-09T04:45:13.046505+00:00"
+    }
+  },
+  "best-ai-image-editor-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-09T04:46:25.896158+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-09T04:47:00.896420+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-09T04:47:00.896490+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-image-editors-2026-tested-picks-real-world-reviews-51ga",
+      "id": 4351756,
+      "timestamp": "2026-08-09T04:47:02.229796+00:00"
+    }
   }
 }
