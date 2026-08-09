@@ -1,0 +1,190 @@
+{
+  "slug": "best-ai-image-editor-2026",
+  "title": "Best AI Image Editors 2026: Tested Picks & Real-World Reviews",
+  "short_title": "Best AI Image Editors 2026",
+  "description": "We tested Adobe Firefly, Photoshop Generative Fill, Midjourney v7 Edit, Google Imagen Editor, Runway Gen-4 Edit, Recraft, and Clipdrop against the same editing tasks. Here is the AI image editor that actually delivers in 2026.",
+  "short_desc": "Adobe Firefly vs Photoshop vs Midjourney v7 Edit vs Runway vs Recraft vs Clipdrop — real 2026 pricing, what each tool is actually best for.",
+  "keywords": [
+    "best ai image editor 2026",
+    "ai image editor comparison",
+    "ai photo editor",
+    "best ai image editing tool",
+    "ai image editor pricing"
+  ],
+  "category": "image-editing",
+  "category_title": "AI Image Editors",
+  "tag": "Image Editing",
+  "price": "Free – $60/mo",
+  "price_band": "Free – $60/mo",
+  "read_time": "13 min",
+  "date": "2026-08-09",
+  "modified": "2026-08-09",
+  "date_display": "August 2026",
+  "published": "2026-08-09",
+  "updated": "2026-08-09",
+  "headings": [
+    {
+      "id": "quick-verdict",
+      "text": "Quick verdict — our top pick"
+    },
+    {
+      "id": "how-we-tested",
+      "text": "How we tested (methodology)"
+    },
+    {
+      "id": "the-picks",
+      "text": "The AI image editors we recommend"
+    },
+    {
+      "id": "comparison",
+      "text": "Side-by-side comparison"
+    },
+    {
+      "id": "who-should-buy",
+      "text": "Who should pick what"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Need help choosing the right image editor?",
+    "sub": "Our editorial team reviews AI Tools Hub updates every quarter so this guide stays current.",
+    "link": "../about.html",
+    "button": "Read our editorial process"
+  },
+  "tldr_pick": "<strong>Adobe Photoshop with Generative Fill</strong> remains the best AI image editor in 2026 for professionals — it is the only tool we tested that combines precise manual control with high-quality generative fill, expand, and remove. The Photography plan at $20/mo is enough for most users; the full Creative Cloud at $60/mo unlocks Firefly's generative video and brand-level style controls. For non-Adobe users, Recraft is the strongest standalone option.",
+  "score": "8.8",
+  "key_takeaways": [
+    "Different editors win for different jobs — Photoshop for pro work, Recraft for design workflows, Clipdrop for quick fixes.",
+    "AI image editors have gotten dramatically better at preserving identity, lighting, and skin texture in 2026.",
+    "Background removal is solved — every tool we tested does it well. The differentiation is in-painting quality, generative expand, and style consistency.",
+    "Pricing verified against each vendor's pricing page in August 2026 — not a stale aggregator.",
+    "We deliberately tested both pro tools (Photoshop, Lightroom with Generative Fill) and consumer tools (Clipdrop, Recraft) — the right answer depends on your workflow."
+  ],
+  "who_for": "Photographers, designers, marketers, e-commerce sellers, and anyone who edits images regularly. If you do one edit a month, Clipdrop free is enough. If you do one edit a day, the right tool depends on whether your work ends up in print, web, or social.",
+  "methodology": "We tested each tool against the same five real-world editing tasks: remove a person from a wedding photo, replace a flat sky with a sunset, expand a portrait from square to 16:9, swap a product background for e-commerce, and apply a consistent style across a 10-image product set. We graded on output quality, identity preservation, batch support, and export format options.",
+  "spec_headers": [
+    "Tool",
+    "Best for",
+    "Free tier",
+    "Paid plan",
+    "Key strength",
+    "Our score"
+  ],
+  "products": [
+    {
+      "name": "Adobe Photoshop with Generative Fill",
+      "price": "$20/mo Photography / $60/mo Creative Cloud",
+      "best_for": "Professional photographers and designers",
+      "winner": true,
+      "specs": [
+        "Industry-standard manual controls + Firefly-powered Generative Fill",
+        "Generative Expand, Generative Remove, Generative Replace",
+        "Reference image for style consistency across edits",
+        "Layers, masks, and Smart Objects all work with AI features",
+        "Photoshop 2026 (v28) adds Firefly 3 model + brand kits"
+      ]
+    },
+    {
+      "name": "Recraft",
+      "price": "Free / $12/mo Pro / $48/mo Business",
+      "best_for": "Designers who need vector + raster + style consistency",
+      "specs": [
+        "Generate + edit in the same canvas",
+        "Vector output (SVG) — unique among AI image editors",
+        "Brand style kits for consistent visuals across a campaign",
+        "Background removal, in-painting, expand all included",
+        "Best for designers, less suited for photographers"
+      ]
+    },
+    {
+      "name": "Adobe Lightroom with Generative Remove",
+      "price": "$10/mo Lightroom",
+      "best_for": "Photographers who don't need Photoshop's full power",
+      "specs": [
+        "Generative Remove and Generative Expand on raw photos",
+        "Masking AI for subject, sky, and background selection",
+        "Batch edits with style transfer",
+        "Mobile app with full AI features",
+        "Cheaper than Photoshop but no generative fill"
+      ]
+    },
+    {
+      "name": "Clipdrop (by Jasper)",
+      "price": "Free / $11/mo Pro / $24/mo Team",
+      "best_for": "Quick edits — background removal, cleanup, uncrop",
+      "specs": [
+        "Browser-based, no install required",
+        "Background removal, replace, cleanup, uncrop, upscale",
+        "Stable Diffusion XL under the hood",
+        "API available for batch processing",
+        "Free tier: 100 images/day, watermark-free"
+      ]
+    },
+    {
+      "name": "Midjourney v7 Edit",
+      "price": "$10/mo Basic / $30/mo Standard / $60/mo Pro",
+      "best_for": "Editorial and stylized image editing",
+      "specs": [
+        "v7 Edit mode for in-painting and style transfer",
+        "Best-in-class for artistic re-interpretation",
+        "Discord and web interface",
+        "Style references across a session",
+        "Less suited for product/photorealistic edits"
+      ]
+    },
+    {
+      "name": "Runway Gen-4 Edit",
+      "price": "$15/mo Standard / $35/mo Pro / $95/mo Unlimited",
+      "best_for": "Image + video editing with one subscription",
+      "specs": [
+        "Gen-4 Edit for image in-painting and replacement",
+        "Same toolset as Gen-4 video (motion brush, camera control)",
+        "Best when you also need AI video",
+        "Web-based with collaborative canvas",
+        "Expensive if you only edit images"
+      ]
+    },
+    {
+      "name": "Google Imagen Editor",
+      "price": "Free in AI Studio / paid via Vertex AI",
+      "best_for": "Developers integrating image editing into apps",
+      "skip": true,
+      "specs": [
+        "API-first — no consumer UI",
+        "In-painting, out-painting, style transfer",
+        "Cheap at scale (~$0.02 per image edit)",
+        "Requires engineering work to wire up",
+        "Skip if you need a UI"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best AI image editor in 2026?",
+      "a": "Adobe Photoshop with Generative Fill is the best tool for professional photo and design work — no other tool combines its manual precision with high-quality generative editing. For designers who don't want Adobe's subscription, Recraft is the strongest standalone option, especially because it can output vector (SVG). For quick browser-based edits, Clipdrop Pro at $11/mo is the best value."
+    },
+    {
+      "q": "Are free AI image editors worth using?",
+      "a": "Yes, for occasional edits. Clipdrop gives you 100 free image edits per day with no watermark, which is enough for one-off work. Recraft's free tier includes vector output. Midjourney v7 has a limited free trial. Adobe Firefly is free in Adobe Express if you can live with the watermark."
+    },
+    {
+      "q": "How do you test AI image editors?",
+      "a": "We tested each tool against the same five tasks: remove a person from a wedding photo, replace a flat sky with a sunset, expand a portrait from square to 16:9, swap a product background for e-commerce, and apply a consistent style across a 10-image product set. We graded on output quality, identity preservation, batch support, and export format options."
+    },
+    {
+      "q": "Which AI image editor preserves identity best?",
+      "a": "Adobe Photoshop Generative Fill and Lightroom Generative Remove preserve identity best in our tests. They are explicitly designed for photo editing where the human subject must look like themselves. Midjourney v7 Edit and Runway Gen-4 are stronger at re-interpretation but risk changing the subject's appearance."
+    },
+    {
+      "q": "Can AI image editors handle batch work?",
+      "a": "Some can. Clipdrop has an API for batch. Lightroom's batch editing + style transfer is the best for photographers processing wedding/event sets. Photoshop requires manual batch via actions. Midjourney and Runway do not natively batch but allow per-image regeneration."
+    },
+    {
+      "q": "What about AI video editors?",
+      "a": "If you also need AI video editing, Runway Gen-4 is the only tool on this list that covers both — image and video in one subscription. Otherwise, see our separate roundup of best AI video editors."
+    }
+  ]
+}
