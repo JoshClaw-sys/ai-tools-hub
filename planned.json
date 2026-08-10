@@ -131,16 +131,18 @@
   {
     "slug": "best-ai-video-editor-2026",
     "category": "video-editing",
-    "status": "todo",
+    "status": "done",
     "topic": "best ai video editor 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-10T04:31:21.977648+00:00"
   },
   {
     "slug": "best-ai-productivity-tool-2026",
     "category": "productivity",
-    "status": "todo",
+    "status": "done",
     "topic": "best ai productivity tool 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-10T04:31:21.978279+00:00"
   },
   {
     "slug": "best-ai-for-business-2026",
