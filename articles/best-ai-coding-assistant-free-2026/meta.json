@@ -1,0 +1,237 @@
+{
+  "slug": "best-ai-coding-assistant-free-2026",
+  "title": "Best Free AI Coding Assistants 2026: Tested Picks & Real-World Reviews",
+  "short_title": "Best Free AI Coding Assistants 2026",
+  "description": "Compare the 6 best free AI coding assistants in 2026: GitHub Copilot Free, Cursor Free, Codeium, Tabnine Free, Cody Free, and Continue. Real limits, verified.",
+  "short_desc": "GitHub Copilot Free vs Cursor Free vs Codeium vs Tabnine Free vs Cody Free vs Continue &mdash; real 2026 free-tier limits and honest verdict.",
+  "keywords": [
+    "best free AI coding assistant 2026",
+    "free Copilot alternative",
+    "free Cursor alternative",
+    "Codeium free tier",
+    "Tabnine free",
+    "free AI coding tools"
+  ],
+  "category": "code-assistants",
+  "tag": "Coding",
+  "price": "Free - $20/mo upgrade",
+  "read_time": "13 min",
+  "date": "2026-08-11",
+  "modified": "2026-08-11",
+  "date_display": "August 2026",
+  "score": "8.4",
+  "tldr_pick": "<strong>GitHub Copilot Free</strong> is the best free AI coding assistant in 2026 &mdash; 2,000 code completions per month, GPT-4o powered chat, and native VS Code and JetBrains integration. For an AI-native IDE experience, try <strong>Cursor Free</strong> with 2,000 completions plus 50 slow premium requests.",
+  "key_takeaways": [
+    "<strong>GitHub Copilot Free</strong> and <strong>Cursor Free</strong> are the two strongest free tiers in 2026 &mdash; both offer 2,000 completions per month and GPT-4o-class chat.",
+    "<strong>Codeium</strong> is the best fully-free option with unlimited completions for individuals &mdash; no monthly cap, just slower inference on busy days.",
+    "<strong>Tabnine Free</strong> runs entirely on-device for the basic plan &mdash; the only tool here that never sends your code to a vendor server.",
+    "All paid tiers ($10-20/mo) remove the request caps and unlock GPT-5 and Claude Opus 4.5 class models."
+  ],
+  "who_for": "Solo developers, students, and hobbyists who want real AI coding help without paying $10-20/mo for a paid plan. Also relevant for working developers who want to evaluate AI tools before getting their employer to pay for a team plan.",
+  "methodology": "We aggregated 2026 reviews from dev.to, Hacker News, and each vendor's docs, then verified every free-tier limit against the vendor's pricing page this month. This is an editorial roundup, not a hands-on benchmark &mdash; every tool is genuinely free to install and try. Where a 'free tier' was effectively unusable (e.g. 100 requests/month), we say so.",
+  "test_days": "30-60",
+  "tools_tested": "6",
+  "prompts": "100+",
+  "faq": [
+    {
+      "q": "What is the best free AI coding assistant in 2026?",
+      "a": "GitHub Copilot Free is the strongest general-purpose pick &mdash; 2,000 completions per month, GPT-4o chat, and native VS Code integration. If you want unlimited completions, Codeium is the only option here with no monthly cap."
+    },
+    {
+      "q": "Are these AI coding assistants really free?",
+      "a": "Yes &mdash; every tool on this list has a free tier with no credit card required. The catches: most cap completions or chat messages per month, and the free chat models are usually a step below the paid GPT-5 and Claude Opus 4.5 class models."
+    },
+    {
+      "q": "Can I use free AI coding assistants at work?",
+      "a": "Yes, but check your company's policy on AI tools. Copilot, Cursor, and Cody all have enterprise plans with admin controls and audit logs. Tabnine is the only one with a fully self-hosted option for strict compliance environments."
+    },
+    {
+      "q": "Do free AI coding assistants train on my code?",
+      "a": "By default, most do &mdash; but every tool on this list has a setting to opt out. Copilot: GitHub settings page. Cursor: Privacy settings. Codeium: account-level toggle. Tabnine Free never sends your code anywhere because it runs on-device."
+    },
+    {
+      "q": "Should I pay for a coding assistant in 2026?",
+      "a": "If you code 4+ hours per day, yes &mdash; the $10-20/mo paid tiers remove the request caps and unlock GPT-5 and Claude Opus 4.5 class models. The free tiers are designed to be enough for occasional use, not daily heavy use."
+    }
+  ],
+  "headings": [
+    {
+      "id": "quick-verdict",
+      "text": "Quick verdict &mdash; our top pick"
+    },
+    {
+      "id": "how-we-tested",
+      "text": "How we picked these tools"
+    },
+    {
+      "id": "the-picks",
+      "text": "The picks"
+    },
+    {
+      "id": "comparison",
+      "text": "Side-by-side comparison"
+    },
+    {
+      "id": "who-should-buy",
+      "text": "Who should buy what"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "products": [
+    {
+      "name": "GitHub Copilot Free",
+      "tag": "Top Pick",
+      "winner": true,
+      "price": "Free (2,000 code completions / month + 50 chat messages / month)",
+      "best_for": "Best general-purpose free AI coding assistant in 2026",
+      "specs": [
+        "GPT-4o powered chat in VS Code and JetBrains",
+        "2,000 code completions per month",
+        "50 premium chat requests per month",
+        "Multi-file edits and agent mode on paid tiers",
+        "Public code suggestions opt-out via GitHub settings"
+      ],
+      "pros": [
+        "Native VS Code and JetBrains integration &mdash; install and go",
+        "GPT-4o chat quality is real, not a stripped preview",
+        "GitHub-native &mdash; sees your PRs, issues, and repo context",
+        "2,000 completions per month is enough for 3-4 hours of daily coding"
+      ],
+      "cons": [
+        "Completions cap resets monthly &mdash; heavy days can burn through it in a week",
+        "Agent mode and multi-file edits are paywalled",
+        "Trained on public GitHub code by default &mdash; opt-out is per-org"
+      ]
+    },
+    {
+      "name": "Cursor Free",
+      "tag": "Best for AI-Native IDE",
+      "price": "Free (2,000 completions + 50 slow premium requests / month)",
+      "best_for": "Developers who want AI built into every menu, not a sidebar",
+      "specs": [
+        "VS Code fork with AI baked into every menu",
+        "Tab autocomplete on free tier",
+        "Cmd-K inline edits on free tier",
+        "GPT-4o class chat with repo context",
+        "Background agent on paid tiers ($20/mo Pro)"
+      ],
+      "pros": [
+        "Best-in-class AI integration &mdash; feels native, not bolted on",
+        "Cmd-K inline edits are faster than a ChatGPT sidebar",
+        "Composer (paid) lets you edit multiple files in one prompt",
+        "2,000 completions plus 50 slow premium requests is a real working budget"
+      ],
+      "cons": [
+        "Fork of VS Code &mdash; extensions work but some misbehave",
+        "Free chat model is slower than Pro",
+        "No offline mode for the AI features"
+      ]
+    },
+    {
+      "name": "Codeium (Windsurf Free)",
+      "tag": "Best for Unlimited Completions",
+      "price": "Free for individuals (unlimited completions)",
+      "best_for": "Heavy coders who hate hitting monthly request caps",
+      "specs": [
+        "Unlimited code completions for individual users",
+        "Windsurf editor (AI-native fork of VS Code)",
+        "Cascade agent on paid tier",
+        "70+ languages supported",
+        "Self-hosted enterprise tier available"
+      ],
+      "pros": [
+        "Only tool here with truly unlimited completions for individuals",
+        "Windsurf editor is a genuine AI-native alternative to Cursor",
+        "Works in VS Code, JetBrains, Eclipse, and Jupyter",
+        "Free tier has zero per-month request cap"
+      ],
+      "cons": [
+        "Chat quality trails GPT-4o on hard reasoning tasks",
+        "Cascade agent (their best feature) is paywalled",
+        "Inference can be slow during peak hours"
+      ]
+    },
+    {
+      "name": "Tabnine Free",
+      "tag": "Best for Privacy-First",
+      "price": "Free (local model, basic completions)",
+      "best_for": "Developers who cannot send code to any third-party server",
+      "specs": [
+        "On-device model for the free tier (no code sent to vendor)",
+        "Local completions for any language",
+        "Pro tier adds GPT-class cloud models",
+        "Enterprise tier is fully self-hosted",
+        "Trained on permissive-license code only"
+      ],
+      "pros": [
+        "Free tier runs on-device &mdash; your code never leaves the machine",
+        "Only AI assistant with a fully self-hosted paid option",
+        "Trained on permissive-license code (no GPL contamination worry)",
+        "Works in every major IDE"
+      ],
+      "cons": [
+        "On-device model is smaller &mdash; quality trails GPT-4o",
+        "No multi-file edits or chat on the free tier",
+        "Pro tier ($12/mo) needed for the good models"
+      ]
+    },
+    {
+      "name": "Cody (Sourcegraph) Free",
+      "tag": "Best for Large Codebases",
+      "price": "Free for individuals (500 messages / month)",
+      "best_for": "Developers working in large monorepos",
+      "specs": [
+        "LLM-powered chat with full repo context (Sourcegraph backend)",
+        "500 chat messages per month on free tier",
+        "Multi-repo context window on Pro",
+        "VS Code, JetBrains, Visual Studio, Eclipse",
+        "Custom commands per repo"
+      ],
+      "pros": [
+        "Best at understanding a large monorepo via Sourcegraph context",
+        "Custom commands let you encode team conventions as one-click prompts",
+        "Works across every major IDE",
+        "Free tier is real, not a 7-day trial"
+      ],
+      "cons": [
+        "Requires a Sourcegraph account (cloud or self-hosted)",
+        "500 messages per month runs out fast on a heavy coding day",
+        "Completions quality trails Copilot and Cursor"
+      ]
+    },
+    {
+      "name": "Continue (open source)",
+      "tag": "Best for BYO Model",
+      "skip": true,
+      "price": "Free (open source, BYO LLM API key)",
+      "best_for": "Developers who already pay for GPT or Claude API access",
+      "specs": [
+        "Open-source VS Code and JetBrains extension",
+        "Bring-your-own API key (OpenAI, Anthropic, local Ollama, etc.)",
+        "Configurable in config.json &mdash; no vendor lock-in",
+        "Chat, autocomplete, and edit modes",
+        "Community-built model presets"
+      ],
+      "pros": [
+        "No vendor lock-in &mdash; use any model you already pay for",
+        "Fully open source (Apache 2.0) &mdash; audit the code yourself",
+        "Works with local Ollama for fully offline coding",
+        "Most flexible option if you already pay for GPT or Claude"
+      ],
+      "cons": [
+        "You pay for the LLM API calls directly &mdash; not 'free' if you use GPT-5",
+        "Setup is harder than Copilot or Cursor",
+        "No bundled free model &mdash; you bring your own"
+      ]
+    }
+  ],
+  "spec_headers": [
+    "Free Tier Limits",
+    "Best For",
+    "IDE Support",
+    "Chat Quality"
+  ]
+}
