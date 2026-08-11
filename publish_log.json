@@ -435,5 +435,51 @@
       "id": 4356987,
       "timestamp": "2026-08-10T04:39:29.365303+00:00"
     }
+  },
+  "best-ai-for-business-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-11T04:41:16.265127+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-11T04:41:51.265442+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-11T04:41:51.265495+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-business-2026-tested-picks-real-world-reviews-1g0d",
+      "id": 4365529,
+      "timestamp": "2026-08-11T04:41:52.748335+00:00"
+    }
+  },
+  "best-ai-coding-assistant-free-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-11T04:43:06.967190+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-11T04:43:41.967517+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-11T04:43:41.967571+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-free-ai-coding-assistants-2026-tested-picks-real-world-reviews-2bhg",
+      "id": 4365536,
+      "timestamp": "2026-08-11T04:43:43.495217+00:00"
+    }
   }
 }
