@@ -256,17 +256,17 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-07T04:42:12.006920+00:00"
+      "timestamp": "2026-08-13T04:37:47.517791+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-07T04:42:47.007299+00:00"
+      "timestamp": "2026-08-13T04:38:22.518086+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-07T04:42:47.007369+00:00"
+      "timestamp": "2026-08-13T04:38:22.518147+00:00"
     },
     "Dev.to": {
       "status": "ok",
@@ -325,17 +325,17 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-08T04:38:50.390412+00:00"
+      "timestamp": "2026-08-13T04:40:07.538702+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-08T04:39:25.390733+00:00"
+      "timestamp": "2026-08-13T04:40:42.538994+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-08T04:39:25.390789+00:00"
+      "timestamp": "2026-08-13T04:40:42.539076+00:00"
     },
     "Dev.to": {
       "status": "ok",
@@ -348,17 +348,17 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-09T04:44:36.306658+00:00"
+      "timestamp": "2026-08-13T04:41:17.554384+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-09T04:45:11.307001+00:00"
+      "timestamp": "2026-08-13T04:41:52.554661+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-09T04:45:11.307082+00:00"
+      "timestamp": "2026-08-13T04:41:52.554752+00:00"
     },
     "Dev.to": {
       "status": "ok",
@@ -440,17 +440,17 @@
     "Medium": {
       "status": "skipped",
       "reason": "MEDIUM_TOKEN not set",
-      "timestamp": "2026-08-11T04:41:16.265127+00:00"
+      "timestamp": "2026-08-13T04:38:57.525930+00:00"
     },
     "LinkedIn": {
       "status": "skipped",
       "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
-      "timestamp": "2026-08-11T04:41:51.265442+00:00"
+      "timestamp": "2026-08-13T04:39:32.526327+00:00"
     },
     "Hashnode": {
       "status": "skipped",
       "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
-      "timestamp": "2026-08-11T04:41:51.265495+00:00"
+      "timestamp": "2026-08-13T04:39:32.526390+00:00"
     },
     "Dev.to": {
       "status": "ok",
@@ -526,6 +526,52 @@
       "url": "https://dev.to/jivinsardine/best-open-source-llm-2026-tested-picks-real-world-reviews-458j",
       "id": 4374087,
       "timestamp": "2026-08-12T04:37:07.883779+00:00"
+    }
+  },
+  "best-ai-image-generator-free-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-13T04:42:59.596678+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-13T04:43:34.596972+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-13T04:43:34.597032+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-free-ai-image-generators-2026-tested-picks-real-world-reviews-50hm",
+      "id": 4384209,
+      "timestamp": "2026-08-13T04:43:36.057415+00:00"
+    }
+  },
+  "best-ai-video-generator-free-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-13T04:44:55.683014+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-13T04:45:30.683317+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-13T04:45:30.683402+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-free-ai-video-generators-2026-tested-picks-real-world-reviews-437k",
+      "id": 4384219,
+      "timestamp": "2026-08-13T04:45:31.948956+00:00"
     }
   }
 }
