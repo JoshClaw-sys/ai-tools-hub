@@ -197,14 +197,16 @@
     "category": "voice-audio",
     "status": "todo",
     "topic": "best ai voice cloning 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-14T04:31:37.472912+00:00"
   },
   {
     "slug": "best-ai-marketing-tool-2026",
     "category": "writing-tools",
     "status": "todo",
     "topic": "best ai marketing tool 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-14T04:31:37.473444+00:00"
   },
   {
     "slug": "best-ai-seo-tool-2026",
