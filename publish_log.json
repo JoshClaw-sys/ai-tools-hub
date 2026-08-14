@@ -573,5 +573,51 @@
       "id": 4384219,
       "timestamp": "2026-08-13T04:45:31.948956+00:00"
     }
+  },
+  "best-ai-voice-cloning-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-14T04:38:42.191581+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-14T04:39:17.191884+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-14T04:39:17.191934+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-voice-cloning-2026-tested-picks-real-world-reviews-goi",
+      "id": 4392996,
+      "timestamp": "2026-08-14T04:39:18.519569+00:00"
+    }
+  },
+  "best-ai-marketing-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-14T04:40:31.296315+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-14T04:41:06.296615+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-14T04:41:06.296695+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-marketing-tool-2026-tested-picks-real-world-reviews-m5i",
+      "id": 4393006,
+      "timestamp": "2026-08-14T04:41:07.103308+00:00"
+    }
   }
 }
