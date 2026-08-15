@@ -619,5 +619,51 @@
       "id": 4393006,
       "timestamp": "2026-08-14T04:41:07.103308+00:00"
     }
+  },
+  "best-ai-seo-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-15T04:34:55.395318+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-15T04:35:30.395661+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-15T04:35:30.395724+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-seo-tool-2026-tested-picks-real-world-reviews-2dpd",
+      "id": 4401116,
+      "timestamp": "2026-08-15T04:35:36.654134+00:00"
+    }
+  },
+  "best-ai-translation-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-15T04:36:51.685407+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-15T04:37:26.685756+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-15T04:37:26.685817+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-translation-2026-tested-picks-real-world-reviews-3385",
+      "id": 4401123,
+      "timestamp": "2026-08-15T04:37:28.428141+00:00"
+    }
   }
 }
