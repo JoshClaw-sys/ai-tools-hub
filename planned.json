@@ -229,14 +229,16 @@
     "category": "productivity",
     "status": "todo",
     "topic": "best ai meeting transcription 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-16T04:31:02.032987+00:00"
   },
   {
     "slug": "best-ai-presentation-tool-2026",
     "category": "design-tools",
     "status": "todo",
     "topic": "best ai presentation tool 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-16T04:31:02.033252+00:00"
   },
   {
     "slug": "best-ai-logo-generator-2026",

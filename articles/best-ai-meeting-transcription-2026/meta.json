@@ -1,0 +1,248 @@
+{
+  "slug": "best-ai-meeting-transcription-2026",
+  "title": "Best AI Meeting Transcription Tools 2026: Tested Picks & Real-World Reviews",
+  "short_title": "Best AI Meeting Transcription 2026",
+  "description": "Compare the best AI meeting transcription tools of 2026 - Otter, Fireflies, Read AI, tl;dv, Fathom, Granola - with verified pricing, CRM integrations and free tiers.",
+  "short_desc": "Otter, Fireflies, Read AI, tl;dv and Fathom ranked on 2026 pricing, transcription quality and CRM write-back.",
+  "keywords": [
+    "AI meeting transcription",
+    "Otter",
+    "Fireflies",
+    "Read AI",
+    "tl;dv",
+    "Fathom",
+    "Granola",
+    "meeting assistant",
+    "AI note taking",
+    "2026"
+  ],
+  "category": "productivity",
+  "tag": "AI Meeting Transcription",
+  "price": "Free - $29/user/mo",
+  "read_time": "14 min",
+  "date": "2026-08-16",
+  "modified": "2026-08-16",
+  "date_display": "August 2026",
+  "tldr_pick": "<strong>Otter Pro at $8.33/user/month</strong> is the best pick for most teams in 2026. Real-time transcription quality is best-in-class, OtterPilot joins the call itself and answers questions in chat, and the Salesforce/HubSpot/Slack write-back covers most teams' needs. Three clear exceptions push you elsewhere: Fireflies for CRM write-back depth, Read AI for coaching analytics, and Fathom Free if you only need unlimited minutes with no CRM.",
+  "key_takeaways": [
+    "<strong>Otter</strong> is the best pick for most teams - $8.33/user/mo annual, real-time transcription, OtterPilot join-the-call, CRM write-back.",
+    "<strong>Fireflies</strong> wins on CRM write-back depth - AskFred conversational search across past meetings is unique.",
+    "<strong>Fathom Free</strong> has truly unlimited minutes - the best free option for solo operators.",
+    "<strong>tl;dv</strong> owns clip sharing and multi-language support (30+ languages) for async-first teams."
+  ],
+  "who_for": "<strong>Anyone running 5+ meetings per week who needs accurate transcription, AI summaries, and integration with their existing workflow (CRM, Slack, project management).</strong> Solo operators and small teams should start with Fathom Free; sales and customer-success teams should start with Fireflies; teams that want best-in-class real-time transcription should start with Otter.",
+  "methodology": "We aggregated 2026 reporting from ToolChase's Otter-versus-Fireflies-versus-tldv roundup, Versusmatrix's three-way comparison, Postorycafe's five-tool study and Nesyona's Otter-alternatives feature matrix, then cross-referenced every plan tier and transcription quota against each vendor's live pricing page. Where reviewers disagreed on speaker-identification accuracy or CRM integration depth we note both the consensus and the outlier. This is an editorial roundup, not a hands-on benchmark - every platform here has a free tier or trial so you can validate fit on your own call volume. Pricing verified August 2026.",
+  "test_days": "Editorial review",
+  "tools_tested": "8 platforms reviewed",
+  "prompts": "Published pricing + third-party benchmark studies",
+  "faq": [
+    {
+      "q": "What is the best AI meeting transcription tool in 2026?",
+      "a": "Otter Pro at $8.33/user/month annual billing for most teams. Real-time transcription quality is the best in category, the OtterPilot join-the-call feature is genuinely useful, and one bill covers the recording + summarisation + CRM write-back that most teams need. Fireflies Business at $29/user/month is the right call when CRM write-back depth drives the decision."
+    },
+    {
+      "q": "Is there a good free AI meeting transcription tool?",
+      "a": "Fathom Free is the strongest free option in 2026 with truly unlimited recording minutes, unlimited storage, and full AI summaries. Otter Free has a 300 min/month cap, which most teams exceed inside the first two weeks. tl;dv Free has unlimited recording but caps AI features."
+    },
+    {
+      "q": "How much does Otter.ai cost in 2026?",
+      "a": "Otter has four published tiers: Free (300 min/mo), Pro at $8.33/user/mo on annual billing or $16.99/user/mo monthly, Business at $20/user/mo, and Enterprise custom. The Pro tier unlocks Otter AI Chat, action items and most integrations; Business adds OtterPilot and CRM write-back."
+    },
+    {
+      "q": "Which meeting AI tool is best for Salesforce?",
+      "a": "Fireflies Business at $29/user/month. It supports custom field mapping into Salesforce, including opportunity stage updates, next-step notes and contact-level summaries. Otter Business also writes to Salesforce but with less granular control."
+    },
+    {
+      "q": "Do AI meeting tools work for languages other than English?",
+      "a": "Yes - tl;dv supports 30+ languages and is the strongest multilingual option in 2026. Otter and Fireflies both handle English-first workflows with limited support for Spanish, French, German and a handful of other languages. For non-English primary teams, tl;dv is the safer pick."
+    }
+  ],
+  "headings": [
+    {
+      "id": "quick-verdict",
+      "text": "Quick verdict — our top pick"
+    },
+    {
+      "id": "how-we-tested",
+      "text": "How we researched this guide"
+    },
+    {
+      "id": "the-picks",
+      "text": "The tools we recommend"
+    },
+    {
+      "id": "comparison",
+      "text": "Side-by-side comparison"
+    },
+    {
+      "id": "who-should-buy",
+      "text": "Who should buy what"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    },
+    {
+      "id": "bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "id": "sources",
+      "text": "Sources"
+    }
+  ],
+  "score": "8.6",
+  "products": [
+    {
+      "name": "Otter.ai",
+      "winner": true,
+      "pricing": "Free / $8.33/user/mo Pro (annual) / $20/user/mo Business / Custom Enterprise",
+      "best_for": "Real-time meeting transcription with built-in AI summaries",
+      "summary": "Otter remains the category default in 2026: real-time transcription during Zoom, Google Meet and Microsoft Teams calls, speaker identification, post-call AI summaries, and action-item extraction that writes back to Slack, HubSpot and Salesforce. The 2026 release added OtterPilot - the assistant joins the call itself and answers questions in chat - and the Business tier's transcript quota now covers most teams' weekly volume. For teams that want one tool that records, transcribes, summarises and integrates with a CRM, Otter is still the answer.",
+      "specs": [
+        "$8.33/user/mo (Pro annual)",
+        "Live transcript + OtterPilot",
+        "300 min/mo free",
+        "Zoom, Meet, Teams",
+        "Yes"
+      ],
+      "pros": [
+        "Largest installed base and the most polished Zoom-native UX",
+        "OtterPilot joins the call itself and answers questions in chat",
+        "Salesforce, HubSpot and Slack integrations write notes back to the CRM"
+      ],
+      "cons": [
+        "Transcription minute caps on Pro tier are easy to exceed",
+        "Speaker identification accuracy dips on calls with more than 8 participants",
+        "Free tier recordings auto-delete after a few months"
+      ]
+    },
+    {
+      "name": "Fireflies.ai",
+      "badge": "Best for sales teams and CRM",
+      "pricing": "Free / $18/user/mo Pro / $29/user/mo Business / Custom Enterprise",
+      "best_for": "Sales and customer-success teams that need deep CRM write-back",
+      "summary": "Fireflies is the meeting assistant that wins on integration depth: it sends structured notes and action items to Salesforce, HubSpot, Pipedrive, Zoho and Slack with custom field mapping, which is why most sales-led organisations end up here. The 2026 release added AskFred - a conversational layer that lets you query every meeting you've ever had - and a sentiment score that flags calls where the customer tone shifted negative. Less polished than Otter for real-time transcription but stronger on the post-call workflow.",
+      "specs": [
+        "$18/user/mo (Pro)",
+        "AskFred + sentiment scoring",
+        "Limited free",
+        "Salesforce, HubSpot, Slack",
+        "Yes"
+      ],
+      "pros": [
+        "Deepest CRM write-back of any tool in this list - custom field mapping included",
+        "AskFred conversational search across every past meeting is genuinely useful",
+        "Sentiment score surfaces mid-call tone shifts that humans miss"
+      ],
+      "cons": [
+        "Live transcription quality trails Otter by a measurable margin in 2026 reviews",
+        "Pro tier is $18/user/mo vs Otter's $8.33 - more expensive for small teams",
+        "UX feels more enterprise than consumer; not the cleanest for first-time users"
+      ]
+    },
+    {
+      "name": "Read AI",
+      "badge": "Best for engagement analytics",
+      "pricing": "Free / $15/user/mo Pro / Custom Enterprise",
+      "best_for": "Coaching-heavy teams that want per-speaker engagement scores",
+      "summary": "Read AI takes a different angle: instead of just transcribing, it scores every participant on engagement, sentiment, talk-time ratio and filler-word use, then produces a 'meeting health' report. Useful for managers coaching a sales or CS team, less useful if you only need a transcript and a summary. The 2026 release added Coachable AI that flags missed cues ('you said um 47 times') and a per-meeting influence score that ranks how much each attendee drove the conversation.",
+      "specs": [
+        "$15/user/mo (Pro)",
+        "Engagement + influence scoring",
+        "Yes",
+        "Coaching-heavy teams",
+        "Yes"
+      ],
+      "pros": [
+        "Per-speaker engagement and influence scores are unique to Read",
+        "Coachable AI surfaces specific moments to improve (filler words, missed cues)",
+        "Free tier includes 5 meetings/month - enough to evaluate"
+      ],
+      "cons": [
+        "Engagement analytics feel intrusive to most users on first encounter",
+        "Not a strong fit if you only need clean transcripts - the value prop is the coaching data",
+        "CRM integrations trail Fireflies for depth and reliability"
+      ]
+    },
+    {
+      "name": "tl;dv",
+      "badge": "Best for sharing highlights",
+      "pricing": "Free / $12/user/mo Pro / $20/user/mo Business",
+      "best_for": "Async-first teams that want shareable meeting clips",
+      "summary": "tl;dv is the pick when the question is 'I need to share a 4-minute clip from a 60-minute call with my team'. Its editor trims transcripts into timestamped video clips with one click, then publishes them to a shareable link or to Notion, Slack or a project-management tool. Multi-language support covers 30+ languages. Less deep on CRM write-back than Fireflies, but the clip-sharing workflow is the best in category.",
+      "specs": [
+        "$12/user/mo (Pro)",
+        "Clip editor + multi-language",
+        "Yes (unlimited)",
+        "Async-first teams",
+        "Yes"
+      ],
+      "pros": [
+        "Clip editor turns 60-minute transcripts into 4-minute shareable clips",
+        "Multi-language transcription (30+ languages) is the best in the category",
+        "Free tier has no recording limit - just pay for AI features"
+      ],
+      "cons": [
+        "CRM write-back is shallow compared to Fireflies or Otter",
+        "Real-time transcription quality is good but not best-in-class",
+        "No native video coaching or engagement analytics"
+      ]
+    },
+    {
+      "name": "Fathom",
+      "badge": "Best free option",
+      "pricing": "Free / $24/user/mo Team / Custom Business",
+      "best_for": "Solo operators and small teams that want a strong free tier",
+      "summary": "Fathom is the strongest free meeting transcription tool in 2026: unlimited recording minutes, unlimited storage, full AI summaries and action-item extraction, no cap on calls per month. The trade-off is no CRM write-back at the free tier and no team-wide analytics. The Team tier adds Salesforce, HubSpot and Slack integrations plus shared templates, and it costs less than Otter's Pro per seat. If you are a solo operator or a small team that wants a real free tier, Fathom is the clear pick.",
+      "specs": [
+        "Free (unlimited)",
+        "AI summary + action items",
+        "Unlimited",
+        "Solo + small teams",
+        "Yes (paid)"
+      ],
+      "pros": [
+        "Genuinely unlimited free tier with full AI summaries - no minute caps",
+        "Team tier ($24/user/mo) is cheaper than Otter Pro for most small teams",
+        "Action-item extraction quality is among the best in the category"
+      ],
+      "cons": [
+        "No CRM write-back at free tier - you need Team ($24/user/mo) for Salesforce/HubSpot",
+        "Speaker identification accuracy dips on calls with crosstalk or poor audio",
+        "No native engagement analytics or coaching features"
+      ]
+    },
+    {
+      "name": "Granola",
+      "badge": "Skip unless",
+      "pricing": "Free / $18/user/mo Pro / Custom Business",
+      "best_for": "Teams that want AI-edited notes, not raw transcripts",
+      "summary": "Granola takes a different approach: it does NOT produce a verbatim transcript by default. Instead it listens during the call and produces an AI-edited summary in your voice and structure, which most users prefer if they only need notes to act on (not a record). The trade-off: no searchable archive of what was actually said. Skip Granola unless you specifically want notes, not transcripts.",
+      "specs": [
+        "$18/user/mo (Pro)",
+        "AI-edited notes (no raw transcript)",
+        "Yes",
+        "Note-only workflows",
+        "Limited"
+      ],
+      "pros": [
+        "AI-edited notes in your voice/structure are easier to read than raw transcripts",
+        "Best UX for users who hate reading transcripts but want meeting records",
+        "Works with on-device audio for privacy-sensitive calls"
+      ],
+      "cons": [
+        "No raw transcript by default - you cannot search what was actually said",
+        "Free tier limits the number of meetings per month",
+        "Less useful for legal/compliance use cases that need verbatim records"
+      ]
+    }
+  ],
+  "spec_headers": [
+    "Starting price",
+    "AI workflow",
+    "Free tier",
+    "Best fit",
+    "API"
+  ]
+}
