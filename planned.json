@@ -245,14 +245,16 @@
     "category": "image-generators",
     "status": "todo",
     "topic": "best ai logo generator 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-17T04:31:56.822199+00:00"
   },
   {
     "slug": "best-ai-background-remover-2026",
     "category": "image-editing",
     "status": "todo",
     "topic": "best ai background remover 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-17T04:31:56.822836+00:00"
   },
   {
     "slug": "best-ai-headshot-generator-2026",
