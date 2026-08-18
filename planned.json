@@ -261,14 +261,16 @@
     "category": "image-generators",
     "status": "todo",
     "topic": "best ai headshot generator 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-18T04:30:53.336962+00:00"
   },
   {
     "slug": "best-ai-resume-builder-2026",
     "category": "writing-tools",
     "status": "todo",
     "topic": "best ai resume builder 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-18T04:30:53.337232+00:00"
   },
   {
     "slug": "best-ai-email-assistant-2026",
