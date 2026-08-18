@@ -757,5 +757,51 @@
       "id": 4414119,
       "timestamp": "2026-08-17T04:39:43.687778+00:00"
     }
+  },
+  "best-ai-headshot-generator-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-18T04:34:23.891854+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-18T04:34:58.892149+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-18T04:34:58.892211+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-headshot-generator-2026-tested-picks-real-world-reviews-3j2o",
+      "id": 4422451,
+      "timestamp": "2026-08-18T04:35:00.534370+00:00"
+    }
+  },
+  "best-ai-resume-builder-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-18T04:36:15.140480+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-18T04:36:50.140782+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-18T04:36:50.140838+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-resume-builder-2026-tested-picks-real-world-reviews-510c",
+      "id": 4422462,
+      "timestamp": "2026-08-18T04:36:51.380973+00:00"
+    }
   }
 }
