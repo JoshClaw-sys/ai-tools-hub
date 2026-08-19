@@ -803,5 +803,51 @@
       "id": 4422462,
       "timestamp": "2026-08-18T04:36:51.380973+00:00"
     }
+  },
+  "best-ai-email-assistant-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-19T04:35:00.487703+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-19T04:35:35.488003+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-19T04:35:35.488061+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-email-assistant-2026-tested-picks-real-world-reviews-3j16",
+      "id": 4430824,
+      "timestamp": "2026-08-19T04:35:36.986286+00:00"
+    }
+  },
+  "best-ai-notetaking-app-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-19T04:36:51.605108+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-19T04:37:26.605428+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-19T04:37:26.605478+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-notetaking-app-2026-tested-picks-real-world-reviews-5b01",
+      "id": 4430837,
+      "timestamp": "2026-08-19T04:37:27.992807+00:00"
+    }
   }
 }
