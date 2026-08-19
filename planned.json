@@ -277,14 +277,16 @@
     "category": "productivity",
     "status": "todo",
     "topic": "best ai email assistant 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-19T04:31:32.628418+00:00"
   },
   {
     "slug": "best-ai-notetaking-app-2026",
     "category": "productivity",
     "status": "todo",
     "topic": "best ai notetaking app 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-19T04:31:32.629044+00:00"
   },
   {
     "slug": "best-ai-summarizer-2026",
