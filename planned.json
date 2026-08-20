@@ -293,14 +293,16 @@
     "category": "research",
     "status": "todo",
     "topic": "best ai summarizer 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-20T04:31:33.545183+00:00"
   },
   {
     "slug": "best-ai-document-analyzer-2026",
     "category": "data-analysis",
     "status": "todo",
     "topic": "best ai document analyzer 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-20T04:31:33.545725+00:00"
   },
   {
     "slug": "best-ai-spreadsheet-2026",
