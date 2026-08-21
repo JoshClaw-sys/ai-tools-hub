@@ -309,14 +309,16 @@
     "category": "data-analysis",
     "status": "todo",
     "topic": "best ai spreadsheet 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-21T04:30:40.972023+00:00"
   },
   {
     "slug": "best-ai-workflow-automation-2026",
     "category": "automation",
     "status": "todo",
     "topic": "best ai workflow automation 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-21T04:30:40.972550+00:00"
   },
   {
     "slug": "best-ai-customer-support-2026",
