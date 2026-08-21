@@ -895,5 +895,51 @@
       "id": 4440148,
       "timestamp": "2026-08-20T04:41:27.310774+00:00"
     }
+  },
+  "best-ai-spreadsheet-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-21T04:34:21.083777+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-21T04:34:56.084073+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-21T04:34:56.084152+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-spreadsheet-tools-2026-tested-picks-real-world-reviews-1gan",
+      "id": 4449565,
+      "timestamp": "2026-08-21T04:34:57.818333+00:00"
+    }
+  },
+  "best-ai-workflow-automation-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-21T04:36:07.972253+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-21T04:36:42.972515+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-21T04:36:42.972580+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-workflow-automation-tools-2026-tested-picks-real-world-reviews-369e",
+      "id": 4449573,
+      "timestamp": "2026-08-21T04:36:43.835971+00:00"
+    }
   }
 }
