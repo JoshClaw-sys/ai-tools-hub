@@ -941,5 +941,51 @@
       "id": 4449573,
       "timestamp": "2026-08-21T04:36:43.835971+00:00"
     }
+  },
+  "best-ai-customer-support-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-22T04:34:10.011835+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-22T04:34:45.012128+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-22T04:34:45.012190+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-customer-support-tools-2026-tested-picks-real-world-reviews-1e2d",
+      "id": 4458309,
+      "timestamp": "2026-08-22T04:34:46.229170+00:00"
+    }
+  },
+  "best-ai-sales-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-22T04:36:13.031587+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-22T04:36:48.031885+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-22T04:36:48.031949+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-sales-tools-2026-tested-picks-real-world-reviews-5cnn",
+      "id": 4458314,
+      "timestamp": "2026-08-22T04:36:49.012535+00:00"
+    }
   }
 }
