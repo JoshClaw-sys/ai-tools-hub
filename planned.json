@@ -325,14 +325,16 @@
     "category": "business",
     "status": "todo",
     "topic": "best ai customer support 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-22T04:31:03.984919+00:00"
   },
   {
     "slug": "best-ai-sales-tool-2026",
     "category": "business",
     "status": "todo",
     "topic": "best ai sales tool 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-22T04:31:03.985452+00:00"
   },
   {
     "slug": "best-ai-tutor-2026",
