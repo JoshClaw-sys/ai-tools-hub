@@ -987,5 +987,51 @@
       "id": 4458314,
       "timestamp": "2026-08-22T04:36:49.012535+00:00"
     }
+  },
+  "best-ai-tutor-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-23T04:38:21.023468+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-23T04:38:56.023778+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-23T04:38:56.023868+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tutor-apps-2026-tested-picks-real-world-reviews-2ldi",
+      "id": 4465659,
+      "timestamp": "2026-08-23T04:38:57.193722+00:00"
+    }
+  },
+  "best-ai-homework-helper-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-23T04:40:16.879339+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-23T04:40:51.879693+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-23T04:40:51.879750+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-homework-helpers-2026-tested-picks-real-world-reviews-3pj4",
+      "id": 4465665,
+      "timestamp": "2026-08-23T04:40:53.082064+00:00"
+    }
   }
 }
