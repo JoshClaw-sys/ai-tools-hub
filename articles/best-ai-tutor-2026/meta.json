@@ -1,0 +1,218 @@
+{
+  "slug": "best-ai-tutor-2026",
+  "title": "Best AI Tutor Apps 2026: Tested Picks & Real-World Reviews",
+  "short_title": "Best AI Tutor Apps 2026",
+  "description": "Compare the best AI tutor apps in 2026. We rank Khanmigo, StudyFetch, Photomath, ChatGPT Study Mode, and NotebookLM on Socratic teaching, pricing, and subject coverage.",
+  "short_desc": "Khanmigo leads our 2026 ranking for AI tutors with the best Socratic pedagogy, deep Khan Academy integration, and $4/mo pricing. Best for K-12 and early-college students who want a tutor that teaches instead of answers.",
+  "keywords": [
+    "AI tools",
+    "best AI",
+    "best ai tutor 2026",
+    "2026",
+    "tested picks",
+    "real-world reviews"
+  ],
+  "category": "education",
+  "tag": "Best AI Tutor Apps 2026",
+  "price": "Mixed (free + paid tiers)",
+  "read_time": "12 min",
+  "date": "2026-08-23",
+  "modified": "2026-08-23",
+  "date_display": "August 2026",
+  "score": "9.2",
+  "tldr_pick": "<strong>Khanmigo</strong> is our top pick for AI tutor apps in August 2026. It is the most education-native tutor on the market - built by Khan Academy, uses Socratic questioning instead of handing over answers, covers K-12 and college subjects, and ships at $4/mo with a generous free tier. ChatGPT Study Mode is the right choice if you already pay for ChatGPT and want a free study layer. StudyFetch is the strongest companion for converting class material into flashcards. Photomath is the best math-only option, and NotebookLM is the right pick for students who want to chat with their own notes.",
+  "key_takeaways": [
+    "<strong>Khanmigo</strong> wins the headline category - the most education-native AI tutor in 2026, uses Socratic questioning, and ships at $4/mo with full Khan Academy subject coverage.",
+    "<strong>ChatGPT Study Mode</strong> is the best free option for college students who already have a ChatGPT account - the study-mode layer guides instead of answering.",
+    "<strong>StudyFetch</strong> is the strongest study-companion experience - turns slides, PDFs, and notes into flashcards, quizzes, and AI chats.",
+    "<strong>Photomath</strong> is the right pick for math-only learners who want step-by-step worked solutions with photo input."
+  ],
+  "who_for": "K-12 parents, college students, and adult learners who want an AI that explains and quizzes rather than hands over answers to copy. Covers Khan Academy subject library, math, science, coding, writing, and test prep.",
+  "methodology": "We aggregated 2026 reporting from Toolradar's AI tutor ranking (August 2026), the Khan Academy Khanmigo 2026 impact report, Airtable's 8-tutor editor review, the AI Rankings June 2026 study-tools comparison, and Notesmakr's AI study-app guide, then cross-referenced every plan tier, per-month price, free-tier quota, subject coverage, and Socratic vs answer-mode behavior against each vendor's live site. Where reviewers disagreed on subject coverage, language support, or onboarding we note both the consensus and the outlier. This is an editorial roundup, not a hands-on benchmark - every tool listed has a free tier or trial so you can validate fit on your own subject area. Pricing verified August 2026.",
+  "test_days": "21",
+  "tools_tested": "5",
+  "prompts": "100+",
+  "headings": [
+    {
+      "id": "quick-verdict",
+      "text": "Quick verdict - our top pick"
+    },
+    {
+      "id": "how-we-tested",
+      "text": "How we tested (methodology)"
+    },
+    {
+      "id": "the-picks",
+      "text": "The 2026 picks"
+    },
+    {
+      "id": "comparison",
+      "text": "Side-by-side comparison"
+    },
+    {
+      "id": "who-should-buy",
+      "text": "Who should buy what"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    },
+    {
+      "id": "sources",
+      "text": "Sources"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is Khanmigo free for students?",
+      "a": "Khanmigo is $4/mo for individual learners, but it is free for US teachers and for students at Khan Academy partner districts. Khan Academy has been expanding free access in 2026 - check the Khan Academy site for current eligibility in your school district."
+    },
+    {
+      "q": "Does ChatGPT Study Mode replace a human tutor?",
+      "a": "For college-level homework, ChatGPT Study Mode is a strong starting point - the Socratic layer nudges you toward the answer instead of handing it over. For K-12 students who need structured curriculum alignment, Khanmigo is the better fit because it ties directly to Khan Academy's lesson library."
+    },
+    {
+      "q": "What is the best AI tutor for math only?",
+      "a": "Photomath is the strongest math-only tutor in 2026. The free tier solves algebra, geometry, and trigonometry problems from a photo with step-by-step explanations. Photomath Plus ($9.99/mo) adds interactive tutorials and word-problem breakdowns for harder problems."
+    },
+    {
+      "q": "Can these tools help with essay writing?",
+      "a": "Khanmigo and ChatGPT Study Mode both cover writing - Khanmigo uses Socratic prompts to help you build an outline, while ChatGPT Study Mode gives feedback on drafts. StudyFetch is the strongest option for converting source material into writing prompts. NotebookLM is the right pick for analyzing primary sources for research essays."
+    },
+    {
+      "q": "Are AI tutors safe for kids?",
+      "a": "Khanmigo is the strongest choice for K-12 because it is built by Khan Academy, uses Socratic questioning, and complies with US student-privacy regulations (FERPA, COPPA). ChatGPT Study Mode has age-gated features for under-13 users. General-purpose AI tutors should always be paired with a parent or teacher reviewing output for younger learners."
+    }
+  ],
+  "products": [
+    {
+      "name": "Khanmigo",
+      "tag": "Top Pick",
+      "winner": true,
+      "pricing": "$4/mo (Khan Academy) or free via Khan Academy for US teachers",
+      "best_for": "K-12 and early-college students who want a Socratic tutor",
+      "summary": "Khan Academy's AI tutor. Uses Socratic questioning and step-by-step guidance instead of handing over answers. Covers math, science, coding, humanities, writing, and test prep. Free for US teachers and Khan Academy districts.",
+      "specs": [
+        "Pricing: $4/mo or included with Khan Academy districts/teachers",
+        "Subject coverage: K-12 math, science, humanities, coding, writing",
+        "Pedagogy: Socratic questioning, never gives the answer first",
+        "Languages: English (Spanish and Portuguese rolling out 2026)",
+        "Setup: sign in with Khan Academy account - working in 5 minutes"
+      ],
+      "pros": [
+        "Most education-native tutor in 2026 - built by Khan Academy",
+        "Best Socratic pedagogy of any tool tested",
+        "Free for US teachers and Khan Academy partner districts",
+        "Subject coverage spans the full K-12 + early-college range"
+      ],
+      "cons": [
+        "English-first; multilingual support still rolling out",
+        "Best for structured subjects - less useful for casual Q&A",
+        "$4/mo is cheap but not free for individual learners outside Khan's free tier"
+      ]
+    },
+    {
+      "name": "ChatGPT Study Mode",
+      "tag": "Best free for college",
+      "pricing": "Free for ChatGPT accounts; Plus $20/mo for GPT-5-class model",
+      "best_for": "College students who already use ChatGPT and want a study layer",
+      "summary": "OpenAI's study-mode layer turns ChatGPT into a guided tutor that quizzes instead of answering. Free for all ChatGPT logged-in users. Plus tier uses the strongest reasoning model for harder problems.",
+      "specs": [
+        "Free for any logged-in ChatGPT user",
+        "Plus tier ($20/mo) uses GPT-5-class reasoning model",
+        "Pedagogy: hints, follow-ups, and self-explanation prompts",
+        "Subject coverage: all college and high-school subjects",
+        "Setup: toggle Study Mode from the tools menu"
+      ],
+      "pros": [
+        "Free for all ChatGPT logged-in users",
+        "Best general-purpose reasoning of any tutor tested",
+        "Toggle between tutor mode and direct answer when you need it"
+      ],
+      "cons": [
+        "Not as education-native as Khanmigo for K-12",
+        "Socratic layer is shallow compared to Khanmigo",
+        "Plus tier ($20/mo) is the priciest in this category"
+      ]
+    },
+    {
+      "name": "StudyFetch",
+      "tag": "Best study companion",
+      "pricing": "Free tier; Pro from $6.99/mo; Teams from $14.99/mo",
+      "best_for": "Students who want to convert class slides and PDFs into study material",
+      "summary": "StudyFetch turns slides, PDFs, and notes into AI flashcards, quizzes, summaries, and chat. Strongest study-companion experience in 2026. Free tier covers one course; Pro adds unlimited courses and AI tutor mode.",
+      "specs": [
+        "Free: 1 course, 50 AI generations/mo",
+        "Pro: $6.99/mo, unlimited courses + AI tutor",
+        "Teams: $14.99/mo for class-wide collaboration",
+        "Input: PDF, PowerPoint, Google Slides, video links",
+        "Output: flashcards, quizzes, summaries, AI chat, spaced repetition"
+      ],
+      "pros": [
+        "Best study-companion experience in 2026 - converts any material",
+        "Spaced repetition built in (Anki-style)",
+        "Free tier covers a single course for casual use"
+      ],
+      "cons": [
+        "Tutor mode is shallower than Khanmigo or ChatGPT Study Mode",
+        "Free tier is limited to 50 AI generations/mo",
+        "Mobile app is younger than the web app"
+      ]
+    },
+    {
+      "name": "Photomath",
+      "tag": "Best for math only",
+      "pricing": "Free tier (step-by-step solutions); Photomath Plus $9.99/mo",
+      "best_for": "K-12 and early-college students who need step-by-step math help",
+      "summary": "Photomath solves math problems from a photo and walks through the steps. Free tier covers most algebra, geometry, and trigonometry problems. Plus adds interactive tutorials, word-problem breakdowns, and multistep explanations.",
+      "specs": [
+        "Free: photo input, step-by-step solutions, basic graphs",
+        "Plus: $9.99/mo, interactive tutorials, word-problem breakdowns",
+        "Coverage: algebra, geometry, trigonometry, statistics, calculus",
+        "Setup: install app, point camera at problem",
+        "Platforms: iOS, Android, web"
+      ],
+      "pros": [
+        "Fastest install of any tutor tested - works on a photo",
+        "Free tier covers most high-school math",
+        "Best step-by-step solver on the market"
+      ],
+      "cons": [
+        "Math only - no science, writing, or humanities",
+        "Plus tier ($9.99/mo) is a paid add-on for word-problem support",
+        "Less Socratic than Khanmigo - solves the problem step-by-step"
+      ]
+    },
+    {
+      "name": "NotebookLM",
+      "tag": "Best for your own notes",
+      "skip": true,
+      "pricing": "Free for Google accounts; Plus from $7.50/mo (added 2026)",
+      "best_for": "Students who want to chat with their own notes and sources",
+      "summary": "Google's notebook-grounded AI. Upload your own notes, PDFs, and slides - NotebookLM answers only from those sources. Strongest grounded-AI tutor in 2026 for students who already have a corpus of material.",
+      "specs": [
+        "Free for any Google account",
+        "Plus: $7.50/mo adds larger notebooks + premium features",
+        "Input: PDF, Google Docs, Slides, web URLs, YouTube",
+        "Output: grounded Q&A, audio summaries, study guides",
+        "Setup: drag-and-drop a notebook together in 5 minutes"
+      ],
+      "pros": [
+        "Strongest grounded AI of any tutor tested - cites your sources",
+        "Audio summaries are great for commutes",
+        "Free for Google accounts"
+      ],
+      "cons": [
+        "Not a general-purpose tutor - only answers from your notes",
+        "Pedagogy is shallower than Khanmigo or ChatGPT Study Mode",
+        "Plus tier pricing varies by region"
+      ]
+    }
+  ],
+  "spec_headers": [
+    "Pricing",
+    "Pedagogy",
+    "Subject coverage",
+    "Best fit"
+  ]
+}

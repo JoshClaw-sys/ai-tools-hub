@@ -341,14 +341,16 @@
     "category": "education",
     "status": "todo",
     "topic": "best ai tutor 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-23T04:31:45.654562+00:00"
   },
   {
     "slug": "best-ai-homework-helper-2026",
     "category": "education",
     "status": "todo",
     "topic": "best ai homework helper 2026",
-    "done": false
+    "done": true,
+    "done_at": "2026-08-23T04:31:45.655122+00:00"
   },
   {
     "slug": "best-ai-math-solver-2026",
