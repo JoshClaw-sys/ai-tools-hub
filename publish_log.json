@@ -1033,5 +1033,51 @@
       "id": 4465665,
       "timestamp": "2026-08-23T04:40:53.082064+00:00"
     }
+  },
+  "best-ai-math-solver-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-24T04:35:27.121604+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-24T04:36:02.121931+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-24T04:36:02.121985+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-math-solver-2026-tested-picks-real-world-reviews-1np7",
+      "id": 4471400,
+      "timestamp": "2026-08-24T04:36:03.875189+00:00"
+    }
+  },
+  "best-ai-essay-writer-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-24T04:37:31.782261+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-24T04:38:06.782572+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-24T04:38:06.782632+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-essay-writer-2026-tested-picks-real-world-reviews-267o",
+      "id": 4471414,
+      "timestamp": "2026-08-24T04:38:07.738831+00:00"
+    }
   }
 }
