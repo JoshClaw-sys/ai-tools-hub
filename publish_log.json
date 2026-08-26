@@ -1125,5 +1125,51 @@
       "id": 4480653,
       "timestamp": "2026-08-25T04:35:15.106977+00:00"
     }
+  },
+  "best-ai-app-builder-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-26T04:37:51.741702+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-26T04:38:26.742017+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-26T04:38:26.742069+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-app-builder-2026-tested-picks-real-world-reviews-134e",
+      "id": 4490174,
+      "timestamp": "2026-08-26T04:38:28.598518+00:00"
+    }
+  },
+  "best-ai-chatbot-builder-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-26T04:39:41.697228+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-26T04:40:16.697589+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-26T04:40:16.697656+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-chatbot-builder-2026-tested-picks-real-world-reviews-5bkf",
+      "id": 4490195,
+      "timestamp": "2026-08-26T04:40:18.248883+00:00"
+    }
   }
 }
