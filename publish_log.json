@@ -1171,5 +1171,74 @@
       "id": 4490195,
       "timestamp": "2026-08-26T04:40:18.248883+00:00"
     }
+  },
+  "best-ai-agent-framework-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-28T04:39:52.470634+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-28T04:40:27.471004+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-28T04:40:27.471070+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-agent-frameworks-2026-tested-picks-real-world-reviews-3bko",
+      "id": 4509760,
+      "timestamp": "2026-08-28T04:40:28.939751+00:00"
+    }
+  },
+  "best-ai-content-detection-tools-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-28T04:41:55.289434+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-28T04:42:30.289878+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-28T04:42:30.289929+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-content-detection-tools-2026-tested-picks-real-world-reviews-50lg",
+      "id": 4509770,
+      "timestamp": "2026-08-28T04:42:31.628634+00:00"
+    }
+  },
+  "best-ai-tools-for-ecommerce-and-dropshipping-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-28T04:43:51.494517+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-28T04:44:26.494828+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-28T04:44:26.494888+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-ecommerce-and-dropshipping-2026-tested-picks-real-world-reviews-3c1",
+      "id": 4509785,
+      "timestamp": "2026-08-28T04:44:27.320323+00:00"
+    }
   }
 }
