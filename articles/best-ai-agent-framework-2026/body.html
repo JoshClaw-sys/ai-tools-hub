@@ -1,0 +1,162 @@
+<h2 id="quick-verdict">Quick verdict - our top pick</h2>
+
+<p>If you are building something that has to survive production - regulated industries, long-running workflows, multi-step approvals, audit trails - <strong>LangGraph</strong> is the safest default in 2026. Its graph-based architecture, durable execution, and best-in-class observability via LangSmith map cleanly to what compliance teams ask for. The additional engineering overhead pays for itself the first time you need to replay a failed workflow instead of rebuilding it from scratch.</p>
+
+<p><strong>Best for most production teams:</strong> LangGraph.<br>
+<strong>Best for fast prototyping:</strong> CrewAI - you can ship a working crew in under 20 lines of Python.<br>
+<strong>Best for pure OpenAI shops:</strong> OpenAI Agents SDK - cleanest developer experience in the space.<br>
+<strong>Best for research and offline workflows:</strong> AutoGen / AG2.</p>
+
+<h2 id="how-we-tested">How we picked these frameworks</h2>
+
+<p>This is a research roundup, not a hands-on benchmark. We aggregated 2026 reviews and comparisons from Trendix, aiagentslist.com, and the official project documentation for each framework. We focused on three signals: production-readiness (does the framework ship with observability, durability, and rollback), ecosystem health (GitHub stars, recent releases, enterprise adoption), and architectural fit (which framework matches which kind of workflow).</p>
+
+<p>The frameworks were scored on:</p>
+
+<ul>
+  <li><strong>Production-readiness</strong> - enterprise deployments, observability, durable execution</li>
+  <li><strong>Ecosystem health</strong> - release cadence, community size, vendor support</li>
+  <li><strong>Architectural clarity</strong> - does the mental model map to your workflow</li>
+  <li><strong>Ease of onboarding</strong> - time to first useful agent</li>
+  <li><strong>Vendor lock-in risk</strong> - can you migrate off without rewriting everything</li>
+</ul>
+
+<p>Pricing was verified against each vendor's official website as of August 2026. Verify live pricing before committing to a paid tier - plan structures and seat pricing change frequently.</p>
+
+<h2 id="the-picks">The four frameworks we recommend</h2>
+
+<div class="product-card">
+<span class="badge top">&#11088; Top Pick</span>
+<h3>1. LangGraph</h3>
+<div class="price-line">Free open-source; LangSmith from $39/mo per seat</div>
+<p><strong>Best for:</strong> Complex, stateful production workflows in regulated industries.</p>
+<p>Graph-based state machine with durable execution, human-in-the-loop checkpoints, branching logic, and built-in memory. Verified enterprise deployments include Klarna, Uber, LinkedIn, BlackRock, Cisco, Elastic, JPMorgan, and Replit. The default runtime for all LangChain agents. Steepest learning curve, but the payoff is the safest production path available in 2026.</p>
+<p><em>Source: <a href="https://www.trendix.tech/langgraph-vs-crewai-vs-autogen-2026/" rel="noopener" target="_blank">Trendix 2026 framework comparison</a></em></p>
+</div>
+
+<div class="product-card">
+<h3>2. CrewAI</h3>
+<div class="price-line">Free open-source core; Enterprise tier pricing on request</div>
+<p><strong>Best for:</strong> Fast multi-agent prototypes with role-based task delegation.</p>
+<p>Role-based crews where each agent gets a description, goal, and tools. Went from ~32K to 50K+ GitHub stars in under a year. Visual editor shipped in 2025 is a genuine differentiator for less-technical teams. March 2026 Enterprise tier added observability, scheduling, and RBAC - the main reasons teams previously migrated to LangGraph.</p>
+<p><em>Source: <a href="https://aiagentslist.com/blog/ai-agent-frameworks-compared-langgraph-vs-crewai-vs-openai-agents-sdk-vs-autogen" rel="noopener" target="_blank">aiagentslist.com framework comparison</a></em></p>
+</div>
+
+<div class="product-card">
+<h3>3. OpenAI Agents SDK</h3>
+<div class="price-line">Free SDK; OpenAI API usage costs</div>
+<p><strong>Best for:</strong> OpenAI-native pipelines with built-in tools, guardrails, and tracing.</p>
+<p>Replaced the experimental Swarm framework in March 2025. April 2026 v0.13 added an any-LLM adapter so it works with non-OpenAI models via the Chat Completions API, plus native sandbox execution, first-class MCP support, and session persistence. Cleanest developer experience if you're committed to the OpenAI ecosystem.</p>
+<p><em>Source: <a href="https://www.trendix.tech/langgraph-vs-crewai-vs-autogen-2026/" rel="noopener" target="_blank">Trendix 2026 framework comparison</a></em></p>
+</div>
+
+<div class="product-card">
+<h3>4. AutoGen / AG2</h3>
+<div class="price-line">Fully free and open-source</div>
+<p><strong>Best for:</strong> Conversational research agents and code-gen with review loops.</p>
+<p>Microsoft's original framework reached 1.0 GA as AG2 after a community fork. Excellent for research, prototyping, and quality-sensitive offline tasks. Not the right answer for customer-facing production in 2026 - no first-party observability, no commercial support, and the AutoGen to AG2 ecosystem split creates documentation inconsistency.</p>
+<p><em>Source: <a href="https://aiagentslist.com/blog/ai-agent-frameworks-compared-langgraph-vs-crewai-vs-openai-agents-sdk-vs-autogen" rel="noopener" target="_blank">aiagentslist.com framework comparison</a></em></p>
+</div>
+
+<div class="product-card">
+<span class="badge skip">&#9888; Skip</span>
+<h3>5. Microsoft Agent Framework</h3>
+<div class="price-line">Free open-source; pre-1.0 (1.0 GA targeted Q1 2026)</div>
+<p><strong>Best for:</strong> Waiting for 1.0 GA before committing.</p>
+<p>Merges AutoGen with Semantic Kernel into a unified Microsoft-backed project. Worth tracking but too early to bet a production roadmap on. Migration uncertainty for existing AutoGen users and no production-ready observability yet. Skip until 1.0 GA ships.</p>
+<p><em>Source: <a href="https://www.trendix.tech/langgraph-vs-crewai-vs-autogen-2026/" rel="noopener" target="_blank">Trendix 2026 framework comparison</a></em></p>
+</div>
+
+<h2 id="comparison">Side-by-side comparison</h2>
+
+<table class="comparison-table">
+<thead><tr><th>Framework</th><th>Architecture</th><th>Maturity</th><th>Stars</th><th>Best For</th><th>Score</th></tr></thead>
+<tbody>
+<tr class="winner"><td>LangGraph</td><td>Directed graph</td><td>v1.1.3 stable</td><td>~25K</td><td>Production stateful workflows</td><td>9.1/10</td></tr>
+<tr><td>CrewAI</td><td>Role-based crews</td><td>v1.x stable</td><td>~50K+</td><td>Fast prototypes</td><td>8.7/10</td></tr>
+<tr><td>OpenAI Agents SDK</td><td>Explicit handoffs</td><td>v0.13 pre-1.0</td><td>~19K</td><td>OpenAI-native pipelines</td><td>8.4/10</td></tr>
+<tr><td>AutoGen / AG2</td><td>Conversational GroupChat</td><td>1.0 GA (fork)</td><td>~55K</td><td>Research and code review</td><td>7.9/10</td></tr>
+<tr class="skip-row"><td>MS Agent Framework</td><td>TBA</td><td>Pre-1.0</td><td>TBA</td><td>Wait for 1.0 GA</td><td>Skip</td></tr>
+</tbody>
+</table>
+
+<h2 id="who-should-buy">Which framework should you pick</h2>
+
+<ul>
+  <li><strong>If you ship to regulated industries</strong> (finance, healthcare, legal) - LangGraph. Durable execution, audit trails, and human-in-the-loop are table stakes, and LangGraph is the only framework with verified enterprise deployments at Klarna, BlackRock, and JPMorgan.</li>
+  <li><strong>If you're a startup validating an agent use case</strong> - CrewAI. Define a working crew in under 20 lines of Python, ship a prototype this week. Plan for a LangGraph migration when you need scale, observability, or RBAC.</li>
+  <li><strong>If you're all-in on the OpenAI ecosystem</strong> - OpenAI Agents SDK. Built-in tools, guardrails, and tracing save weeks of integration work. The any-LLM adapter in v0.13 means you're not locked to OpenAI models forever, even if you start there.</li>
+  <li><strong>If you're doing offline, quality-sensitive research</strong> - AutoGen / AG2. The conversational GroupChat model is unmatched for code review loops and research synthesis. Just don't deploy it to customers without observability infrastructure.</li>
+  <li><strong>If you're a Microsoft shop</strong> - watch the Microsoft Agent Framework. 1.0 GA in Q1 2026 will replace AutoGen as Microsoft's recommended path. Don't migrate yet; do track the release.</li>
+</ul>
+
+<h3>Pricing and plan notes that matter</h3>
+
+<p>The four frameworks share a structural pattern: the framework itself is free open-source, and you pay for the surrounding observability and hosted control plane. LangGraph's free LangSmith tier covers development; LangSmith Plus starts at $39/mo per seat and Enterprise pricing is custom. CrewAI's free core is the same shape, with Enterprise pricing negotiated case by case. OpenAI Agents SDK and AutoGen / AG2 are pure open-source with no paid observability tier - you'll either build your own observability or use third-party tools like Langfuse, Helicone, or Phoenix.</p>
+
+<p>Two pricing traps to watch. First, OpenAI Agents SDK has no built-in cost controls - one developer reported a $3,200 bill from an overnight infinite loop. If you choose the SDK, build a token budget guard before production. Second, CrewAI's March 2026 Enterprise tier is required for the observability and scheduling features that teams used to migrate to LangGraph for. If you skip Enterprise tier on CrewAI, you may still need LangGraph eventually.</p>
+
+<h3>Free vs paid: when to upgrade</h3>
+
+<p>The free tier of all four frameworks is genuinely usable for prototypes and internal tools. The three concrete thresholds that justify a paid observability tier like LangSmith Plus or CrewAI Enterprise:</p>
+
+<ul>
+  <li><strong>Cross-team usage</strong> - once multiple engineers run agents in production, shared tracing and replay become essential</li>
+  <li><strong>Audit and compliance</strong> - regulated industries need durable execution history and human-in-the-loop checkpoints visible to compliance teams</li>
+  <li><strong>Operational reliability</strong> - once an agent failure costs more than $200/mo in customer impact, observability becomes the cheaper option</li>
+</ul>
+
+<p>Below those thresholds, the free tier covers the job. Above them, the paid observability tier pays for itself in the first month you avoid a multi-day incident root-cause search.</p>
+
+<h3>Architectural migration paths</h3>
+
+<p>The honest sequence most teams follow in 2026: start with CrewAI or OpenAI Agents SDK to validate a use case (under 2 weeks), graduate to LangGraph when you need production durability or audit trails (1-3 month migration), and watch the Microsoft Agent Framework for the long-term Microsoft-shop roadmap. AutoGen / AG2 remains a research-grade parallel track that occasionally feeds production wins via offline batch workflows. Plan the migration before you need it, not after.</p>
+
+<blockquote>If you ship to production and audit trails matter, <strong>LangGraph</strong> is the safest default in 2026. Start with CrewAI or OpenAI Agents SDK to validate the use case, then graduate.</blockquote>
+
+<h2 id="frequently-asked">Frequently asked questions</h2>
+
+<div class="faq-item">
+<h3>What is the best AI agent framework in 2026?</h3>
+<p>LangGraph is the safest default for complex, stateful production workflows in regulated industries. CrewAI is the faster first choice for prototyping. OpenAI Agents SDK is the cleanest developer experience if you're committed to the OpenAI ecosystem. Avoid AutoGen / AG2 for customer-facing production - it remains a research-grade framework.</p>
+</div>
+
+<div class="faq-item">
+<h3>Are free AI agent frameworks worth using in 2026?</h3>
+<p>Yes. LangGraph, CrewAI, OpenAI Agents SDK, and AutoGen are all free at the framework layer. You pay for the underlying LLM tokens and (optionally) for observability like LangSmith or CrewAI Enterprise. For most prototypes and internal tools, the free tier covers the job.</p>
+</div>
+
+<div class="faq-item">
+<h3>Which agent framework is best for production deployments?</h3>
+<p>LangGraph. Its graph-based architecture with durable execution and human-in-the-loop checkpoints maps cleanly to the audit trails, rollback points, and approval flows that regulated industries require. OpenAI Agents SDK is a close second for OpenAI shops.</p>
+</div>
+
+<div class="faq-item">
+<h3>What happened to AutoGen in 2026?</h3>
+<p>AutoGen split into two projects. The official Microsoft repository pushed a v0.4 to v1.0 GA rewrite, while the community that preferred v0.2 continued under AG2 at ag2.ai. Microsoft also announced the Microsoft Agent Framework, merging AutoGen with Semantic Kernel into a unified platform with 1.0 GA targeted for end of Q1 2026.</p>
+</div>
+
+<div class="faq-item">
+<h3>Do I need LangSmith if I use LangGraph?</h3>
+<p>Not strictly - LangGraph runs without LangSmith and is free at the framework layer. But LangSmith is the observability layer that makes LangGraph production-viable: tracing, replay, and debugging across distributed agent runs. For most teams, budgeting for LangSmith is part of budgeting for LangGraph in production.</p>
+</div>
+
+<h2 id="sources">Sources</h2>
+
+<ul>
+<li><a href="https://www.trendix.tech/langgraph-vs-crewai-vs-autogen-2026/" rel="noopener" target="_blank">Trendix 2026 framework comparison</a></li>
+<li><a href="https://aiagentslist.com/blog/ai-agent-frameworks-compared-langgraph-vs-crewai-vs-openai-agents-sdk-vs-autogen" rel="noopener" target="_blank">aiagentslist.com framework comparison</a></li>
+<li><a href="https://www.langchain.com/langgraph" rel="noopener" target="_blank">LangGraph official documentation</a></li>
+<li><a href="https://www.crewai.com/" rel="noopener" target="_blank">CrewAI official site</a></li>
+<li><a href="https://openai.github.io/openai-agents-python/" rel="noopener" target="_blank">OpenAI Agents SDK documentation</a></li>
+</ul>
+
+<p><em>Last updated: August 2026. Pricing verified against each vendor's official website on August 2026.</em></p>
+
+<div class="author-bio">
+<div class="avatar">AI</div>
+<div class="info">
+<h3>AI Tools Hub Editorial</h3>
+<p>We write editorial roundups on AI tooling, not hands-on benchmarks. Every recommendation is based on aggregating public 2026 reviews and vendor documentation. <a href="../about.html">Learn more about our editorial process</a>.</p>
+</div>
+</div>
