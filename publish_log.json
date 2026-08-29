@@ -1240,5 +1240,51 @@
       "id": 4509785,
       "timestamp": "2026-08-28T04:44:27.320323+00:00"
     }
+  },
+  "best-ai-tools-for-cybersecurity-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-29T04:36:47.780919+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-29T04:37:22.781227+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-29T04:37:22.781287+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-cybersecurity-2026-106e",
+      "id": 4518934,
+      "timestamp": "2026-08-29T04:35:49.240436+00:00"
+    }
+  },
+  "best-ai-podcast-tools-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-29T04:38:04.805357+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-29T04:38:39.805680+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-29T04:38:39.805736+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-podcast-tools-2026-28ne",
+      "id": 4518946,
+      "timestamp": "2026-08-29T04:38:41.015902+00:00"
+    }
   }
 }
