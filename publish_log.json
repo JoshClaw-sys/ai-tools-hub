@@ -1286,5 +1286,51 @@
       "id": 4518946,
       "timestamp": "2026-08-29T04:38:41.015902+00:00"
     }
+  },
+  "best-ai-personal-finance-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-30T04:38:53.437801+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-30T04:39:28.438103+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-30T04:39:28.438155+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-personal-finance-tool-2026-ji4",
+      "id": 4526298,
+      "timestamp": "2026-08-30T04:39:30.095628+00:00"
+    }
+  },
+  "best-ai-hr-recruiting-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-30T04:40:45.201804+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-30T04:41:20.202102+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-30T04:41:20.202163+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-hr-recruiting-tool-2026-d10",
+      "id": 4526310,
+      "timestamp": "2026-08-30T04:41:21.952971+00:00"
+    }
   }
 }
