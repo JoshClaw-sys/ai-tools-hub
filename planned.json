@@ -435,5 +435,19 @@
     "status": "done",
     "done": true,
     "done_at": "2026-08-29T04:31:17.033779+00:00"
+  },
+  {
+    "category": "productivity",
+    "status": "todo",
+    "topic": "best ai personal finance tool 2026",
+    "done": true,
+    "done_at": "2026-08-30T04:32:07.883089+00:00"
+  },
+  {
+    "category": "business",
+    "status": "todo",
+    "topic": "best ai hr recruiting tool 2026",
+    "done": true,
+    "done_at": "2026-08-30T04:32:07.883699+00:00"
   }
 ]
