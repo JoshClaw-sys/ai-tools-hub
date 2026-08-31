@@ -1332,5 +1332,51 @@
       "id": 4526310,
       "timestamp": "2026-08-30T04:41:21.952971+00:00"
     }
+  },
+  "best-ai-social-media-manager-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-31T04:34:16.574447+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-31T04:34:51.574801+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-31T04:34:51.574858+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-social-media-manager-tool-2026-tested-picks-real-world-reviews-a78",
+      "id": 4532710,
+      "timestamp": "2026-08-31T04:34:53.110332+00:00"
+    }
+  },
+  "best-ai-cold-email-outreach-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-31T04:36:06.377815+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-31T04:36:41.378109+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-31T04:36:41.378169+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-cold-email-outreach-tool-2026-tested-picks-real-world-reviews-16mo",
+      "id": 4532723,
+      "timestamp": "2026-08-31T04:36:42.668838+00:00"
+    }
   }
 }
