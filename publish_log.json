@@ -1378,5 +1378,51 @@
       "id": 4532723,
       "timestamp": "2026-08-31T04:36:42.668838+00:00"
     }
+  },
+  "best-ai-lead-scoring-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-01T04:50:16.271779+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-01T04:50:51.272075+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-01T04:50:51.272138+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-lead-scoring-tool-2026-tested-picks-real-world-reviews-1ec1",
+      "id": 4542255,
+      "timestamp": "2026-09-01T04:50:52.413863+00:00"
+    }
+  },
+  "best-ai-personal-assistant-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-01T04:52:15.157113+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-01T04:52:50.157410+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-01T04:52:50.157472+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-personal-assistant-2026-tested-picks-real-world-reviews-o1a",
+      "id": 4542277,
+      "timestamp": "2026-09-01T04:52:51.563943+00:00"
+    }
   }
 }
