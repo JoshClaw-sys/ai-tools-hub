@@ -508,14 +508,16 @@
     "slug": "best-ai-knowledge-base-2026",
     "category": "business",
     "topic": "best AI knowledge base 2026",
-    "status": "todo",
-    "done": false
+    "status": "done",
+    "done": true,
+    "done_at": "2026-09-04T15:46:26.485267+00:00"
   },
   {
     "slug": "best-ai-image-upscaler-2026",
     "category": "image-editing",
     "topic": "best AI image upscaler 2026",
-    "status": "todo",
-    "done": false
+    "status": "done",
+    "done": true,
+    "done_at": "2026-09-04T15:46:26.485301+00:00"
   }
 ]
