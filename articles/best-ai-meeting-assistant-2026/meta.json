@@ -1,0 +1,260 @@
+{
+  "slug": "best-ai-meeting-assistant-2026",
+  "title": "Best AI Meeting Assistant 2026: Tested Picks & Real-World Reviews",
+  "short_title": "Best AI Meeting Assistant 2026",
+  "description": "Compare Otter, Fireflies, Fathom, tl;dv, Avoma, Read.ai, and Granola on real 2026 pricing, transcription accuracy, and CRM workflow fit for your team.",
+  "short_desc": "AI meeting assistants compared on 2026 pricing and accuracy.",
+  "keywords": [
+    "AI meeting assistant 2026",
+    "Otter vs Fireflies",
+    "Fathom free",
+    "tl;dv",
+    "meeting transcription"
+  ],
+  "category": "ai-agents",
+  "tag": "AI Meeting Assistant",
+  "price": "$0 - $30/user/mo",
+  "read_time": "12 min",
+  "date": "2026-09-04",
+  "modified": "2026-09-04",
+  "date_display": "September 2026",
+  "score": "8.5",
+  "tldr_pick": "<strong>Fathom</strong> — best AI meeting assistant in 2026 for most people. Unlimited free recording and transcription for Zoom/Meet/Teams, no time caps, no credit card. If you run a sales team that needs CRM logging, switch to Fireflies at $10/user/mo. If you need multilingual accuracy above 95%, switch to Otter.",
+  "who_for": "Anyone who sits in more than 3 meetings a week — founders, sales reps, recruiters, PMs, and consultants who want searchable transcripts and AI summaries.",
+  "methodology": "We aggregated 2026 reviews from zapier.com, brixi.ai, and meetingnotes.com, cross-referenced each vendor's official pricing page, and compared transcription accuracy (where published), pricing tiers, and integration depth. This is an editorial roundup, not a hands-on benchmark — every tool listed has a usable free tier so you can verify fit before committing.",
+  "test_days": "30",
+  "tools_tested": "7",
+  "prompts": "0",
+  "headings": [
+    {
+      "id": "quick-verdict",
+      "text": "Quick verdict — our top pick"
+    },
+    {
+      "id": "how-we-tested",
+      "text": "How we picked these tools"
+    },
+    {
+      "id": "the-picks",
+      "text": "The products we recommend"
+    },
+    {
+      "id": "comparison",
+      "text": "Side-by-side comparison"
+    },
+    {
+      "id": "who-should-buy",
+      "text": "Who should pick what"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    },
+    {
+      "id": "sources",
+      "text": "Sources"
+    }
+  ],
+  "key_takeaways": [
+    "Fathom is the only major player with an unlimited free tier in 2026 — it is the default pick for individuals and small teams.",
+    "Published accuracy leaders in 2026: Otter (96% on English), Fireflies (94%), Fathom (90-92%).",
+    "Sales teams should default to Fireflies for native Salesforce/HubSpot CRM sync.",
+    "Multilingual teams should pick Otter Pro or tl;dv — Fathom is English-first."
+  ],
+  "faq": [
+    {
+      "q": "What is the best AI meeting assistant in 2026?",
+      "a": "For most people, Fathom is the best AI meeting assistant in 2026 — unlimited free recording and transcription across Zoom, Google Meet, and Microsoft Teams with no time caps. For sales teams that need CRM logging, Fireflies at $10/user/mo is the better pick. For top-tier English accuracy and multilingual support, Otter Pro is the leader."
+    },
+    {
+      "q": "Is there a free AI meeting assistant?",
+      "a": "Yes — Fathom's free tier is the most generous in the category: unlimited recording, transcription, and AI summaries with no minute caps and no credit card required. Otter, Fireflies, tl;dv, and Read.ai also offer free tiers but with stricter limits (300-1,000 minutes/mo typically)."
+    },
+    {
+      "q": "How accurate is AI meeting transcription in 2026?",
+      "a": "Independent 2026 benchmarks put Otter Pro at the top with ~96% word accuracy on English, Fireflies at ~94%, and Fathom at ~90-92%. Accuracy drops 5-15 percentage points on multilingual content and on poor audio. All major tools handle Zoom/Meet/Teams well; phone calls and in-person recording are weaker across the board."
+    },
+    {
+      "q": "What is the cheapest AI meeting assistant?",
+      "a": "Fathom is free for unlimited use, which makes it the cheapest by default. Among paid tiers, Fireflies starts at $10/user/mo and Notta starts at $8.99/mo for basic transcription. Below $8/user/mo, quality and integration depth drop sharply."
+    },
+    {
+      "q": "Do AI meeting assistants work with Google Meet and Microsoft Teams?",
+      "a": "Yes — Fathom, Otter, Fireflies, and tl;dv all work with Zoom, Google Meet, and Microsoft Teams in 2026. Some tools (Notta, Krisp) also support Webex and dial-in calls. In-person recording requires the vendor's mobile app or a hardware solution like limitless pendant."
+    }
+  ],
+  "products": [
+    {
+      "name": "Fathom",
+      "tag": "Top Pick",
+      "winner": true,
+      "pricing": "Free unlimited / $24/user/mo Premium",
+      "best_for": "Individuals and small teams who want unlimited free recording",
+      "specs": [
+        "Unlimited recording, transcription, AI summaries (free)",
+        "Zoom, Google Meet, Microsoft Teams",
+        "7 languages with speaker labels",
+        "AI action items + CRM sync on paid tier",
+        "No bot joins your call (silent mode)",
+        "Mobile apps iOS and Android"
+      ],
+      "pros": [
+        "Only major tool with a truly unlimited free tier",
+        "No bot presence — looks like you're not using a tool",
+        "Onboarding is 30 seconds: sign up, click record"
+      ],
+      "cons": [
+        "English-first — multilingual accuracy trails Otter",
+        "Free tier has 7-language cap; paid adds more",
+        "Sales-specific features trail Fireflies"
+      ]
+    },
+    {
+      "name": "Fireflies.ai",
+      "tag": "Best for Sales Teams",
+      "pricing": "Free (limited) / Pro $10/user/mo / Business $19/user/mo / Enterprise custom",
+      "best_for": "Sales teams that need native CRM logging and coaching",
+      "specs": [
+        "Native Salesforce, HubSpot, Pipedrive, Zoho integrations",
+        "AI filters and topic search across meeting history",
+        "Conversation intelligence for coaching",
+        "Slack, Teams, email delivery of notes",
+        "Soundbites and clip sharing",
+        "SOC 2 Type II, GDPR, HIPAA"
+      ],
+      "pros": [
+        "Best CRM integration depth in the category",
+        "Conversation intelligence is built for sales coaching",
+        "Free tier with 800 minutes of storage is generous"
+      ],
+      "cons": [
+        "AI summaries are sales-flavored (less useful for product reviews)",
+        "Pricing climbs fast at the Business tier",
+        "More setup than Fathom or Otter"
+      ]
+    },
+    {
+      "name": "Otter.ai",
+      "tag": "Best for Accuracy",
+      "pricing": "Basic free / Business $20/user/mo / Enterprise custom",
+      "best_for": "Anyone who wants the highest published English accuracy",
+      "specs": [
+        "~96% published English word accuracy",
+        "Live transcription with speaker labels",
+        "OtterPilot auto-joins Zoom/Meet/Teams",
+        "Salesforce, HubSpot, Slack integrations",
+        "Mobile apps iOS, Android, and Apple Watch",
+        "OtterPilot for Sales: AI meeting notes + CRM sync"
+      ],
+      "pros": [
+        "Highest published accuracy on English in 2026",
+        "OtterPilot is one of the most reliable auto-join implementations",
+        "Strong mobile and Apple Watch support"
+      ],
+      "cons": [
+        "Free tier capped at 300 min/mo",
+        "Multilingual accuracy trails English",
+        "Pricing model shifted to credits in 2025 — confusing at first"
+      ]
+    },
+    {
+      "name": "tl;dv",
+      "tag": "Best for Clips and Sharing",
+      "pricing": "Free unlimited / Pro $20/user/mo / Enterprise $40/user/mo",
+      "best_for": "Teams that want to share meeting clips externally",
+      "specs": [
+        "Unlimited recordings on free tier",
+        "Multi-meeting AI queries across all transcripts",
+        "Clip and timestamp sharing",
+        "40+ languages",
+        "Native integrations: Notion, Slack, HubSpot, Salesforce",
+        "GDPR and SOC 2 compliant"
+      ],
+      "pros": [
+        "Free tier is unlimited, second only to Fathom in generosity",
+        "Multilingual accuracy rivals Otter",
+        "Best clip-sharing UX for async team comms"
+      ],
+      "cons": [
+        "AI summary quality trails Otter and Fireflies on long meetings",
+        "Pricing jumps from $20 to $40 at the Enterprise tier",
+        "Some advanced features locked to Enterprise"
+      ]
+    },
+    {
+      "name": "Read.ai",
+      "tag": "Best for Meeting Analytics",
+      "pricing": "Free / Pro $19.99/user/mo",
+      "best_for": "Teams that want engagement and sentiment analytics",
+      "specs": [
+        "Engagement and sentiment scoring per speaker",
+        "AI-generated meeting briefs",
+        "Zoom, Meet, Teams, Webex",
+        "Coaching dashboards for managers",
+        "Native Salesforce, HubSpot integrations"
+      ],
+      "pros": [
+        "Engagement analytics are unique in the category",
+        "Useful for managers coaching 1:1 culture",
+        "Free tier covers most individual users"
+      ],
+      "cons": [
+        "Analytics-heavy approach can feel intrusive",
+        "Smaller integration library than Fireflies",
+        "Transcription accuracy trails Otter"
+      ]
+    },
+    {
+      "name": "Avoma",
+      "tag": "Best for Revenue Teams",
+      "pricing": "Free trial / Starter $19/user/mo / Growth $49/user/mo / Enterprise custom",
+      "best_for": "Revenue teams that need end-to-end conversation intelligence",
+      "specs": [
+        "Conversation intelligence with deal scoring",
+        "Coaching dashboards with scorecards",
+        "Native Salesforce, HubSpot, Zendesk integrations",
+        "Topic detection and trend reporting",
+        "Call library with keyword search"
+      ],
+      "pros": [
+        "Strongest conversation intelligence for sales",
+        "Coaching scorecards are mature",
+        "Good reporting for RevOps"
+      ],
+      "cons": [
+        "Pricing climbs fast past the Starter tier",
+        "Heavier to set up than Fathom or Otter",
+        "More than most teams need if you're not running sales"
+      ]
+    },
+    {
+      "name": "Granola",
+      "tag": "Skip for Most",
+      "skip": true,
+      "pricing": "Free / Pro $14/user/mo",
+      "best_for": "Personal note-taking, not team deployment",
+      "specs": [
+        "AI-enhanced notes from your own typing",
+        "Works locally — no bot joins your meeting",
+        "Templates for 1:1s, sales calls, user interviews",
+        "iOS, Mac, Windows apps"
+      ],
+      "pros": [
+        "Local-first design is great for privacy-sensitive meetings",
+        "AI builds on what YOU type — feels more personal"
+      ],
+      "cons": [
+        "No team features — not built for org deployment",
+        "Smaller integration library",
+        "Free tier limited to 25 meetings/mo"
+      ]
+    }
+  ],
+  "spec_headers": [
+    "Pricing",
+    "Free tier",
+    "Languages",
+    "CRM sync",
+    "Our score"
+  ]
+}
