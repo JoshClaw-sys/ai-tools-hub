@@ -1447,5 +1447,51 @@
       "id": 4575824,
       "timestamp": "2026-09-04T15:48:47.698438+00:00"
     }
+  },
+  "best-ai-project-management-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-05T04:39:53.230613+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-05T04:40:28.230821+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-05T04:40:28.230882+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-project-management-tool-2026-tested-picks-real-world-reviews-l6e",
+      "id": 4579457,
+      "timestamp": "2026-09-05T04:40:29.554870+00:00"
+    }
+  },
+  "best-ai-legal-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-05T04:41:44.961321+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-05T04:42:19.961624+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-05T04:42:19.961702+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-legal-tool-2026-tested-picks-real-world-reviews-3p4c",
+      "id": 4579479,
+      "timestamp": "2026-09-05T04:42:21.543873+00:00"
+    }
   }
 }
