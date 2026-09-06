@@ -1493,5 +1493,51 @@
       "id": 4579479,
       "timestamp": "2026-09-05T04:42:21.543873+00:00"
     }
+  },
+  "best-ai-sql-tools-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-06T04:34:37.078816+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-06T04:35:12.079104+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-06T04:35:12.079168+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-sql-tools-in-2026-tested-picks-real-world-reviews-5d03",
+      "id": 4585762,
+      "timestamp": "2026-09-06T04:35:13.602695+00:00"
+    }
+  },
+  "best-small-language-model-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-06T04:36:28.548670+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-06T04:37:03.548863+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-06T04:37:03.548920+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-small-language-models-in-2026-on-device-edge-ai-picks-5d40",
+      "id": 4585773,
+      "timestamp": "2026-09-06T04:37:04.812341+00:00"
+    }
   }
 }
