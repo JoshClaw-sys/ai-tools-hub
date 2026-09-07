@@ -1539,5 +1539,51 @@
       "id": 4585773,
       "timestamp": "2026-09-06T04:37:04.812341+00:00"
     }
+  },
+  "best-ai-meeting-summarizer-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-07T04:34:32.684024+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-07T04:35:07.684348+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-07T04:35:07.684401+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-meeting-summarizers-in-2026-tested-picks-real-world-reviews-1bb9",
+      "id": 4591834,
+      "timestamp": "2026-09-07T04:35:09.530545+00:00"
+    }
+  },
+  "best-ai-lead-generation-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-07T04:36:59.590209+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-07T04:37:34.590482+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-07T04:37:34.590550+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-lead-generation-tools-in-2026-tested-picks-real-world-reviews-ago",
+      "id": 4591851,
+      "timestamp": "2026-09-07T04:37:35.996796+00:00"
+    }
   }
 }
