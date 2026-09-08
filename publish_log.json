@@ -1585,5 +1585,74 @@
       "id": 4591851,
       "timestamp": "2026-09-07T04:37:35.996796+00:00"
     }
+  },
+  "best-ai-presentation-maker-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-08T04:38:21.902565+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-08T04:38:56.902893+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-08T04:38:56.902947+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-presentation-makers-in-2026-tested-picks-real-world-reviews-4bbc",
+      "id": 4602691,
+      "timestamp": "2026-09-08T04:37:19.366489+00:00"
+    }
+  },
+  "best-ai-for-finance-and-accounting-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-08T04:39:38.432683+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-08T04:40:13.432939+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-08T04:40:13.433002+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-finance-and-accounting-in-2026-ranked-verified-adh",
+      "id": 4602707,
+      "timestamp": "2026-09-08T04:40:15.276650+00:00"
+    }
+  },
+  "best-ai-tools-for-podcasters-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-08T04:41:31.523220+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-08T04:42:06.523519+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-08T04:42:06.523579+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-podcasters-in-2026-real-picks-from-working-studios-4fm5",
+      "id": 4602726,
+      "timestamp": "2026-09-08T04:42:07.992923+00:00"
+    }
   }
 }
