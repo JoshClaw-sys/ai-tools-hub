@@ -572,18 +572,24 @@
     "slug": "best-ai-presentation-maker-2026",
     "category": "productivity",
     "status": "todo",
-    "topic": "best AI presentation maker 2026"
+    "topic": "best AI presentation maker 2026",
+    "done": true,
+    "done_at": "2026-09-08T04:31:05.830968+00:00"
   },
   {
     "slug": "best-ai-finance-accounting-2026",
     "category": "business",
     "status": "todo",
-    "topic": "best AI for finance and accounting 2026"
+    "topic": "best AI for finance and accounting 2026",
+    "done": true,
+    "done_at": "2026-09-08T04:31:05.831483+00:00"
   },
   {
     "slug": "best-ai-for-podcasters-2026",
     "category": "voice-audio",
     "status": "todo",
-    "topic": "best AI tools for podcasters 2026"
+    "topic": "best AI tools for podcasters 2026",
+    "done": true,
+    "done_at": "2026-09-08T04:31:05.832008+00:00"
   }
 ]
