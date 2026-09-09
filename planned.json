@@ -591,5 +591,21 @@
     "topic": "best AI tools for podcasters 2026",
     "done": true,
     "done_at": "2026-09-08T04:31:05.832008+00:00"
+  },
+  {
+    "slug": "best-ai-sales-coaching-tool-2026",
+    "topic": "best AI sales coaching tool 2026",
+    "category": "business",
+    "status": "todo",
+    "done": true,
+    "done_at": "2026-09-09T04:31:26.840863+00:00"
+  },
+  {
+    "slug": "best-ai-therapy-and-mental-health-app-2026",
+    "topic": "best AI therapy and mental health app 2026",
+    "category": "productivity",
+    "status": "todo",
+    "done": true,
+    "done_at": "2026-09-09T04:31:26.841450+00:00"
   }
 ]
