@@ -1654,5 +1654,51 @@
       "id": 4602726,
       "timestamp": "2026-09-08T04:42:07.992923+00:00"
     }
+  },
+  "best-ai-sales-coaching-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-09T04:35:52.484360+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-09T04:36:27.484770+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-09T04:36:27.484825+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-sales-coaching-tool-2026-tested-picks-real-world-reviews-1gc1",
+      "id": 4611103,
+      "timestamp": "2026-09-09T04:36:29.034105+00:00"
+    }
+  },
+  "best-ai-therapy-and-mental-health-app-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-09T04:37:44.659072+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-09T04:38:19.659282+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-09T04:38:19.659340+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-therapy-and-mental-health-app-2026-tested-picks-real-world-reviews-1ch1",
+      "id": 4611114,
+      "timestamp": "2026-09-09T04:38:21.330897+00:00"
+    }
   }
 }
