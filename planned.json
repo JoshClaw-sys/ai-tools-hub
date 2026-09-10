@@ -607,5 +607,21 @@
     "status": "done",
     "done": true,
     "done_at": "2026-09-09T04:31:26.841450+00:00"
+  },
+  {
+    "topic": "ai dictation tool",
+    "category": "productivity",
+    "status": "done",
+    "slug": "ai-dictation-tool",
+    "done": true,
+    "done_at": "2026-09-10T04:32:37.806762+00:00"
+  },
+  {
+    "topic": "ai diagramming tool",
+    "category": "productivity",
+    "status": "done",
+    "slug": "ai-diagramming-tool",
+    "done": true,
+    "done_at": "2026-09-10T04:32:37.807179+00:00"
   }
 ]
