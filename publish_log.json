@@ -1700,5 +1700,51 @@
       "id": 4611114,
       "timestamp": "2026-09-09T04:38:21.330897+00:00"
     }
+  },
+  "ai-dictation-tool": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-10T04:40:14.976128+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-10T04:40:49.976385+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-10T04:40:49.976449+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-dictation-tool-2026-tested-picks-real-world-reviews-1oco",
+      "id": 4619392,
+      "timestamp": "2026-09-10T04:40:51.471872+00:00"
+    }
+  },
+  "ai-diagramming-tool": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-10T04:42:29.717335+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-10T04:43:04.717603+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-10T04:43:04.717671+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-diagramming-tool-2026-tested-picks-real-world-reviews-1c2e",
+      "id": 4619398,
+      "timestamp": "2026-09-10T04:43:05.885840+00:00"
+    }
   }
 }
