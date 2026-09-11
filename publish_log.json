@@ -1746,5 +1746,51 @@
       "id": 4619398,
       "timestamp": "2026-09-10T04:43:05.885840+00:00"
     }
+  },
+  "best-ai-meeting-note-taker-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-11T04:36:42.569617+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-11T04:37:17.569830+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-11T04:37:17.569901+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-meeting-note-taker-2026-tested-picks-real-world-reviews-5d5g",
+      "id": 4628452,
+      "timestamp": "2026-09-11T04:37:19.096532+00:00"
+    }
+  },
+  "best-ai-subtitle-and-caption-generator-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-11T04:38:29.257826+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-11T04:39:04.258067+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-11T04:39:04.258124+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-subtitle-and-caption-generator-2026-tested-picks-real-world-reviews-4jim",
+      "id": 4628463,
+      "timestamp": "2026-09-11T04:39:05.743544+00:00"
+    }
   }
 }
