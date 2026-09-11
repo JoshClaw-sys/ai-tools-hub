@@ -623,5 +623,28 @@
     "slug": "ai-diagramming-tool",
     "done": true,
     "done_at": "2026-09-10T04:32:37.807179+00:00"
+  },
+  {
+    "slug": "best-ai-meeting-note-taker-2026",
+    "topic": "best AI meeting note taker 2026",
+    "category": "productivity",
+    "status": "todo",
+    "done": true,
+    "done_at": "2026-09-11T04:31:23.339956+00:00"
+  },
+  {
+    "slug": "best-ai-subtitle-and-caption-generator-2026",
+    "topic": "best AI subtitle and caption generator 2026",
+    "category": "video",
+    "status": "todo",
+    "done": true,
+    "done_at": "2026-09-11T04:31:23.340426+00:00"
+  },
+  {
+    "slug": "best-ai-product-description-generator-2026",
+    "topic": "best AI product description generator 2026",
+    "category": "writing",
+    "status": "todo",
+    "done": false
   }
 ]
