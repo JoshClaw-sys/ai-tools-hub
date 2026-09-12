@@ -643,8 +643,25 @@
   {
     "slug": "best-ai-product-description-generator-2026",
     "topic": "best AI product description generator 2026",
-    "category": "writing",
+    "category": "writing-tools",
     "status": "todo",
-    "done": false
+    "done": true,
+    "done_at": "2026-09-12T04:32:05.903239+00:00"
+  },
+  {
+    "slug": "best-ai-translation-tools-2026",
+    "topic": "best AI translation tools 2026",
+    "category": "translation",
+    "status": "todo",
+    "done": true,
+    "done_at": "2026-09-12T04:32:05.903712+00:00"
+  },
+  {
+    "slug": "best-ai-voice-cloning-tools-2026",
+    "topic": "best AI voice cloning tools 2026",
+    "category": "voice-audio",
+    "status": "todo",
+    "done": true,
+    "done_at": "2026-09-12T04:32:05.904153+00:00"
   }
 ]
