@@ -1861,5 +1861,51 @@
       "id": 4636350,
       "timestamp": "2026-09-12T04:42:04.286259+00:00"
     }
+  },
+  "ai-email-marketing-tools": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-13T04:47:09.748047+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-13T04:47:44.748328+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-13T04:47:44.748390+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/5-best-ai-email-marketing-tools-in-2026-tested-picks-real-world-reviews-2ii4",
+      "id": 4642143,
+      "timestamp": "2026-09-13T04:47:45.987367+00:00"
+    }
+  },
+  "ai-podcast-transcription-tools": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-13T04:51:30.586557+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-13T04:52:05.586804+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-13T04:52:05.586866+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/5-best-ai-podcast-transcription-tools-in-2026-tested-picks-real-world-reviews-ldk",
+      "id": 4642149,
+      "timestamp": "2026-09-13T04:50:35.762478+00:00"
+    }
   }
 }
