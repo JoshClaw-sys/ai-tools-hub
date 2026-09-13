@@ -667,17 +667,17 @@
   {
     "slug": "ai-email-marketing-tools",
     "category": "business",
-    "status": "todo",
+    "status": "done",
     "topic": "AI email marketing tools",
     "done": true,
-    "done_at": "2026-09-13T04:32:35.247008+00:00"
+    "done_at": "2026-09-13T04:44:40.270893+00:00"
   },
   {
     "slug": "ai-podcast-transcription-tools",
     "category": "productivity",
-    "status": "todo",
+    "status": "done",
     "topic": "AI podcast transcription tools",
     "done": true,
-    "done_at": "2026-09-13T04:32:35.247475+00:00"
+    "done_at": "2026-09-13T04:44:40.270924+00:00"
   }
 ]
