@@ -1907,5 +1907,51 @@
       "id": 4642149,
       "timestamp": "2026-09-13T04:50:35.762478+00:00"
     }
+  },
+  "best-ai-tools-for-graphic-design-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-14T04:38:12.194517+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-14T04:38:47.194749+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-14T04:38:47.194809+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-graphic-design-2026-tested-picks-real-world-reviews-4f3k",
+      "id": 4646986,
+      "timestamp": "2026-09-14T04:37:14.234139+00:00"
+    }
+  },
+  "best-ai-tools-for-real-estate-agents-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-14T04:39:53.048853+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-14T04:40:28.049103+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-14T04:40:28.049160+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-real-estate-agents-2026-tested-picks-real-world-reviews-13mj",
+      "id": 4647006,
+      "timestamp": "2026-09-14T04:40:29.276779+00:00"
+    }
   }
 }
