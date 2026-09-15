@@ -1953,5 +1953,51 @@
       "id": 4647006,
       "timestamp": "2026-09-14T04:40:29.276779+00:00"
     }
+  },
+  "best-ai-voice-changer-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-15T04:35:48.785228+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-15T04:36:23.785452+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-15T04:36:23.785509+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-voice-changer-2026-tested-picks-real-world-reviews-265d",
+      "id": 4655025,
+      "timestamp": "2026-09-15T04:36:24.973501+00:00"
+    }
+  },
+  "best-ai-interior-design-tool-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-15T04:37:37.790332+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-15T04:38:12.790599+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-15T04:38:12.790684+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-interior-design-tool-2026-tested-picks-real-world-reviews-4f7l",
+      "id": 4655036,
+      "timestamp": "2026-09-15T04:38:14.037565+00:00"
+    }
   }
 }
