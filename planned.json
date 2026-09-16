@@ -716,13 +716,15 @@
     "topic": "best AI tools for teachers 2026",
     "category": "education",
     "done": true,
-    "done_at": "2026-09-16T04:30:50.289977+00:00"
+    "done_at": "2026-09-16T04:30:50.289977+00:00",
+    "status": "done"
   },
   {
     "topic": "best AI contract review and legal assistant tools 2026",
     "category": "business",
     "done": true,
-    "done_at": "2026-09-16T04:30:50.290473+00:00"
+    "done_at": "2026-09-16T04:30:50.290473+00:00",
+    "status": "done"
   },
   {
     "topic": "best AI workout and fitness coaching apps 2026",
