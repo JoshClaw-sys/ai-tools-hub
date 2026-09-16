@@ -1999,5 +1999,51 @@
       "id": 4655036,
       "timestamp": "2026-09-15T04:38:14.037565+00:00"
     }
+  },
+  "best-ai-tools-for-teachers-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-16T04:32:41.719196+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-16T04:33:16.719435+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-16T04:33:16.719501+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-teachers-2026-tested-picks-real-classroom-reviews-5gn",
+      "id": 4663673,
+      "timestamp": "2026-09-16T04:33:18.124319+00:00"
+    }
+  },
+  "best-ai-contract-review-and-legal-assistant-tools-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-16T04:34:28.283071+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-16T04:35:03.283332+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-16T04:35:03.283391+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-contract-review-and-legal-assistant-tools-2026-tested-picks-real-law-firm-reviews-4mcj",
+      "id": 4663693,
+      "timestamp": "2026-09-16T04:35:04.248980+00:00"
+    }
   }
 }
