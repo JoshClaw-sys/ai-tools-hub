@@ -2045,5 +2045,51 @@
       "id": 4663693,
       "timestamp": "2026-09-16T04:35:04.248980+00:00"
     }
+  },
+  "best-ai-workout-and-fitness-coaching-apps-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-17T07:24:59.586370+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-17T07:25:34.586678+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-17T07:25:34.586750+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-workout-and-fitness-coaching-apps-2026-tested-picks-real-world-reviews-13oa",
+      "id": 4673590,
+      "timestamp": "2026-09-17T07:25:35.849234+00:00"
+    }
+  },
+  "best-ai-image-upscalers-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-17T07:27:24.090661+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-17T07:27:59.090949+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-17T07:27:59.091068+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-image-upscalers-2026-tested-picks-real-world-reviews-2ho9",
+      "id": 4673615,
+      "timestamp": "2026-09-17T07:28:00.450437+00:00"
+    }
   }
 }
