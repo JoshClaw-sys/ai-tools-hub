@@ -730,12 +730,14 @@
     "topic": "best AI workout and fitness coaching apps 2026",
     "category": "productivity",
     "done": true,
-    "done_at": "2026-09-17T07:18:57.505097+00:00"
+    "done_at": "2026-09-17T07:18:57.505097+00:00",
+    "status": "done"
   },
   {
     "topic": "best AI image upscalers 2026",
     "category": "image-editing",
     "done": true,
-    "done_at": "2026-09-17T07:18:57.505729+00:00"
+    "done_at": "2026-09-17T07:18:57.505729+00:00",
+    "status": "done"
   }
 ]
