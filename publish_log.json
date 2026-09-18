@@ -2091,5 +2091,51 @@
       "id": 4673615,
       "timestamp": "2026-09-17T07:28:00.450437+00:00"
     }
+  },
+  "best-ai-sales-tools-and-crms-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-18T04:34:33.768747+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-18T04:35:08.768941+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-18T04:35:08.768997+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-sales-tools-and-crms-in-2026-tested-picks-real-world-reviews-1kl4",
+      "id": 4681070,
+      "timestamp": "2026-09-18T04:35:10.143183+00:00"
+    }
+  },
+  "best-ai-presentation-makers-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-18T04:36:43.935252+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-18T04:37:18.935482+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-18T04:37:18.935538+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-presentation-makers-in-2026-tested-picks-real-world-reviews-3kea",
+      "id": 4681086,
+      "timestamp": "2026-09-18T04:37:20.254273+00:00"
+    }
   }
 }
