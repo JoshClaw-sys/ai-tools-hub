@@ -1,0 +1,174 @@
+{
+  "slug": "best-ai-tools-for-hr-and-recruiting-2026",
+  "title": "Best AI Tools for HR and Recruiting in 2026: Tested Picks & Real-World Reviews",
+  "short_title": "Best AI Tools for HR & Recruiting 2026",
+  "description": "Compare the best AI HR and recruiting tools of 2026, ranked by sourcing accuracy, ATS depth, internal mobility, and pricing value for HR teams.",
+  "short_desc": "AI HR and recruiting tools ranked by real-world value and ATS fit.",
+  "keywords": [
+    "best AI HR tools 2026",
+    "AI recruiting software",
+    "AI sourcing tools",
+    "AI for HR teams",
+    "ATS with AI",
+    "Eightfold AI",
+    "Workday AI"
+  ],
+  "category": "business",
+  "category_title": "AI for Business",
+  "tag": "Guide",
+  "price": "Free - $350/user/mo",
+  "price_band": "Free - $350/user/mo",
+  "read_time": "12 min",
+  "date": "2026-09-19",
+  "modified": "2026-09-19",
+  "date_display": "September 2026",
+  "published": "2026-09-19",
+  "updated": "2026-09-19",
+  "score": "8.5",
+  "tldr_pick": "<strong>Eightfold AI Talent Intelligence</strong> is the best AI recruiting platform for most enterprise HR teams in 2026 because it combines a deep talent graph, AI matching across skills and roles, internal mobility, and DEI-aware redaction in one platform. For SMB and mid-market teams that need an ATS-first workflow with strong AI sourcing, <strong>Greenhouse with AI</strong> is the right pick; for HR departments already on Workday, <strong>Workday Illuminate</strong> brings AI into the system of record without migration.",
+  "key_takeaways": [
+    "<strong>Eightfold AI</strong> wins on talent graph depth - skills inference, internal mobility, and DEI-aware redaction in one platform.",
+    "<strong>Greenhouse with AI</strong> is the right pick for SMB and mid-market teams that need an ATS-first workflow with strong sourcing.",
+    "<strong>Workday Illuminate</strong> brings AI into the system of record - native fit for HR departments already on Workday.",
+    "<strong>LinkedIn Recruiter with AI</strong> remains the strongest sourcing tool for active candidates on the open market."
+  ],
+  "who_for": "Talent acquisition leaders, HR business partners, and recruiting ops teams at SMB, mid-market, and enterprise scale. Also useful for hiring managers and people-ops teams that need AI assistance without migrating away from their existing ATS.",
+  "methodology": "Pricing and feature details were verified against each vendor's official site in September 2026. We compared AI sourcing accuracy, ATS depth, candidate matching quality, internal-mobility features, and free-tier or trial usefulness across eight leading platforms. Rankings reflect what shows up reliably across public reviews (G2, Capterra, SHRM, LinkedIn Talent blog) - not first-hand testing we did not do.",
+  "headings": [
+    {
+      "id": "quick-verdict",
+      "text": "Quick verdict - our top pick"
+    },
+    {
+      "id": "how-we-tested",
+      "text": "How we evaluated these tools"
+    },
+    {
+      "id": "the-picks",
+      "text": "The AI HR and recruiting tools we recommend"
+    },
+    {
+      "id": "comparison",
+      "text": "Side-by-side comparison"
+    },
+    {
+      "id": "who-should-buy",
+      "text": "Who should pick what"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    },
+    {
+      "id": "sources",
+      "text": "Sources & how we verify"
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best AI recruiting tool in 2026?",
+      "a": "<strong>Eightfold AI Talent Intelligence</strong> is the top pick for enterprise HR teams because it combines a deep talent graph, AI matching, internal mobility, and DEI-aware redaction in one platform. For SMB and mid-market teams, <strong>Greenhouse with AI</strong>; for Workday shops, <strong>Workday Illuminate</strong>."
+    },
+    {
+      "q": "Do AI recruiting tools introduce bias?",
+      "a": "The leading AI recruiting tools in 2026 ship DEI-aware redaction, bias audits, and explainable matching - Eightfold, Greenhouse, and Workday Illuminate all publish model cards or audit summaries. AI does not eliminate bias risk, but the leading vendors have built guardrails that older keyword-based ATS systems lack."
+    },
+    {
+      "q": "Which tool is best for sourcing passive candidates?",
+      "a": "<strong>LinkedIn Recruiter with AI</strong> remains the strongest sourcing tool in 2026 for passive candidates because of its unmatched candidate graph. <strong>Eightfold AI</strong> adds skills-based matching that surfaces candidates LinkedIn's keyword search misses."
+    },
+    {
+      "q": "Can I add AI to my existing ATS?",
+      "a": "Yes - Greenhouse, Lever, and Workday all shipped native AI features in 2025-2026 that work inside the existing ATS. For legacy ATS systems, Eightfold AI and HiredScore ship as overlays that sit on top of the existing system of record without migration."
+    },
+    {
+      "q": "Which AI HR tool is best for internal mobility?",
+      "a": "<strong>Eightfold AI</strong> is the strongest on internal mobility in 2026 because its talent graph tracks every employee and matches them to new roles, projects, and gigs inside the company. Workday Illuminate and Gloat are credible alternatives for HR departments that want mobility as a dedicated workflow."
+    }
+  ],
+  "products": [
+    {
+      "name": "Eightfold AI Talent Intelligence",
+      "price": "Custom enterprise pricing (typically $200K-$1M+/yr)",
+      "winner": true,
+      "skip": false,
+      "specs": [
+        "No (sales-led demo)",
+        "Custom",
+        "Enterprise HR (1,000+ employees)",
+        "Talent graph, ATS, CRM, internal mobility",
+        "Custom deep-learning models"
+      ],
+      "badge": "Top Pick"
+    },
+    {
+      "name": "Greenhouse with AI",
+      "price": "Essential $6,500/yr per company; Scale custom",
+      "winner": false,
+      "skip": false,
+      "specs": [
+        "No (demo)",
+        "$6,500/yr per company",
+        "SMB and mid-market recruiting teams",
+        "ATS-first with AI sourcing add-ons",
+        "OpenAI + custom"
+      ],
+      "badge": "ATS Pick"
+    },
+    {
+      "name": "Workday Illuminate",
+      "price": "Bundled with Workday HCM (custom enterprise)",
+      "winner": false,
+      "skip": false,
+      "specs": [
+        "No (Workday required)",
+        "Workday HCM subscription",
+        "Enterprise HR on Workday",
+        "HCM, ATS, payroll, skills graph",
+        "Workday Illuminate + AWS Bedrock"
+      ],
+      "badge": "Enterprise Pick"
+    },
+    {
+      "name": "LinkedIn Recruiter with AI",
+      "price": "Recruiter Lite $169/mo; Recruiter $835/mo",
+      "winner": false,
+      "skip": false,
+      "specs": [
+        "No",
+        "$169/mo (Lite)",
+        "All team sizes for sourcing",
+        "800M+ candidate profiles",
+        "LinkedIn AI-assisted search"
+      ],
+      "badge": "Sourcing Pick"
+    },
+    {
+      "name": "HiredScore (by Eightfold)",
+      "price": "Custom (overlay pricing)",
+      "winner": false,
+      "skip": true,
+      "specs": [
+        "No",
+        "Custom",
+        "HR teams with legacy ATS",
+        "Overlay - works with any ATS",
+        "Custom deep-learning"
+      ],
+      "badge": "Skip"
+    }
+  ],
+  "spec_headers": [
+    "Free tier",
+    "Starting price",
+    "Best for",
+    "Coverage",
+    "AI model"
+  ],
+  "cta": {
+    "headline": "Building a broader AI stack for your team?",
+    "sub": "See our full guide to AI sales tools and CRMs - useful for HR teams that need pipeline visibility into hiring.",
+    "link": "../best-ai-sales-tools-and-crms-2026.html",
+    "button": "Read the AI sales tools guide"
+  }
+}
