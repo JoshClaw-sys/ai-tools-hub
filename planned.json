@@ -757,18 +757,19 @@
   {
     "topic": "best AI data visualization tools 2026",
     "category": "data-analysis",
-    "slug": "best-ai-data-visualization-tools-2026"
+    "slug": "best-ai-data-visualization-tools-2026",
+    "status": "done"
   },
   {
     "topic": "best AI tools for HR and recruiting 2026",
     "category": "business",
-    "status": "todo",
+    "status": "done",
     "slug": "best-ai-tools-for-hr-and-recruiting-2026"
   },
   {
     "topic": "best AI project management tools 2026",
     "category": "productivity",
-    "status": "todo",
+    "status": "done",
     "slug": "best-ai-tools-for-project-management-2026"
   }
 ]
