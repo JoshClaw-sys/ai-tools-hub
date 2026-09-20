@@ -2206,5 +2206,51 @@
       "id": 4690489,
       "timestamp": "2026-09-19T04:40:34.838725+00:00"
     }
+  },
+  "best-ai-cybersecurity-tools-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-20T04:33:18.317595+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-20T04:33:53.317842+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-20T04:33:53.317896+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-cybersecurity-tools-2026-tested-picks-real-world-reviews-5f20",
+      "id": 4697558,
+      "timestamp": "2026-09-20T04:33:57.127945+00:00"
+    }
+  },
+  "best-ai-tools-for-customer-support-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-20T04:35:09.605965+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-20T04:35:44.606154+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-20T04:35:44.606208+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-customer-support-2026-tested-picks-real-world-reviews-nd6",
+      "id": 4697564,
+      "timestamp": "2026-09-20T04:35:46.101451+00:00"
+    }
   }
 }

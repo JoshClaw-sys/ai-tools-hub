@@ -779,13 +779,17 @@
   {
     "slug": "best-ai-cybersecurity-tools-2026",
     "category": "business",
-    "status": "todo",
-    "topic": "best AI cybersecurity tools 2026"
+    "status": "done",
+    "topic": "best AI cybersecurity tools 2026",
+    "done": true,
+    "done_at": "2026-09-20T04:37:08.480918+00:00"
   },
   {
     "slug": "best-ai-tools-for-customer-support-2026",
     "category": "business",
-    "status": "todo",
-    "topic": "best ai tools for customer support 2026"
+    "status": "done",
+    "topic": "best ai tools for customer support 2026",
+    "done": true,
+    "done_at": "2026-09-20T04:37:08.480940+00:00"
   }
 ]
