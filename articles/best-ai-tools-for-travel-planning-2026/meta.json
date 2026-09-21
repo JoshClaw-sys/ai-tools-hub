@@ -1,0 +1,215 @@
+{
+  "slug": "best-ai-tools-for-travel-planning-2026",
+  "title": "Best AI Tools for Travel Planning in 2026: Mindtrip vs Layla vs Wonderplan",
+  "short_title": "Best AI Travel Planning Tools 2026",
+  "description": "Mindtrip, Layla, Wonderplan, and Roam Around lead 2026 AI travel planning. We compare features, business models, and best-fit use cases for every traveler type.",
+  "short_desc": "Mindtrip, Layla, Wonderplan, Roam Around compared. Real 2026 pricing and features.",
+  "keywords": [
+    "best AI travel planning tools 2026",
+    "Mindtrip AI review",
+    "Layla travel planner",
+    "AI itinerary generator",
+    "Wonderplan",
+    "Roam Around travel",
+    "AI trip planner"
+  ],
+  "category": "productivity",
+  "tag": "Productivity",
+  "price": "Free - $99/year",
+  "read_time": "12 min",
+  "date": "2026-09-21",
+  "modified": "2026-09-21",
+  "date_display": "September 2026",
+  "score": "8.5",
+  "tldr_pick": "<strong>Mindtrip</strong> is the best all-around AI travel planner in 2026 — chat-based with shared itineraries, map integration, and a clean free tier. <strong>Layla</strong> is the right pick for WhatsApp-first travelers. <strong>Wonderplan</strong> wins for backpackers who want detailed hour-by-hour itineraries. <strong>Roam Around</strong> is the mobile-first choice.",
+  "key_takeaways": [
+    "<strong>Mindtrip</strong> leads the dedicated AI travel planner category with save-and-share itineraries",
+    "<strong>Layla</strong> (formerly BeautifulTrip) is the best multi-channel option with WhatsApp and iOS",
+    "<strong>Wonderplan</strong> generates the most detailed multi-day itineraries for backpackers",
+    "<strong>Roam Around</strong> is mobile-first and great for city-by-city curation"
+  ],
+  "who_for": "Anyone planning a trip — solo travelers, couples, families, group trips. Especially relevant for multi-city itineraries, group collaboration, and travelers who want to plan in WhatsApp or on mobile.",
+  "methodology": "We aggregated 2026 reviews from youngju.dev, product reviews on G2 and Product Hunt, and direct vendor documentation. We compared the leading dedicated AI travel planners on itinerary detail, collaboration features, multi-channel support, and free vs paid tier usefulness. Not a hands-on benchmark — try the free tiers before committing.",
+  "test_days": "N/A (editorial review)",
+  "tools_tested": "4 (Mindtrip, Layla, Wonderplan, Roam Around)",
+  "prompts": "N/A",
+  "headings": [
+    {
+      "id": "quick-verdict",
+      "text": "Quick verdict — our top picks"
+    },
+    {
+      "id": "how-we-tested",
+      "text": "How we picked (methodology)"
+    },
+    {
+      "id": "the-picks",
+      "text": "The AI travel planners we recommend"
+    },
+    {
+      "id": "comparison",
+      "text": "Side-by-side comparison"
+    },
+    {
+      "id": "who-should-buy",
+      "text": "Who should pick what"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best AI travel planner in 2026?",
+      "a": "For most travelers, Mindtrip is the best all-around AI travel planner in 2026 — chat-based planning with shared itineraries, map integration, and OTA commissions baked in. For WhatsApp-first travelers, Layla (formerly BeautifulTrip) is the right pick. For backpackers who want detailed hour-by-hour itineraries, Wonderplan is the strongest free option. For mobile-first city-by-city curation, Roam Around is the choice."
+    },
+    {
+      "q": "Are AI travel planners free?",
+      "a": "Most dedicated AI travel planners offer generous free tiers in 2026. Mindtrip is free with optional premium features. Layla offers a free tier with commission-based monetization. Wonderplan has a generous free tier with ads. Roam Around is free with ads and optional commission booking. For business travelers who want auto-parsed itineraries from email, TripIt remains the standard (free with Pro at $49/year)."
+    },
+    {
+      "q": "Can AI travel planners book flights and hotels?",
+      "a": "Yes — most dedicated AI travel planners in 2026 integrate with OTAs (Booking.com, Expedia, Agoda) and can book directly. Mindtrip and Layla have the deepest booking integrations. Wonderplan focuses on itinerary detail rather than booking. Roam Around and GuideGeek lean toward instant recommendations rather than end-to-end booking."
+    },
+    {
+      "q": "Should I use a dedicated AI travel planner or ChatGPT?",
+      "a": "For a one-off question like 'plan me a 5-night itinerary in Bali', ChatGPT or Gemini will give you a usable draft in 30 seconds. For ongoing trip planning with shareable itineraries, map integration, booking, and group collaboration, a dedicated AI travel planner like Mindtrip is the better tool. The dedicated tools also remember your preferences across trips."
+    },
+    {
+      "q": "Do AI travel planners work for group trips?",
+      "a": "Mindtrip has the best group collaboration features in 2026 — shared itineraries where friends can edit the same plan. Wonderplan and Layla offer limited sharing. Roam Around is single-user focused. For complex group trips with multiple stakeholders, Mindtrip is the right shape."
+    }
+  ],
+  "products": [
+    {
+      "name": "Mindtrip",
+      "tag": "Top Pick · All-Around",
+      "pricing": "Free (commission-based booking)",
+      "best_for": "Most travelers who want chat-based planning with shared itineraries",
+      "specs": [
+        "Chat-based itinerary builder",
+        "Save-and-share itineraries with edit permissions",
+        "Map integration with hotel/flight/activity inventory",
+        "Free tier with optional premium features",
+        "OTA commission + B2B API monetization",
+        "Founded 2023, $60M Series B in 2025"
+      ],
+      "pros": [
+        "Best-in-class save-and-share for group trips",
+        "Map integration puts everything in one screen",
+        "Founded by Mondee alumni — deep travel industry experience",
+        "Free tier is genuinely useful, not crippled"
+      ],
+      "cons": [
+        "Smaller user base than Layla or Wonderplan",
+        "Premium features are still rolling out in 2026",
+        "Mobile app is newer than web — desktop is the polished surface"
+      ]
+    },
+    {
+      "name": "Layla",
+      "tag": "Multi-Channel Leader",
+      "pricing": "Free (commission-based) · Premium subscription tier",
+      "best_for": "Travelers who plan via WhatsApp, iOS, or web interchangeably",
+      "specs": [
+        "Multi-channel: WhatsApp, iOS, web",
+        "Flights, hotels, and itineraries in one chat",
+        "Premium 'AI Travel Concierge' pivot (2024)",
+        "Free tier with commission monetization",
+        "UK-based, launched 2023 as BeautifulTrip",
+        "Premium subscription tier available"
+      ],
+      "pros": [
+        "WhatsApp integration is unique in the category",
+        "Single chat for flights, hotels, and itinerary",
+        "Strong for international travelers (UK-centric content)",
+        "Premium concierge tier for hands-off planning"
+      ],
+      "cons": [
+        "Premium pivot in 2024 raised prices for some features",
+        "Smaller inventory than Booking.com or Expedia",
+        "Less polished share-and-edit flow than Mindtrip"
+      ]
+    },
+    {
+      "name": "Wonderplan",
+      "tag": "Best Free · Backpacker",
+      "pricing": "Free with ads · Premium tier available",
+      "best_for": "Backpackers and travelers who want detailed hour-by-hour itineraries",
+      "specs": [
+        "Hour-by-hour multi-day itineraries",
+        "Input: city, dates, interests",
+        "Clean UI with generous free tier",
+        "Ad-supported with premium tier",
+        "Strong backpacker community",
+        "Free for most use cases"
+      ],
+      "pros": [
+        "Most detailed itinerary output in the category",
+        "Generous free tier — most features unlocked",
+        "Strong for budget travelers and backpackers",
+        "Output quality is high for hour-by-hour planning"
+      ],
+      "cons": [
+        "Ad-supported free tier can feel cluttered",
+        "Booking integration is lighter than Mindtrip or Layla",
+        "Group collaboration features are limited"
+      ]
+    },
+    {
+      "name": "Roam Around",
+      "tag": "Mobile-First",
+      "pricing": "Free with ads · Optional commission booking",
+      "best_for": "Travelers who plan on mobile, city-by-city",
+      "specs": [
+        "Mobile-first design",
+        "City-by-city curation",
+        "Went viral in 2023 as ChatGPT wrapper",
+        "Matured into standalone product 2024-2025",
+        "Free tier with ads",
+        "Optional commission-based booking"
+      ],
+      "pros": [
+        "Mobile experience is the strongest in the category",
+        "City-by-city curation is well-curated for popular destinations",
+        "Free tier is functional for solo travelers",
+        "Maturing fast — improving every quarter in 2026"
+      ],
+      "cons": [
+        "Single-user focused — no group collaboration",
+        "Booking integration is optional, not core",
+        "Less polished desktop experience"
+      ]
+    },
+    {
+      "name": "ChatGPT (as a starting point)",
+      "tag": "Skip for Full Planning",
+      "pricing": "Free / $20/mo Plus",
+      "best_for": "Skip for full trip planning — use Mindtrip or Layla instead",
+      "specs": [
+        "General LLM, not travel-specific",
+        "No booking integration",
+        "No save-and-share features",
+        "No map integration",
+        "Limited memory across trips"
+      ],
+      "pros": [
+        "Good for first-pass itinerary drafts",
+        "Fast for quick questions about destinations"
+      ],
+      "cons": [
+        "Cannot book flights, hotels, or activities",
+        "No group collaboration",
+        "No map integration",
+        "Not specialized for travel — better tools exist"
+      ]
+    }
+  ],
+  "spec_headers": [
+    "Pricing",
+    "Best For",
+    "Channel",
+    "Free Tier"
+  ]
+}

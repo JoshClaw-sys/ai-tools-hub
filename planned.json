@@ -774,7 +774,8 @@
     "topic": "best AI project management tools 2026",
     "category": "productivity",
     "status": "done",
-    "slug": "best-ai-tools-for-project-management-2026"
+    "slug": "best-ai-tools-for-project-management-2026",
+    "done": true
   },
   {
     "slug": "best-ai-cybersecurity-tools-2026",
@@ -791,5 +792,21 @@
     "topic": "best ai tools for customer support 2026",
     "done": true,
     "done_at": "2026-09-20T04:37:08.480940+00:00"
+  },
+  {
+    "topic": "best AI voice agents 2026",
+    "category": "voice-audio",
+    "slug": "best-ai-voice-agents-2026",
+    "status": "todo",
+    "done": true,
+    "done_at": "2026-09-21T04:31:48.196842+00:00"
+  },
+  {
+    "topic": "best AI tools for travel planning 2026",
+    "category": "productivity",
+    "slug": "best-ai-tools-for-travel-planning-2026",
+    "status": "todo",
+    "done": true,
+    "done_at": "2026-09-21T04:31:48.197393+00:00"
   }
 ]
