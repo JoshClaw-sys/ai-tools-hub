@@ -2252,5 +2252,51 @@
       "id": 4697564,
       "timestamp": "2026-09-20T04:35:46.101451+00:00"
     }
+  },
+  "best-ai-voice-agents-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-21T04:37:06.217517+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-21T04:37:41.217819+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-21T04:37:41.217877+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-voice-agents-in-2026-vapi-vs-retell-vs-bland-vs-synthflow-5end",
+      "id": 4703430,
+      "timestamp": "2026-09-21T04:37:42.592879+00:00"
+    }
+  },
+  "best-ai-tools-for-travel-planning-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-21T04:38:52.746863+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-21T04:39:27.747050+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-21T04:39:27.747104+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-travel-planning-in-2026-mindtrip-vs-layla-vs-wonderplan-10ig",
+      "id": 4703446,
+      "timestamp": "2026-09-21T04:39:28.534100+00:00"
+    }
   }
 }
