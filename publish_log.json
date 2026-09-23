@@ -2344,5 +2344,51 @@
       "id": 4712012,
       "timestamp": "2026-09-22T04:37:22.714290+00:00"
     }
+  },
+  "best-ai-tools-for-content-creators-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-23T04:35:18.780875+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-23T04:35:53.781126+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-23T04:35:53.781180+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-tools-for-content-creators-2026-canva-notion-descript-opusclip-1a33",
+      "id": 4720928,
+      "timestamp": "2026-09-23T04:35:55.275150+00:00"
+    }
+  },
+  "best-ai-clip-generator-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-23T04:37:54.416497+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-23T04:38:29.416731+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-23T04:38:29.416787+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-clip-generator-2026-opusclip-vs-klap-vs-vizard-vs-submagic-40f4",
+      "id": 4720939,
+      "timestamp": "2026-09-23T04:38:30.109383+00:00"
+    }
   }
 }
