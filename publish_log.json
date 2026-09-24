@@ -2390,5 +2390,51 @@
       "id": 4720939,
       "timestamp": "2026-09-23T04:38:30.109383+00:00"
     }
+  },
+  "best-ai-avatar-generator-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-24T04:37:55.404460+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-24T04:38:30.404773+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-24T04:38:30.404844+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-avatar-generator-2026-synthesia-vs-heygen-vs-d-id-vs-hedra-1264",
+      "id": 4729336,
+      "timestamp": "2026-09-24T04:38:31.945271+00:00"
+    }
+  },
+  "best-ai-workflow-automation-for-sales-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-24T04:40:24.687995+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-24T04:40:59.688316+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-24T04:40:59.688378+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-workflow-automation-for-sales-2026-clay-vs-zapier-vs-make-vs-n8n-2hlj",
+      "id": 4729351,
+      "timestamp": "2026-09-24T04:41:01.996923+00:00"
+    }
   }
 }
