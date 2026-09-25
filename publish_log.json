@@ -2436,5 +2436,51 @@
       "id": 4729351,
       "timestamp": "2026-09-24T04:41:01.996923+00:00"
     }
+  },
+  "best-ai-landing-page-builder-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-25T04:33:55.450593+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-25T04:34:30.450783+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-25T04:34:30.450837+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-landing-page-builder-2026-tested-picks-for-marketers-founders-4pge",
+      "id": 4738164,
+      "timestamp": "2026-09-25T04:34:31.242742+00:00"
+    }
+  },
+  "best-ai-form-builder-2026": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-25T04:35:41.397525+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-25T04:36:16.397764+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-25T04:36:16.397814+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ai-form-builder-2026-survey-lead-intake-forms-tested-2f78",
+      "id": 4738174,
+      "timestamp": "2026-09-25T04:36:17.875921+00:00"
+    }
   }
 }
